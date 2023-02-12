@@ -18,20 +18,19 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      - name: run
-        run: |
-          ls -al
       - uses: actions/setup-python@v3
         with:
           python-version: "3.8"
-      - name: pipeline
+      - name: package install
         run: |
-          ls -al
-
-      # - name: commit and push
-      #   run: |
-      #     git config user.name hyunho1027
-      #     git config user.email ramanuzann@gmail.com
-      #     git add .
-      #     git commit -m "update log"
-      #     git push
+          pip install -r requirements.txt
+      - name: start pipeline
+        run: |
+          python pipeline.py --id ${{ secrets.LOTTO_ID}} --pw ${{ secrets.LOTTO_PW}}
+      - name: commit and push
+        run: |
+          git config user.name hyunho1027
+          git config user.email ramanuzann@gmail.com
+          git add .
+          git commit -m "update log"
+          git push
