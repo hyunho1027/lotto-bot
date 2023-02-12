@@ -26,7 +26,7 @@ jobs:
           python-version: "3.8"
       - name: pipeline
         run: |
-          pip install -r requirements.txt
+          ls -al
 
       # - name: commit and push
       #   run: |
