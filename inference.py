@@ -1,4 +1,4 @@
-import time, pathlib, os
+import time, pathlib, os, argparse
 
 from playwright.sync_api import Playwright, sync_playwright
 import pandas as pd
@@ -70,5 +70,9 @@ def inference(user_id, user_pw):
     #     buy(playwright, user_id, user_pw, pred)
 
 if __name__=="__main__":
-    pass
-    # inference("id", "pw")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--id")
+    parser.add_argument("--pw")
+    args = parser.parse_args()
+
+    inference(args.id, args.pw)
