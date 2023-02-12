@@ -66,8 +66,8 @@ def inference(user_id, user_pw):
     with open(os.path.join(root_path, cfg["log_path"], "log.txt"), "a") as f:
         f.write(f"[PRED] {n+1}: {pred}\n")
     
-    # with sync_playwright() as playwright:
-    #     buy(playwright, user_id, user_pw, pred)
+    with sync_playwright() as playwright:
+        buy(playwright, user_id, user_pw, pred)
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()
