@@ -8,7 +8,7 @@ from common import get_config, Model
 
 def buy(playwright: Playwright, user_id, user_pw, nums_list: list) -> None:
     # chrome 브라우저를 실행
-    browser = playwright.chromium.launch(headless=False)
+    browser = playwright.chromium.launch(headless=True)
     context = browser.new_context()
 
     # Open new page
