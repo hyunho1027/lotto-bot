@@ -24,6 +24,7 @@ jobs:
       - name: package install
         run: |
           pip install -r requirements.txt
+          playwright install
       - name: start pipeline
         run: |
           python pipeline.py --id ${{ secrets.LOTTO_ID}} --pw ${{ secrets.LOTTO_PW}}

@@ -58,7 +58,6 @@ def train():
     for p in ps:
         p.join()
 
-
 if __name__=="__main__":
     train()
 
