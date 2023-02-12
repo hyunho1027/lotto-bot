@@ -18,11 +18,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v3
+      - name: run
+        run: |
+          ls
+      - uses: actions/setup-python@v3
         with:
           python-version: "3.8"
-      - name: test
+      - name: pipeline
         run: |
           pip install -r requirements.txt
 
