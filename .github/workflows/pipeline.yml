@@ -33,5 +33,5 @@ jobs:
           git config user.name hyunho1027
           git config user.email ramanuzann@gmail.com
           git add .
-          git commit -m "update log"
+          git commit -m "workflow done"
           git push
