@@ -28,9 +28,6 @@ jobs:
       - name: start pipeline
         run: |
           python pipeline.py --id ${{ secrets.LOTTO_ID}} --pw ${{ secrets.LOTTO_PW}}
-      - uses: actions/labeler@v4
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
       - name: commit and push
         run: |
           git config user.name hyunho1027
