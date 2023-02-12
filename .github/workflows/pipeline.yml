@@ -18,7 +18,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      - name: Set up Python 3.10
+      - name: Set up Python 3.8
         uses: actions/setup-python@v3
         with:
           python-version: "3.8"
@@ -26,4 +26,4 @@ jobs:
       - name: test
         run: |
           ls
-          python --version
+          
