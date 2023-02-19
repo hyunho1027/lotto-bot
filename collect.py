@@ -26,6 +26,12 @@ def get_nums(drwNo: int):
     print(drwNo, ":", nums)
     return nums
 
+def get_last_round() -> int:
+    res = requests.get(URL)
+    soup = bs(res.text, "html.parser")
+    last_round = int(soup.find("div", "win_result").find("h4").find("strong").text.replace("회",""))
+    return last_round
+
 def collect():
     root_path = pathlib.Path(__file__).parent.resolve()
     cfg = get_config()
@@ -34,16 +40,15 @@ def collect():
         df = pd.read_csv(output_path)
     except:
         df = pd.DataFrame(columns=["w1", "w2", "w3", "w4", "w5", "w6", "b"])
-    history_len = len(df)
-    try:
-        while True:
-            nums = get_nums(history_len + 1)
-            df.loc[history_len] = nums
-            history_len += 1
-            with open(os.path.join(root_path, cfg["log_path"], "log.txt"), "a") as f:
-                f.write(f"[REAL] {history_len}: {nums}\n")
-    except:
-        df.to_csv(output_path, index=False)
+
+    last_round = get_last_round()
+    for i in range(len(df), last_round):
+        round = i+1
+        nums = get_nums(round)
+        df.loc[i] = nums
+        with open(os.path.join(root_path, cfg["log_path"], "log.txt"), "a") as f:
+            f.write(f"[REAL] {round}: {nums}\n")
+    df.to_csv(output_path, index=False)
 
 if __name__=="__main__":
     collect()
