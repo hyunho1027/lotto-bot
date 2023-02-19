@@ -3,13 +3,12 @@ name: Pipeline
 # Controls when the workflow will run
 on:
   # Allows you to run this workflow manually from the Actions tab
+  schedule:
+    - cron: '0 10 * * 6'
   workflow_dispatch:
-  #   schedule:
-  #     - cron: '0 10 * * 6'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   pipeline:
     # The type of runner that the job will run on
     runs-on: macos-12
@@ -33,5 +32,5 @@ jobs:
           git config user.name hyunho1027
           git config user.email ramanuzann@gmail.com
           git add .
-          git commit -m "workflow done"
+          git commit -m "workflow done [`date`]"
           git push
