@@ -15,7 +15,9 @@ def preprocess():
 
     # for one-hot encoding
     eye = np.eye(45)
-    onehot_data = eye[shift_data[:, :6]].sum(axis=1) + eye[shift_data[:, 6:]].sum(axis=1)*0.9 # bonus penalty
+    onehot_data = eye[shift_data[:, :6]].sum(axis=1)
+    if cfg["include_bonus"]:
+        onehot_data += eye[shift_data[:, 6:]].sum(axis=1)*0.9 # bonus penalty
     # pd.DataFrame(onehot_data).to_csv(os.path.join(root_path, cfg["data_path"], "onehot_data.csv"), index=False)
 
     window_size = cfg["window_size"] + 1
