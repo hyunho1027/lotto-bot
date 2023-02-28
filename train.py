@@ -47,11 +47,11 @@ def train_model(id, cfg, debug=True, shuffle=True):
         else:
             early_stop_cnt = 0
             min_valid_loss = valid_loss
+            m.save(cfg['model_path'])
 
         if early_stop_cnt == cfg['early_stop_threshold']:
             break
 
-    m.save(cfg['model_path'])
 
     last_week_inference = m.inference(to_tensor(all_x[-1]), to_tensor(all_y[-1]))
     print("last week inference:", last_week_inference)
