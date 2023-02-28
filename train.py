@@ -28,7 +28,8 @@ def train_model(id, cfg, debug=True, shuffle=True):
     train_x, train_y, valid_x, valid_y = map(to_tensor, [train_x, train_y, valid_x, valid_y])
 
     m = Model(id, cfg["input_dim"] * cfg["window_size"], cfg["hidden_dim"], cfg["output_dim"], cfg["learning_rate"])
-    for e in range(cfg['epoch']):
+    early_stop_cnt, min_valid_loss = 0, np.inf
+    for e in range(cfg['max_epoch']):
         batch_perm = np.random.permutation(len(train_x))
         train_x, train_y = map(lambda x: x[batch_perm], [train_x, train_y])
         train_loss = []
@@ -40,6 +41,16 @@ def train_model(id, cfg, debug=True, shuffle=True):
         if debug:
             print(f"{e} Epoch - train loss: {sum(train_loss)/len(train_loss):.4f} / valid_loss: {valid_loss:.4f} " +\
                 f"/ train_hit: {m.evaluate(train_x, train_y):.4f} / valid_hit: {m.evaluate(valid_x, valid_y):.4f}")
+        
+        if min_valid_loss < valid_loss:
+            early_stop_cnt += 1
+        else:
+            early_stop_cnt = 0
+            min_valid_loss = valid_loss
+
+        if early_stop_cnt == cfg['early_stop_threshold']:
+            break
+
     m.save(cfg['model_path'])
 
     last_week_inference = m.inference(to_tensor(all_x[-1]), to_tensor(all_y[-1]))
