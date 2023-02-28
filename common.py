@@ -31,8 +31,8 @@ class Model:
         self.optimizer = torch.optim.Adam(self.net.parameters(), lr=lr)
 
     def get_loss(self, x, y):
-        logit = self.net(x)
-        loss = F.mse_loss(logit, y).mean()
+        prob = self.net(x)
+        loss = F.binary_cross_entropy(prob, y).mean()
         return loss
     
     def optimize(self, x, y):
