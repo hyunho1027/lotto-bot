@@ -1,6 +1,9 @@
+import argparse
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
+
 def eda(ani=False):
     df = pd.read_csv("data/raw_data.csv")
     if ani:
@@ -20,5 +23,9 @@ def eda(ani=False):
     plt.show()
 
 if __name__=="__main__":
-    eda()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--ani", action='store_true')
+    args = parser.parse_args()
+
+    eda(args.ani)
 
