@@ -6,7 +6,7 @@ import torch
 
 from common import get_config, Model
 
-def train_model(id, cfg, debug=True, shuffle=True):
+def train_model(id, cfg):
     root_path = pathlib.Path(__file__).parent.resolve()
 
     # load dataset
@@ -17,7 +17,7 @@ def train_model(id, cfg, debug=True, shuffle=True):
 
     num_train = int(len(all_x) * cfg["split_ratio"])
     
-    if shuffle:
+    if cfg["shuffle"]:
         perm = np.random.permutation(len(all_x))
         shuffle_x, shuffle_y = map(lambda x: x[perm], [all_x, all_y])
         train_x, train_y, valid_x, valid_y = shuffle_x[:num_train], shuffle_y[:num_train], shuffle_x[num_train:], shuffle_y[num_train:]
@@ -38,7 +38,7 @@ def train_model(id, cfg, debug=True, shuffle=True):
             train_loss.append(m.optimize(batch_x, batch_y))
 
         valid_loss = m.get_loss(valid_x, valid_y)
-        if debug:
+        if cfg["debug"]:
             print(f"{e} Epoch - train loss: {sum(train_loss)/len(train_loss):.4f} / valid_loss: {valid_loss:.4f} " +\
                 f"/ train_hit: {m.evaluate(train_x, train_y):.4f} / valid_hit: {m.evaluate(valid_x, valid_y):.4f}")
         
@@ -62,7 +62,7 @@ def train():
 
     ps = []
     for i in range(cfg["count"]):
-        p = mp.Process(target=train_model, args=(i, cfg, True,))
+        p = mp.Process(target=train_model, args=(i, cfg,))
         p.start()
         ps.append(p)
     
