@@ -25,8 +25,7 @@ class Network(torch.nn.Module):
         return torch.sigmoid(self.l3(x))
 
 class Model:
-    def __init__(self, id, i_dim, h_dim, o_dim, lr=3e-4):
-        self.id = id
+    def __init__(self, i_dim, h_dim, o_dim, lr=3e-4):
         self.net = Network(i_dim, h_dim, o_dim)
         self.optimizer = torch.optim.Adam(self.net.parameters(), lr=lr)
 
@@ -40,16 +39,22 @@ class Model:
         self.optimizer.zero_grad()
         loss.backward()
         self.optimizer.step()
-        return loss
+        return loss.item()
 
     def predict(self, x):
         logit = self.net(x)
-        pred_wins = torch.sort(logit, descending=True).indices[..., :6]
+        # predict by weighed sampling
+        weights = torch.clip(logit - logit.mean(axis=-1, keepdim=True), 0)
+        pred_wins = torch.multinomial(weights, 6, replacement=False)
+
         pred = F.one_hot(pred_wins, num_classes=45).sum(axis=-2)
         return pred
 
     def evaluate(self, x, y):
-        pred = self.predict(x)
+        logit = self.net(x)
+        # predict by argmax
+        pred_wins = torch.sort(logit, descending=True).indices[..., :6]
+        pred = F.one_hot(pred_wins, num_classes=45).sum(axis=-2)
         label = y > 0
         return (pred * label).sum(-1).float().mean()
 
@@ -66,12 +71,12 @@ class Model:
         return result
     
     def save(self, path):
-        print(f"... Save Model to {path}/{self.id}.ckpt ...")
+        print(f"... Save Model to {path}/model.pt ...")
         torch.save({
             "net" : self.net.state_dict(),
-        }, path+f'/{self.id}.ckpt')
+        }, path+f'/model.pt')
 
     def load(self, path):
-        print(f"... Load Model to {path}/{self.id}.ckpt ...")
-        checkpoint = torch.load(path+f'/{self.id}.ckpt')
+        print(f"... Load Model to {path}/model.pt ...")
+        checkpoint = torch.load(path+f'/model.pt')
         self.net.load_state_dict(checkpoint["net"])

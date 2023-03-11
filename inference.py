@@ -50,16 +50,14 @@ def inference(user_id, user_pw):
     root_path = pathlib.Path(__file__).parent.resolve()
     cfg = get_config()
 
-    models = [Model(i, cfg["input_dim"] * cfg["window_size"], cfg["hidden_dim"], cfg["output_dim"]) for i in range(int(cfg["count"]))]
-    
-    for m in models:
-        m.load(os.path.join(root_path, cfg["model_path"]))
+    m = Model(cfg["input_dim"] * cfg["window_size"], cfg["hidden_dim"], cfg["output_dim"])
+    m.load(os.path.join(root_path, cfg["model_path"]))
 
     z = pd.read_csv(os.path.join(root_path, cfg["dataset_path"], "z.csv")).values.squeeze()
     z = torch.FloatTensor(z)
 
     pred = []
-    for m in models: 
+    for _ in range(cfg["count"]): 
         pred.append(m.inference(z)["Pred"])
 
     n = len(pd.read_csv(os.path.join(root_path, cfg["data_path"], cfg["file_name"])))
