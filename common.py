@@ -45,9 +45,7 @@ class Model:
         logit = self.net(x)
         # predict by weighed sampling
         weights = torch.clip(logit - logit.mean(axis=-1, keepdim=True), 0)
-        pred_wins = torch.multinomial(weights, 6, replacement=False)
-
-        pred = F.one_hot(pred_wins, num_classes=45).sum(axis=-2)
+        pred = (torch.multinomial(weights, 6, replacement=False) + 1).tolist()
         return pred
 
     def evaluate(self, x, y):
@@ -60,13 +58,12 @@ class Model:
 
     def inference(self, x, y=None):
         result = {}
-        pred = self.predict(x)
-        result["Pred"] = (pred.nonzero().squeeze() + 1).tolist()
+        result["Pred"] = self.predict(x)
 
         if y is not None:
             num_wins = ((y > 0).nonzero().squeeze() + 1).tolist()
             result["Wins"] = num_wins
-            result["Hits"] = int(self.evaluate(x, y).item())
+            result["Hits"] = self.evaluate(x, y).item()
 
         return result
     

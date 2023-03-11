@@ -50,22 +50,20 @@ def inference(user_id, user_pw):
     root_path = pathlib.Path(__file__).parent.resolve()
     cfg = get_config()
 
-    m = Model(cfg["input_dim"] * cfg["window_size"], cfg["hidden_dim"], cfg["output_dim"])
-    m.load(os.path.join(root_path, cfg["model_path"]))
-
     z = pd.read_csv(os.path.join(root_path, cfg["dataset_path"], "z.csv")).values.squeeze()
     z = torch.FloatTensor(z)
 
-    pred = []
-    for _ in range(cfg["count"]): 
-        pred.append(m.inference(z)["Pred"])
+    # TODO: query to serving model    
+    m = Model(cfg["input_dim"] * cfg["window_size"], cfg["hidden_dim"], cfg["output_dim"])
+    m.load(os.path.join(root_path, cfg["model_path"]))
+    preds = m.predict(z.repeat(cfg["count"], 1))
 
     n = len(pd.read_csv(os.path.join(root_path, cfg["data_path"], cfg["file_name"])))
     with open(os.path.join(root_path, cfg["log_path"], "log.txt"), "a") as f:
-        f.write(f"[PRED] {n+1}: {pred}\n")
+        f.write(f"[PRED] {n+1}: {preds}\n")
     
     with sync_playwright() as playwright:
-        buy(playwright, user_id, user_pw, pred)
+        buy(playwright, user_id, user_pw, preds)
 
 if __name__=="__main__":
     parser = argparse.ArgumentParser()

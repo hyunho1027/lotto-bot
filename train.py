@@ -1,4 +1,4 @@
-import os, pathlib
+import os, pathlib, copy
 
 import numpy as np
 import pandas as pd
@@ -6,7 +6,8 @@ import torch
 
 from common import get_config, Model
 
-def train_model(id, cfg):
+def train():
+    cfg = get_config()
     root_path = pathlib.Path(__file__).parent.resolve()
 
     # load dataset
@@ -27,47 +28,41 @@ def train_model(id, cfg):
     to_tensor = lambda x : torch.FloatTensor(x)
     train_x, train_y, valid_x, valid_y = map(to_tensor, [train_x, train_y, valid_x, valid_y])
 
-    m = Model(id, cfg["input_dim"] * cfg["window_size"], cfg["hidden_dim"], cfg["output_dim"], cfg["learning_rate"])
+    m = Model(cfg["input_dim"] * cfg["window_size"], cfg["hidden_dim"], cfg["output_dim"], cfg["learning_rate"])
     early_stop_cnt, min_valid_loss = 0, np.inf
     for e in range(cfg['max_epoch']):
         batch_perm = np.random.permutation(len(train_x))
         train_x, train_y = map(lambda x: x[batch_perm], [train_x, train_y])
-        train_loss = []
+        train_loss_list = []
         for i in range(int(np.ceil(len(train_x)/cfg['batch_size']))):
             batch_x, batch_y = train_x[i*cfg['batch_size']: (i+1)*cfg['batch_size']], train_y[i*cfg['batch_size']: (i+1)*cfg['batch_size']]
-            train_loss.append(m.optimize(batch_x, batch_y))
+            train_loss_list.append(m.optimize(batch_x, batch_y))
 
+        train_loss = np.mean(train_loss_list)
         valid_loss = m.get_loss(valid_x, valid_y)
+        train_hit = m.evaluate(train_x, train_y)
+        valid_hit = m.evaluate(valid_x, valid_y)
+
         if cfg["debug"]:
-            print(f"{e} Epoch - train loss: {sum(train_loss)/len(train_loss):.4f} / valid_loss: {valid_loss:.4f} " +\
-                f"/ train_hit: {m.evaluate(train_x, train_y):.4f} / valid_hit: {m.evaluate(valid_x, valid_y):.4f}")
+            print(f"{e} Epoch - train loss: {train_loss:.4f} / valid_loss: {valid_loss:.4f} " +\
+                            f"/ train_hit: {train_hit:.4f} / valid_hit: {valid_hit:.4f}")
         
         if min_valid_loss < valid_loss:
             early_stop_cnt += 1
         else:
             early_stop_cnt = 0
             min_valid_loss = valid_loss
-            m.save(cfg['model_path'])
+            best_model = copy.deepcopy(m.net)
 
         if early_stop_cnt == cfg['early_stop_threshold']:
             break
 
+    m.net = best_model
+    m.save(cfg['model_path'])
 
     last_week_inference = m.inference(to_tensor(all_x[-1]), to_tensor(all_y[-1]))
     print("last week inference:", last_week_inference)
 
-def train():
-    import multiprocessing as mp
-    cfg = get_config()
-
-    ps = []
-    for i in range(cfg["count"]):
-        p = mp.Process(target=train_model, args=(i, cfg,))
-        p.start()
-        ps.append(p)
-    
-    for p in ps:
-        p.join()
 
 if __name__=="__main__":
     train()
