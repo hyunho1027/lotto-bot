@@ -3,6 +3,7 @@ import time, pathlib, os, argparse
 from playwright.sync_api import Playwright, sync_playwright
 import pandas as pd
 import torch
+import mlflow
 
 from common import get_config, Model
 
@@ -53,11 +54,23 @@ def inference(user_id, user_pw):
     z = pd.read_csv(os.path.join(root_path, cfg["dataset_path"], "z.csv")).values.squeeze()
     z = torch.FloatTensor(z)
 
-    # TODO: query to serving model    
-    m = Model(cfg["input_dim"] * cfg["window_size"], cfg["hidden_dim"], cfg["output_dim"])
-    m.load(os.path.join(root_path, cfg["model_path"]))
-    preds = m.predict(z.repeat(cfg["count"], 1))
+    # TODO: get best model not latest model
+    model = mlflow.search_registered_models(filter_string="name='lotto'")[0]
+    model_version = model.latest_versions[0]
+    model_uri = f"runs:/{model_version.run_id}/{cfg['model_path']}"
+    net = mlflow.pytorch.load_model(model_uri)
+    
+    run = mlflow.get_run(model_version.run_id)
+    window_size = int(run.data.params['window_size'])
+    m = Model(cfg["input_dim"] * window_size, cfg["hidden_dim"], cfg["output_dim"])
+    m.net = net
 
+    # TODO: add transform module
+    z = z[-cfg["input_dim"]*window_size:]
+
+    # TODO: query to serving model    
+    preds = m.predict(z.repeat(cfg["count"], 1))
+    
     n = len(pd.read_csv(os.path.join(root_path, cfg["data_path"], cfg["file_name"])))
     with open(os.path.join(root_path, cfg["log_path"], "log.txt"), "a") as f:
         f.write(f"[PRED] {n+1}: {preds}\n")

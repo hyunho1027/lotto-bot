@@ -3,22 +3,24 @@ data_path: data
 file_name: raw_data.csv
 
 # preprocess
-window_size: 7
+max_window_size: 7
 dataset_path: dataset
 include_bonus: false
 
 # train
 input_dim: 45
-hidden_dim: 64
 output_dim: 45
-learning_rate: 0.0001
-batch_size: 64
 split_ratio: 0.9
 model_path: model
-early_stop_threshold: 7
-max_epoch: 777
+max_epoch: 77
 shuffle: true
 debug: true
+max_evals: 16
+## hyper parameters
+learning_rate: 0.0001
+batch_size: 64
+hidden_dim: 64
+early_stop_threshold: 7
 
 # inference
 count: 5

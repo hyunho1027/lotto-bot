@@ -20,7 +20,7 @@ def preprocess():
         onehot_data += eye[shift_data[:, 6:]].sum(axis=1)*0.9 # bonus penalty
     # pd.DataFrame(onehot_data).to_csv(os.path.join(root_path, cfg["data_path"], "onehot_data.csv"), index=False)
 
-    window_size = cfg["window_size"] + 1
+    window_size = cfg["max_window_size"] + 1
     stack_data_list = []
     onehot_data_list = onehot_data.tolist()
     for i in range(len(onehot_data_list) - window_size + 1):
