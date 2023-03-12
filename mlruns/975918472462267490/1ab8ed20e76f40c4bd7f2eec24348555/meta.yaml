@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1ab8ed20e76f40c4bd7f2eec24348555/artifacts
+end_time: 1678611121234
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1ab8ed20e76f40c4bd7f2eec24348555
+run_name: orderly-donkey-734
+run_uuid: 1ab8ed20e76f40c4bd7f2eec24348555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678611078919
+status: 3
+tags: []
+user_id: runner
