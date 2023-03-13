@@ -6,7 +6,8 @@ import torch
 import mlflow
 from hyperopt import fmin, tpe, hp, STATUS_OK, Trials
 
-from common import get_config, Model
+from util import get_config
+from model import Model
 
 def load_dataset(cfg):
     root_path = pathlib.Path(__file__).parent.resolve()
@@ -34,6 +35,8 @@ def load_dataset(cfg):
     return train_x, train_y, valid_x, valid_y, test_x, test_y
 
 def fit(params, train_x, train_y, valid_x, valid_y):
+    mlflow.start_run(experiment_id=mlflow.get_experiment_by_name('lotto').experiment_id)
+
     cfg = get_config()
 
     learning_rate = params["learning_rate"]
@@ -41,6 +44,8 @@ def fit(params, train_x, train_y, valid_x, valid_y):
     batch_size = params["batch_size"]
     hidden_dim = params["hidden_dim"]
     early_stop_threshold = params["early_stop_threshold"]
+    
+    mlflow.log_params(params)
 
     train_x = train_x.clone()[:, -cfg["input_dim"]*window_size:]
     valid_x = valid_x.clone()[:, -cfg["input_dim"]*window_size:]
@@ -60,6 +65,11 @@ def fit(params, train_x, train_y, valid_x, valid_y):
         train_hit = m.evaluate(train_x, train_y).item()
         valid_hit = m.evaluate(valid_x, valid_y).item()
 
+        mlflow.log_metric("train_loss", train_loss)
+        mlflow.log_metric("valid_loss", valid_loss)
+        mlflow.log_metric("train_hit", train_hit)
+        mlflow.log_metric("valid_hit", valid_hit)
+
         if cfg["debug"]:
             print(f"{e} Epoch - train loss: {train_loss:.4f} / valid_loss: {valid_loss:.4f} " +\
                             f"/ train_hit: {train_hit:.4f} / valid_hit: {valid_hit:.4f}")
@@ -76,11 +86,13 @@ def fit(params, train_x, train_y, valid_x, valid_y):
     metrics = {'train_loss': train_loss, 'valid_loss': valid_loss, 'train_hit': train_hit, 'valid_hit': valid_hit}
     
     m.net = best_model
+    mlflow.end_run()
     return {'loss': min_valid_loss, 'params': params, 'status': STATUS_OK, "metrics": metrics, 'model': m}
 
 
 def train():
     cfg = get_config()
+    mlflow.set_experiment("lotto")
     
     # load dataset
     train_x, train_y, valid_x, valid_y, test_x, test_y = load_dataset(cfg)
@@ -102,7 +114,6 @@ def train():
     best_metrics = best_result["metrics"]
     best_model = best_result["model"]
 
-    mlflow.set_experiment("lotto")
     mlflow.log_params(best_params)
     mlflow.log_metrics(best_metrics)
     last_week_inference = best_model.inference(test_x[-cfg["input_dim"]*best_params["window_size"]:], test_y)

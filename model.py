@@ -1,16 +1,5 @@
-import yaml
-import os, pathlib
-
 import torch
 import torch.nn.functional as F
-
-def get_config():
-    root_path = pathlib.Path(__file__).parent.resolve()
-    cfg_path = os.path.join(root_path, "config.yaml")
-    with open(cfg_path) as f:
-        cfg = yaml.load(f, Loader=yaml.FullLoader)
-
-    return cfg
 
 class Network(torch.nn.Module):
     def __init__(self, i_dim, h_dim, o_dim):

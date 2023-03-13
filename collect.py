@@ -3,7 +3,7 @@ import os, pathlib, requests
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 
-from common import get_config
+from util import get_config
 
 URL = 'https://dhlottery.co.kr/gameResult.do?method=byWin'
 

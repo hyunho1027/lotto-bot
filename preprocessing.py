@@ -3,7 +3,7 @@ import os, pathlib
 import pandas as pd
 import numpy as np
 
-from common import get_config
+from util import get_config
 
 def preprocess():
     root_path = pathlib.Path(__file__).parent.resolve()

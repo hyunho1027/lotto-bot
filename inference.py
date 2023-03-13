@@ -5,7 +5,8 @@ import pandas as pd
 import torch
 import mlflow
 
-from common import get_config, Model
+from util import get_config
+from model import Model
 
 def buy(playwright: Playwright, user_id, user_pw, nums_list: list) -> None:
     # chrome 브라우저를 실행
