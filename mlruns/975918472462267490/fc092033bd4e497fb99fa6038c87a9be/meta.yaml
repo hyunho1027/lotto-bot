@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fc092033bd4e497fb99fa6038c87a9be/artifacts
+end_time: 1679738877433
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fc092033bd4e497fb99fa6038c87a9be
+run_name: masked-stoat-767
+run_uuid: fc092033bd4e497fb99fa6038c87a9be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679738861203
+status: 3
+tags: []
+user_id: runner

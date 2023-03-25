@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f96c4b1de3184624b381cc722d1e67f2/artifacts
+end_time: 1679738896505
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f96c4b1de3184624b381cc722d1e67f2
+run_name: entertaining-rat-50
+run_uuid: f96c4b1de3184624b381cc722d1e67f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679738890524
+status: 3
+tags: []
+user_id: runner

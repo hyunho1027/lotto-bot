@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5004cebd9ae340f8baec382d6ef5e638/artifacts
+end_time: 1679738942912
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5004cebd9ae340f8baec382d6ef5e638
+run_name: resilient-crab-250
+run_uuid: 5004cebd9ae340f8baec382d6ef5e638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679738936609
+status: 3
+tags: []
+user_id: runner

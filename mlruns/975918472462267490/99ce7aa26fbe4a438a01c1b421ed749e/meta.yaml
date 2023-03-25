@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/99ce7aa26fbe4a438a01c1b421ed749e/artifacts
+end_time: 1679738881811
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 99ce7aa26fbe4a438a01c1b421ed749e
+run_name: lyrical-newt-785
+run_uuid: 99ce7aa26fbe4a438a01c1b421ed749e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679738877529
+status: 3
+tags: []
+user_id: runner

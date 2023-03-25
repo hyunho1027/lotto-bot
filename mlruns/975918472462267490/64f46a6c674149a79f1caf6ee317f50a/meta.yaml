@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/64f46a6c674149a79f1caf6ee317f50a/artifacts
+end_time: 1679738936596
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 64f46a6c674149a79f1caf6ee317f50a
+run_name: bold-finch-250
+run_uuid: 64f46a6c674149a79f1caf6ee317f50a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679738929779
+status: 3
+tags: []
+user_id: runner
