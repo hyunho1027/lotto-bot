@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/69f1a6ee019e496fbdaa45802f5c6ed7/artifacts
+end_time: 1680343635727
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 69f1a6ee019e496fbdaa45802f5c6ed7
+run_name: lyrical-cat-928
+run_uuid: 69f1a6ee019e496fbdaa45802f5c6ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680343634594
+status: 3
+tags: []
+user_id: runner

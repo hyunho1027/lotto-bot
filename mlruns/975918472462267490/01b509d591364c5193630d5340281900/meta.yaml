@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/01b509d591364c5193630d5340281900/artifacts
+end_time: 1680343638107
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 01b509d591364c5193630d5340281900
+run_name: omniscient-goose-27
+run_uuid: 01b509d591364c5193630d5340281900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680343637524
+status: 3
+tags: []
+user_id: runner

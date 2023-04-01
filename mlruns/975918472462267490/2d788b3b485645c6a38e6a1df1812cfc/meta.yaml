@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2d788b3b485645c6a38e6a1df1812cfc/artifacts
+end_time: 1680343688523
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2d788b3b485645c6a38e6a1df1812cfc
+run_name: amazing-squirrel-254
+run_uuid: 2d788b3b485645c6a38e6a1df1812cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680343649360
+status: 3
+tags: []
+user_id: runner

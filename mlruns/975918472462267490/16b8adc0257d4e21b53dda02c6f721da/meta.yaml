@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/16b8adc0257d4e21b53dda02c6f721da/artifacts
+end_time: 1680343646633
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 16b8adc0257d4e21b53dda02c6f721da
+run_name: valuable-horse-503
+run_uuid: 16b8adc0257d4e21b53dda02c6f721da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680343645895
+status: 3
+tags: []
+user_id: runner

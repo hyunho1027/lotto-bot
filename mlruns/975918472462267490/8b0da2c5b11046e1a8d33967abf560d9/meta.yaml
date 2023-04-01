@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8b0da2c5b11046e1a8d33967abf560d9/artifacts
+end_time: 1680343643972
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8b0da2c5b11046e1a8d33967abf560d9
+run_name: luminous-wasp-491
+run_uuid: 8b0da2c5b11046e1a8d33967abf560d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680343643069
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5abe4986e1724d8fb39030d402f8832e/artifacts
+end_time: 1680343637512
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5abe4986e1724d8fb39030d402f8832e
+run_name: spiffy-bear-918
+run_uuid: 5abe4986e1724d8fb39030d402f8832e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680343636629
+status: 3
+tags: []
+user_id: runner

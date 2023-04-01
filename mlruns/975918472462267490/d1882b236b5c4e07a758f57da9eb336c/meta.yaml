@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d1882b236b5c4e07a758f57da9eb336c/artifacts
+end_time: 1680343636618
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d1882b236b5c4e07a758f57da9eb336c
+run_name: welcoming-goat-65
+run_uuid: d1882b236b5c4e07a758f57da9eb336c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680343635737
+status: 3
+tags: []
+user_id: runner

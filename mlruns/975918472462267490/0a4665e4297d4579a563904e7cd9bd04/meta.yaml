@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0a4665e4297d4579a563904e7cd9bd04/artifacts
+end_time: 1680343640353
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0a4665e4297d4579a563904e7cd9bd04
+run_name: suave-turtle-855
+run_uuid: 0a4665e4297d4579a563904e7cd9bd04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680343639242
+status: 3
+tags: []
+user_id: runner
