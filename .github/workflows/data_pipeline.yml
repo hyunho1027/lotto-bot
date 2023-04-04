@@ -1,0 +1,36 @@
+name: Data pipeline
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  pipeline:
+    # The type of runner that the job will run on
+    runs-on: macos-12
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: "3.8"
+      - name: package install
+        run: |
+          pip install -r requirements.txt
+          playwright install
+      - name: start pipeline
+        run: |
+          python data_pipeline.py
+      - name: commit and push
+        run: |
+          git config user.name hyunho1027
+          git config user.email ramanuzann@gmail.com
+          git add .
+          git commit -m "workflow done [`date`]"
+          git push

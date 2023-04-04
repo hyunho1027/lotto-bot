@@ -11,7 +11,6 @@ if __name__=="__main__":
     parser.add_argument("--pw")
     args = parser.parse_args()
 
-    collect()
     preprocess()
     train()
     inference(args.id, args.pw)
