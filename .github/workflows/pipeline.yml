@@ -32,5 +32,5 @@ jobs:
           git config user.name hyunho1027
           git config user.email ramanuzann@gmail.com
           git add .
-          git commit -m "workflow done [`date`]"
+          git commit -m "pipeline done [`date`]"
           git push
