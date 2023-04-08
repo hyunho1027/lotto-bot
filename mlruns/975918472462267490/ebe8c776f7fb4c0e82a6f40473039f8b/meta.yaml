@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ebe8c776f7fb4c0e82a6f40473039f8b/artifacts
+end_time: 1680948420072
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ebe8c776f7fb4c0e82a6f40473039f8b
+run_name: rumbling-rat-268
+run_uuid: ebe8c776f7fb4c0e82a6f40473039f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680948419087
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e33e4c80d5e543beba18483204f5fc79/artifacts
+end_time: 1680948416024
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e33e4c80d5e543beba18483204f5fc79
+run_name: useful-bee-540
+run_uuid: e33e4c80d5e543beba18483204f5fc79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680948414162
+status: 3
+tags: []
+user_id: runner
