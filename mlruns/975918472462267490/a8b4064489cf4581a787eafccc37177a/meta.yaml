@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a8b4064489cf4581a787eafccc37177a/artifacts
+end_time: 1681553224798
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a8b4064489cf4581a787eafccc37177a
+run_name: luxuriant-loon-164
+run_uuid: a8b4064489cf4581a787eafccc37177a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681553223389
+status: 3
+tags: []
+user_id: runner

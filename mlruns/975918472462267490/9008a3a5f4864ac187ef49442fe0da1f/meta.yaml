@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9008a3a5f4864ac187ef49442fe0da1f/artifacts
+end_time: 1681553227163
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9008a3a5f4864ac187ef49442fe0da1f
+run_name: flawless-shrew-272
+run_uuid: 9008a3a5f4864ac187ef49442fe0da1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681553226563
+status: 3
+tags: []
+user_id: runner

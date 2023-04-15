@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5ede8622359d425e8ca1431a192cec4a/artifacts
+end_time: 1681553231454
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5ede8622359d425e8ca1431a192cec4a
+run_name: secretive-owl-893
+run_uuid: 5ede8622359d425e8ca1431a192cec4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681553230915
+status: 3
+tags: []
+user_id: runner

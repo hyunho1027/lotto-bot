@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a5170689bb8f4ad48a4525d6a9776bfa/artifacts
+end_time: 1681553221244
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a5170689bb8f4ad48a4525d6a9776bfa
+run_name: colorful-moose-651
+run_uuid: a5170689bb8f4ad48a4525d6a9776bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681553219964
+status: 3
+tags: []
+user_id: runner

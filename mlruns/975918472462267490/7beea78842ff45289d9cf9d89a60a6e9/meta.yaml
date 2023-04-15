@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7beea78842ff45289d9cf9d89a60a6e9/artifacts
+end_time: 1681553276826
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7beea78842ff45289d9cf9d89a60a6e9
+run_name: vaunted-vole-165
+run_uuid: 7beea78842ff45289d9cf9d89a60a6e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681553232472
+status: 3
+tags: []
+user_id: runner

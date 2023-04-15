@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/318b019fa9394b58af7714b53d729f4b/artifacts
+end_time: 1681553232467
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 318b019fa9394b58af7714b53d729f4b
+run_name: gaudy-snipe-754
+run_uuid: 318b019fa9394b58af7714b53d729f4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681553231464
+status: 3
+tags: []
+user_id: runner

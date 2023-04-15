@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a75f8d34936f4d17965b071a8766ac36/artifacts
+end_time: 1681553219954
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a75f8d34936f4d17965b071a8766ac36
+run_name: righteous-moth-104
+run_uuid: a75f8d34936f4d17965b071a8766ac36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681553218921
+status: 3
+tags: []
+user_id: runner

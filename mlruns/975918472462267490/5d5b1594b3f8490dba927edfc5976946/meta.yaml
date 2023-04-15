@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5d5b1594b3f8490dba927edfc5976946/artifacts
+end_time: 1681553222237
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5d5b1594b3f8490dba927edfc5976946
+run_name: bustling-ray-861
+run_uuid: 5d5b1594b3f8490dba927edfc5976946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681553221255
+status: 3
+tags: []
+user_id: runner
