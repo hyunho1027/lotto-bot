@@ -74,7 +74,7 @@ def inference(user_id, user_pw):
     
     n = len(pd.read_csv(os.path.join(root_path, cfg["data_path"], cfg["file_name"])))
     with open(os.path.join(root_path, cfg["log_path"], "log.txt"), "a") as f:
-        f.write(f"[PRED] {n+1}: {preds}\n")
+        f.write(f"[PRED] {n+1}: {[sorted(pred) for pred in preds]}\n")
     
     with sync_playwright() as playwright:
         buy(playwright, user_id, user_pw, preds)
