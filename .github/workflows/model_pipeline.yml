@@ -1,15 +1,15 @@
-name: Pipeline
+name: Model pipeline
 
 # Controls when the workflow will run
 on:
   # Allows you to run this workflow manually from the Actions tab
   schedule:
-    - cron: '0 10 * * 6'
+    - cron: '0 10 * * 5'
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  pipeline:
+  train:
     # The type of runner that the job will run on
     runs-on: macos-12
 
@@ -23,14 +23,13 @@ jobs:
       - name: package install
         run: |
           pip install -r requirements.txt
-          playwright install
-      - name: start pipeline
+      - name: start model pipeline
         run: |
-          python pipeline.py --id ${{ secrets.LOTTO_ID}} --pw ${{ secrets.LOTTO_PW}}
+          python pipeline_model.py
       - name: commit and push
         run: |
           git config user.name hyunho1027
           git config user.email ramanuzann@gmail.com
           git add .
-          git commit -m "pipeline done [`date`]"
+          git commit -m "model pipeline done [`date`]"
           git push

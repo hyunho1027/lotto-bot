@@ -1,15 +1,15 @@
-name: Data pipeline
+name: Serving pipeline
 
 # Controls when the workflow will run
 on:
   # Allows you to run this workflow manually from the Actions tab
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '0 10 * * 6'
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  collect:
+  serving:
     # The type of runner that the job will run on
     runs-on: macos-12
 
@@ -23,13 +23,14 @@ jobs:
       - name: package install
         run: |
           pip install -r requirements.txt
-      - name: start data pipeline
+          playwright install
+      - name: start serving pipeline
         run: |
-          python pipeline_data.py
+          python pipeline_serving.py --id ${{ secrets.LOTTO_ID}} --pw ${{ secrets.LOTTO_PW}}
       - name: commit and push
         run: |
           git config user.name hyunho1027
           git config user.email ramanuzann@gmail.com
           git add .
-          git commit -m "data pipeline done [`date`]"
+          git commit -m "serving pipeline done [`date`]"
           git push
