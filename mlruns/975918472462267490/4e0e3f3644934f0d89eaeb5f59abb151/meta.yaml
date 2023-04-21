@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4e0e3f3644934f0d89eaeb5f59abb151/artifacts
+end_time: 1682072107548
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4e0e3f3644934f0d89eaeb5f59abb151
+run_name: invincible-wren-61
+run_uuid: 4e0e3f3644934f0d89eaeb5f59abb151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682072106649
+status: 3
+tags: []
+user_id: runner

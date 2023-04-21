@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fa6004eb3a5349dd8832e6b516584c9a/artifacts
+end_time: 1682072114295
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fa6004eb3a5349dd8832e6b516584c9a
+run_name: stately-loon-916
+run_uuid: fa6004eb3a5349dd8832e6b516584c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682072113621
+status: 3
+tags: []
+user_id: runner

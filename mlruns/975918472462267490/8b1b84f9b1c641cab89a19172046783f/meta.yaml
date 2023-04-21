@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8b1b84f9b1c641cab89a19172046783f/artifacts
+end_time: 1682072110602
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8b1b84f9b1c641cab89a19172046783f
+run_name: bustling-whale-201
+run_uuid: 8b1b84f9b1c641cab89a19172046783f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682072109804
+status: 3
+tags: []
+user_id: runner

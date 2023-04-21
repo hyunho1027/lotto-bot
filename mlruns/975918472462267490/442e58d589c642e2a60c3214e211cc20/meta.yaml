@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/442e58d589c642e2a60c3214e211cc20/artifacts
+end_time: 1682072109792
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 442e58d589c642e2a60c3214e211cc20
+run_name: painted-shrike-192
+run_uuid: 442e58d589c642e2a60c3214e211cc20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682072107558
+status: 3
+tags: []
+user_id: runner

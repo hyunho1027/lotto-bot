@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cb63737302a04a3da6d6c4c000ac4944/artifacts
+end_time: 1682072113609
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cb63737302a04a3da6d6c4c000ac4944
+run_name: legendary-bird-977
+run_uuid: cb63737302a04a3da6d6c4c000ac4944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682072111361
+status: 3
+tags: []
+user_id: runner

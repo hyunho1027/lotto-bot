@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8ea189a24676431caed3b32be6ca4532/artifacts
+end_time: 1682072098261
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8ea189a24676431caed3b32be6ca4532
+run_name: crawling-koi-573
+run_uuid: 8ea189a24676431caed3b32be6ca4532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682072093972
+status: 3
+tags: []
+user_id: runner

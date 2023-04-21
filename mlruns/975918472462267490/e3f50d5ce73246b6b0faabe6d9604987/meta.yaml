@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e3f50d5ce73246b6b0faabe6d9604987/artifacts
+end_time: 1682072091047
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e3f50d5ce73246b6b0faabe6d9604987
+run_name: worried-carp-370
+run_uuid: e3f50d5ce73246b6b0faabe6d9604987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682072088693
+status: 3
+tags: []
+user_id: runner

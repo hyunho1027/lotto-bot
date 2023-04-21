@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/46188acceeaa4a53a9ecd8137ea16334/artifacts
+end_time: 1682072100894
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 46188acceeaa4a53a9ecd8137ea16334
+run_name: gentle-kite-568
+run_uuid: 46188acceeaa4a53a9ecd8137ea16334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682072099368
+status: 3
+tags: []
+user_id: runner

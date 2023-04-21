@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ad718601221b4fef905ff0dc5ad49667/artifacts
+end_time: 1682072099354
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ad718601221b4fef905ff0dc5ad49667
+run_name: bright-snake-88
+run_uuid: ad718601221b4fef905ff0dc5ad49667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682072098273
+status: 3
+tags: []
+user_id: runner

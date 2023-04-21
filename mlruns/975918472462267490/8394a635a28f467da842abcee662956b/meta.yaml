@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8394a635a28f467da842abcee662956b/artifacts
+end_time: 1682072105107
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8394a635a28f467da842abcee662956b
+run_name: clumsy-quail-959
+run_uuid: 8394a635a28f467da842abcee662956b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682072102732
+status: 3
+tags: []
+user_id: runner
