@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6aff3d46d94b47be933443574911c161/artifacts
+end_time: 1682676768373
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6aff3d46d94b47be933443574911c161
+run_name: merciful-cat-997
+run_uuid: 6aff3d46d94b47be933443574911c161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682676767370
+status: 3
+tags: []
+user_id: runner

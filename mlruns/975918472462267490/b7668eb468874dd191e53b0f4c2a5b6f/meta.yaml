@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b7668eb468874dd191e53b0f4c2a5b6f/artifacts
+end_time: 1682676776283
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b7668eb468874dd191e53b0f4c2a5b6f
+run_name: lyrical-dove-778
+run_uuid: b7668eb468874dd191e53b0f4c2a5b6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682676774293
+status: 3
+tags: []
+user_id: runner

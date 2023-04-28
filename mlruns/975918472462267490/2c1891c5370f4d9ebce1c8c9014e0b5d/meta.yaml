@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2c1891c5370f4d9ebce1c8c9014e0b5d/artifacts
+end_time: 1682676769722
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2c1891c5370f4d9ebce1c8c9014e0b5d
+run_name: inquisitive-kite-15
+run_uuid: 2c1891c5370f4d9ebce1c8c9014e0b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682676768383
+status: 3
+tags: []
+user_id: runner

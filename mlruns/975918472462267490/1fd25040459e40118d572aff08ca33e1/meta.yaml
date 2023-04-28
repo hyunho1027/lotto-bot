@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1fd25040459e40118d572aff08ca33e1/artifacts
+end_time: 1682676789967
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1fd25040459e40118d572aff08ca33e1
+run_name: magnificent-rat-254
+run_uuid: 1fd25040459e40118d572aff08ca33e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682676786073
+status: 3
+tags: []
+user_id: runner

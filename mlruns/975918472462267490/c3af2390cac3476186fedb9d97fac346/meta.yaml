@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c3af2390cac3476186fedb9d97fac346/artifacts
+end_time: 1682676784676
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c3af2390cac3476186fedb9d97fac346
+run_name: enchanting-newt-749
+run_uuid: c3af2390cac3476186fedb9d97fac346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682676784082
+status: 3
+tags: []
+user_id: runner

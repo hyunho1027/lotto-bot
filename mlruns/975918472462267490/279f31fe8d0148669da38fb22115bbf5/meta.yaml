@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/279f31fe8d0148669da38fb22115bbf5/artifacts
+end_time: 1682676783273
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 279f31fe8d0148669da38fb22115bbf5
+run_name: loud-lark-820
+run_uuid: 279f31fe8d0148669da38fb22115bbf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682676781990
+status: 3
+tags: []
+user_id: runner

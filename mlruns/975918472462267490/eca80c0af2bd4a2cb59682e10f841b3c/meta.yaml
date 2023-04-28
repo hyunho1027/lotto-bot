@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eca80c0af2bd4a2cb59682e10f841b3c/artifacts
+end_time: 1682676781012
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eca80c0af2bd4a2cb59682e10f841b3c
+run_name: stately-fish-390
+run_uuid: eca80c0af2bd4a2cb59682e10f841b3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682676779833
+status: 3
+tags: []
+user_id: runner
