@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/483f06b406f84b9c8088ed8d326f3922/artifacts
+end_time: 1683281617238
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 483f06b406f84b9c8088ed8d326f3922
+run_name: sassy-wolf-231
+run_uuid: 483f06b406f84b9c8088ed8d326f3922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281615979
+status: 3
+tags: []
+user_id: runner

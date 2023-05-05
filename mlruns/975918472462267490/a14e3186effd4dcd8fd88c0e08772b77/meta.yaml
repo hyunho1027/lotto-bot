@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a14e3186effd4dcd8fd88c0e08772b77/artifacts
+end_time: 1683281622621
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a14e3186effd4dcd8fd88c0e08772b77
+run_name: traveling-eel-596
+run_uuid: a14e3186effd4dcd8fd88c0e08772b77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281621919
+status: 3
+tags: []
+user_id: runner

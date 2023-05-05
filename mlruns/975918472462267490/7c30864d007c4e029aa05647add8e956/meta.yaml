@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7c30864d007c4e029aa05647add8e956/artifacts
+end_time: 1683281619693
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7c30864d007c4e029aa05647add8e956
+run_name: treasured-fish-426
+run_uuid: 7c30864d007c4e029aa05647add8e956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281619175
+status: 3
+tags: []
+user_id: runner

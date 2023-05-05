@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/067de1f5db6d4ba19fee56813c64f519/artifacts
+end_time: 1683281614547
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 067de1f5db6d4ba19fee56813c64f519
+run_name: treasured-shad-308
+run_uuid: 067de1f5db6d4ba19fee56813c64f519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281613749
+status: 3
+tags: []
+user_id: runner

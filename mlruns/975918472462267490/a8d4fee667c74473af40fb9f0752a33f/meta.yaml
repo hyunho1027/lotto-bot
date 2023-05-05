@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a8d4fee667c74473af40fb9f0752a33f/artifacts
+end_time: 1683281613738
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a8d4fee667c74473af40fb9f0752a33f
+run_name: skillful-grub-808
+run_uuid: a8d4fee667c74473af40fb9f0752a33f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281613021
+status: 3
+tags: []
+user_id: runner

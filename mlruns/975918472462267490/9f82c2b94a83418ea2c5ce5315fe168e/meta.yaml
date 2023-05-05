@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9f82c2b94a83418ea2c5ce5315fe168e/artifacts
+end_time: 1683281618479
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9f82c2b94a83418ea2c5ce5315fe168e
+run_name: redolent-steed-113
+run_uuid: 9f82c2b94a83418ea2c5ce5315fe168e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281617248
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a0d94620f16d4898a24b8e35febab8be/artifacts
+end_time: 1683281623603
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a0d94620f16d4898a24b8e35febab8be
+run_name: clean-fish-533
+run_uuid: a0d94620f16d4898a24b8e35febab8be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281622632
+status: 3
+tags: []
+user_id: runner
