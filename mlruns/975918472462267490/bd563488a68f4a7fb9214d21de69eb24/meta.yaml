@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bd563488a68f4a7fb9214d21de69eb24/artifacts
+end_time: 1683886376089
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bd563488a68f4a7fb9214d21de69eb24
+run_name: mysterious-flea-991
+run_uuid: bd563488a68f4a7fb9214d21de69eb24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886374281
+status: 3
+tags: []
+user_id: runner

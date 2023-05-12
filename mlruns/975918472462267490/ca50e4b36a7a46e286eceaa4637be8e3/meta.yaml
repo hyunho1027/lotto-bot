@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ca50e4b36a7a46e286eceaa4637be8e3/artifacts
+end_time: 1683886362576
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ca50e4b36a7a46e286eceaa4637be8e3
+run_name: agreeable-fly-613
+run_uuid: ca50e4b36a7a46e286eceaa4637be8e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886359790
+status: 3
+tags: []
+user_id: runner

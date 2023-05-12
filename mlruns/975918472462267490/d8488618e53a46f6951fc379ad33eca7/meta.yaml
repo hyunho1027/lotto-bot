@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d8488618e53a46f6951fc379ad33eca7/artifacts
+end_time: 1683886356400
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d8488618e53a46f6951fc379ad33eca7
+run_name: debonair-sow-572
+run_uuid: d8488618e53a46f6951fc379ad33eca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886354277
+status: 3
+tags: []
+user_id: runner

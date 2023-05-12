@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d340600d86494bd5b6f81635bb06431b/artifacts
+end_time: 1683886374269
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d340600d86494bd5b6f81635bb06431b
+run_name: victorious-frog-263
+run_uuid: d340600d86494bd5b6f81635bb06431b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886372659
+status: 3
+tags: []
+user_id: runner

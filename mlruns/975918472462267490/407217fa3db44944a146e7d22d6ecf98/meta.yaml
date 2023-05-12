@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/407217fa3db44944a146e7d22d6ecf98/artifacts
+end_time: 1683886372646
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 407217fa3db44944a146e7d22d6ecf98
+run_name: luxuriant-turtle-439
+run_uuid: 407217fa3db44944a146e7d22d6ecf98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886370406
+status: 3
+tags: []
+user_id: runner

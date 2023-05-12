@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/05504f68239848058cd2a2d2a4156f18/artifacts
+end_time: 1683886377828
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 05504f68239848058cd2a2d2a4156f18
+run_name: adventurous-boar-893
+run_uuid: 05504f68239848058cd2a2d2a4156f18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886376938
+status: 3
+tags: []
+user_id: runner

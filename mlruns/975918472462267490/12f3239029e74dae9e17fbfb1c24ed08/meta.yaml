@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/12f3239029e74dae9e17fbfb1c24ed08/artifacts
+end_time: 1683886359778
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 12f3239029e74dae9e17fbfb1c24ed08
+run_name: adorable-foal-491
+run_uuid: 12f3239029e74dae9e17fbfb1c24ed08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886359014
+status: 3
+tags: []
+user_id: runner

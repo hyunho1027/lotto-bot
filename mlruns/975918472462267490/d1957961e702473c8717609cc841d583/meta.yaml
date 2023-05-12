@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d1957961e702473c8717609cc841d583/artifacts
+end_time: 1683886365435
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d1957961e702473c8717609cc841d583
+run_name: stylish-pug-711
+run_uuid: d1957961e702473c8717609cc841d583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886364381
+status: 3
+tags: []
+user_id: runner
