@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/95ecd1aede944cf6b64ed2b1cb89e36b/artifacts
+end_time: 1684491164741
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 95ecd1aede944cf6b64ed2b1cb89e36b
+run_name: welcoming-robin-400
+run_uuid: 95ecd1aede944cf6b64ed2b1cb89e36b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491163600
+status: 3
+tags: []
+user_id: runner

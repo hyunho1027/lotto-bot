@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a6a7643449764e5f9185b8d9528d86eb/artifacts
+end_time: 1684491165434
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a6a7643449764e5f9185b8d9528d86eb
+run_name: charming-yak-670
+run_uuid: a6a7643449764e5f9185b8d9528d86eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491164753
+status: 3
+tags: []
+user_id: runner

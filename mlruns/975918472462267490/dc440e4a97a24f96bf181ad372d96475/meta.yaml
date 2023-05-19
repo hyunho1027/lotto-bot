@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dc440e4a97a24f96bf181ad372d96475/artifacts
+end_time: 1684491166348
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dc440e4a97a24f96bf181ad372d96475
+run_name: aged-skunk-975
+run_uuid: dc440e4a97a24f96bf181ad372d96475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491165445
+status: 3
+tags: []
+user_id: runner

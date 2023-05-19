@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/81a660606b53485db5d425a22f6b2b30/artifacts
+end_time: 1684491155329
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 81a660606b53485db5d425a22f6b2b30
+run_name: kindly-hog-5
+run_uuid: 81a660606b53485db5d425a22f6b2b30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491153777
+status: 3
+tags: []
+user_id: runner

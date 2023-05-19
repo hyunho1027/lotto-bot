@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3e61bf1ed6fa40b495c29e27f02b49de/artifacts
+end_time: 1684491152560
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3e61bf1ed6fa40b495c29e27f02b49de
+run_name: mysterious-foal-775
+run_uuid: 3e61bf1ed6fa40b495c29e27f02b49de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491151941
+status: 3
+tags: []
+user_id: runner

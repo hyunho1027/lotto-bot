@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/23d6cdd898004c3693e8e1288d4d901d/artifacts
+end_time: 1684491163588
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 23d6cdd898004c3693e8e1288d4d901d
+run_name: abundant-kit-623
+run_uuid: 23d6cdd898004c3693e8e1288d4d901d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491162905
+status: 3
+tags: []
+user_id: runner

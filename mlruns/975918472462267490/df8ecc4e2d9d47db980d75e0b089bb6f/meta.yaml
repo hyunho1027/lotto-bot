@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/df8ecc4e2d9d47db980d75e0b089bb6f/artifacts
+end_time: 1684491161255
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: df8ecc4e2d9d47db980d75e0b089bb6f
+run_name: polite-elk-935
+run_uuid: df8ecc4e2d9d47db980d75e0b089bb6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491160306
+status: 3
+tags: []
+user_id: runner

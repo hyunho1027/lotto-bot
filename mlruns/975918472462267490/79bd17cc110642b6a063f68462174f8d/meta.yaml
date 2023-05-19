@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/79bd17cc110642b6a063f68462174f8d/artifacts
+end_time: 1684491150450
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 79bd17cc110642b6a063f68462174f8d
+run_name: magnificent-hog-92
+run_uuid: 79bd17cc110642b6a063f68462174f8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491149392
+status: 3
+tags: []
+user_id: runner
