@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/afc214adaa784a65ab52ef281b62f068/artifacts
+end_time: 1685096057899
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: afc214adaa784a65ab52ef281b62f068
+run_name: luminous-mouse-996
+run_uuid: afc214adaa784a65ab52ef281b62f068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685096057107
+status: 3
+tags: []
+user_id: runner

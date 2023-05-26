@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/295298a6e91a4aca83bf4dd7ac60bf74/artifacts
+end_time: 1685096050705
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 295298a6e91a4aca83bf4dd7ac60bf74
+run_name: sedate-goat-984
+run_uuid: 295298a6e91a4aca83bf4dd7ac60bf74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685096049693
+status: 3
+tags: []
+user_id: runner

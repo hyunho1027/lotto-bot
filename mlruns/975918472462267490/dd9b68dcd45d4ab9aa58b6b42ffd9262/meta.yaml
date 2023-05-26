@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dd9b68dcd45d4ab9aa58b6b42ffd9262/artifacts
+end_time: 1685096060646
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dd9b68dcd45d4ab9aa58b6b42ffd9262
+run_name: welcoming-stoat-196
+run_uuid: dd9b68dcd45d4ab9aa58b6b42ffd9262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685096058890
+status: 3
+tags: []
+user_id: runner

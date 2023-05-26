@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c7c691eaa42a44abbbc87b6c6df7a3dd/artifacts
+end_time: 1685096057096
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c7c691eaa42a44abbbc87b6c6df7a3dd
+run_name: bright-swan-397
+run_uuid: c7c691eaa42a44abbbc87b6c6df7a3dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685096056014
+status: 3
+tags: []
+user_id: runner

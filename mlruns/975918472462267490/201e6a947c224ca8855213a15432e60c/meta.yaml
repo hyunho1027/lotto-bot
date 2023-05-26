@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/201e6a947c224ca8855213a15432e60c/artifacts
+end_time: 1685096058878
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 201e6a947c224ca8855213a15432e60c
+run_name: skittish-goose-481
+run_uuid: 201e6a947c224ca8855213a15432e60c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685096057910
+status: 3
+tags: []
+user_id: runner

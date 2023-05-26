@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ee7c4009691342d993054968a57d6f10/artifacts
+end_time: 1685096047721
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ee7c4009691342d993054968a57d6f10
+run_name: serious-mole-576
+run_uuid: ee7c4009691342d993054968a57d6f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685096045374
+status: 3
+tags: []
+user_id: runner

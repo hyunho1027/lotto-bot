@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2ea4bca328ea4101a94d1a2d3afc13d0/artifacts
+end_time: 1685096062814
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2ea4bca328ea4101a94d1a2d3afc13d0
+run_name: skillful-yak-542
+run_uuid: 2ea4bca328ea4101a94d1a2d3afc13d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685096060658
+status: 3
+tags: []
+user_id: runner

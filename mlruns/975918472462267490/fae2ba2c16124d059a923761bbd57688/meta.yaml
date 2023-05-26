@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fae2ba2c16124d059a923761bbd57688/artifacts
+end_time: 1685096041904
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fae2ba2c16124d059a923761bbd57688
+run_name: classy-crab-794
+run_uuid: fae2ba2c16124d059a923761bbd57688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685096037737
+status: 3
+tags: []
+user_id: runner
