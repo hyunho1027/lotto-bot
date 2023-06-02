@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8d40bc96c3134b4c9735f8d3f31f94fd/artifacts
+end_time: 1685700746278
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8d40bc96c3134b4c9735f8d3f31f94fd
+run_name: peaceful-perch-558
+run_uuid: 8d40bc96c3134b4c9735f8d3f31f94fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685700743918
+status: 3
+tags: []
+user_id: runner

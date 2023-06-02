@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/09ba3ca1a7ef495eb87b68325b01286e/artifacts
+end_time: 1685700747089
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 09ba3ca1a7ef495eb87b68325b01286e
+run_name: dashing-dog-173
+run_uuid: 09ba3ca1a7ef495eb87b68325b01286e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685700746290
+status: 3
+tags: []
+user_id: runner

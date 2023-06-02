@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d75ff1c3ee004e908e9a85a648005a65/artifacts
+end_time: 1685700748703
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d75ff1c3ee004e908e9a85a648005a65
+run_name: whimsical-rook-165
+run_uuid: d75ff1c3ee004e908e9a85a648005a65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685700747938
+status: 3
+tags: []
+user_id: runner

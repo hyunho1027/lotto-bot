@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/49e671a3bf144f39aea5e704ae052dfa/artifacts
+end_time: 1685700752238
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 49e671a3bf144f39aea5e704ae052dfa
+run_name: adventurous-ant-337
+run_uuid: 49e671a3bf144f39aea5e704ae052dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685700751446
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7c90685d092e4b73bb339c9767264353/artifacts
+end_time: 1685700742514
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7c90685d092e4b73bb339c9767264353
+run_name: luxuriant-gnat-841
+run_uuid: 7c90685d092e4b73bb339c9767264353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685700741402
+status: 3
+tags: []
+user_id: runner
