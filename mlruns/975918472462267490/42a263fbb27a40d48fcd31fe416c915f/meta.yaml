@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/42a263fbb27a40d48fcd31fe416c915f/artifacts
+end_time: 1686305765354
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 42a263fbb27a40d48fcd31fe416c915f
+run_name: skillful-vole-595
+run_uuid: 42a263fbb27a40d48fcd31fe416c915f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686305763977
+status: 3
+tags: []
+user_id: runner

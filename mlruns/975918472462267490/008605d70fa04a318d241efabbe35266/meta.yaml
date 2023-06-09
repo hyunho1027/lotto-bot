@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/008605d70fa04a318d241efabbe35266/artifacts
+end_time: 1686305745699
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 008605d70fa04a318d241efabbe35266
+run_name: blushing-toad-762
+run_uuid: 008605d70fa04a318d241efabbe35266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686305743695
+status: 3
+tags: []
+user_id: runner

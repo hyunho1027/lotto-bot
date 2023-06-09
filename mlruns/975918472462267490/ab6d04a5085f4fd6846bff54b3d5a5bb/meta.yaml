@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ab6d04a5085f4fd6846bff54b3d5a5bb/artifacts
+end_time: 1686305756062
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ab6d04a5085f4fd6846bff54b3d5a5bb
+run_name: beautiful-slug-921
+run_uuid: ab6d04a5085f4fd6846bff54b3d5a5bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686305754081
+status: 3
+tags: []
+user_id: runner

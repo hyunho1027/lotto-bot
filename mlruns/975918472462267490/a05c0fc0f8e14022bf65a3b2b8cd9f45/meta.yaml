@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a05c0fc0f8e14022bf65a3b2b8cd9f45/artifacts
+end_time: 1686305766490
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a05c0fc0f8e14022bf65a3b2b8cd9f45
+run_name: amusing-snipe-408
+run_uuid: a05c0fc0f8e14022bf65a3b2b8cd9f45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686305765369
+status: 3
+tags: []
+user_id: runner
