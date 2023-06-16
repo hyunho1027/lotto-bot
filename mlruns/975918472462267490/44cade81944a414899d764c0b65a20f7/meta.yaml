@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/44cade81944a414899d764c0b65a20f7/artifacts
+end_time: 1686910439907
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 44cade81944a414899d764c0b65a20f7
+run_name: righteous-newt-614
+run_uuid: 44cade81944a414899d764c0b65a20f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910438173
+status: 3
+tags: []
+user_id: runner

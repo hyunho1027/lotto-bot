@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b3184cc7096345578186de00410600ee/artifacts
+end_time: 1686910451847
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b3184cc7096345578186de00410600ee
+run_name: merciful-auk-708
+run_uuid: b3184cc7096345578186de00410600ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910450468
+status: 3
+tags: []
+user_id: runner

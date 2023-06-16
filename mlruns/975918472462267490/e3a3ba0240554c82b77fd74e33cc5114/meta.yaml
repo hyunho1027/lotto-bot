@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e3a3ba0240554c82b77fd74e33cc5114/artifacts
+end_time: 1686910447549
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e3a3ba0240554c82b77fd74e33cc5114
+run_name: abundant-bee-134
+run_uuid: e3a3ba0240554c82b77fd74e33cc5114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910446250
+status: 3
+tags: []
+user_id: runner

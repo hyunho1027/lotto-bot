@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/22a81688249f43358334aae3e6a5053d/artifacts
+end_time: 1686910468735
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 22a81688249f43358334aae3e6a5053d
+run_name: vaunted-goat-821
+run_uuid: 22a81688249f43358334aae3e6a5053d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910464355
+status: 3
+tags: []
+user_id: runner

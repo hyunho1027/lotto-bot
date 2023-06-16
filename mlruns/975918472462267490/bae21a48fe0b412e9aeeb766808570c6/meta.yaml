@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bae21a48fe0b412e9aeeb766808570c6/artifacts
+end_time: 1686910455049
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bae21a48fe0b412e9aeeb766808570c6
+run_name: resilient-slug-105
+run_uuid: bae21a48fe0b412e9aeeb766808570c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910453320
+status: 3
+tags: []
+user_id: runner

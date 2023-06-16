@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3382a2c6bbf64dd28bf00f4cc56a5268/artifacts
+end_time: 1686910450438
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3382a2c6bbf64dd28bf00f4cc56a5268
+run_name: judicious-lark-83
+run_uuid: 3382a2c6bbf64dd28bf00f4cc56a5268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910448978
+status: 3
+tags: []
+user_id: runner
