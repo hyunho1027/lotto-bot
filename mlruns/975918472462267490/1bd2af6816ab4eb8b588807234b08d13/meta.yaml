@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1bd2af6816ab4eb8b588807234b08d13/artifacts
+end_time: 1687515312944
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1bd2af6816ab4eb8b588807234b08d13
+run_name: bouncy-midge-276
+run_uuid: 1bd2af6816ab4eb8b588807234b08d13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515309052
+status: 3
+tags: []
+user_id: runner

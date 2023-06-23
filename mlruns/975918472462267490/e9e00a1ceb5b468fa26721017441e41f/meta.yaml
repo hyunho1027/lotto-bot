@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e9e00a1ceb5b468fa26721017441e41f/artifacts
+end_time: 1687515292788
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e9e00a1ceb5b468fa26721017441e41f
+run_name: inquisitive-bee-834
+run_uuid: e9e00a1ceb5b468fa26721017441e41f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515291087
+status: 3
+tags: []
+user_id: runner

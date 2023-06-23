@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/31926684f1ab4163961154308656739d/artifacts
+end_time: 1687515304758
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 31926684f1ab4163961154308656739d
+run_name: sincere-sloth-41
+run_uuid: 31926684f1ab4163961154308656739d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515304146
+status: 3
+tags: []
+user_id: runner

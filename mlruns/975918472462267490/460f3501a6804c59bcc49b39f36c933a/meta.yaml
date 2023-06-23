@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/460f3501a6804c59bcc49b39f36c933a/artifacts
+end_time: 1687515296523
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 460f3501a6804c59bcc49b39f36c933a
+run_name: amusing-shark-379
+run_uuid: 460f3501a6804c59bcc49b39f36c933a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515292800
+status: 3
+tags: []
+user_id: runner

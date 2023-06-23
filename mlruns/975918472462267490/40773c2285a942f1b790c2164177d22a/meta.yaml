@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/40773c2285a942f1b790c2164177d22a/artifacts
+end_time: 1687515306452
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 40773c2285a942f1b790c2164177d22a
+run_name: handsome-panda-783
+run_uuid: 40773c2285a942f1b790c2164177d22a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515305937
+status: 3
+tags: []
+user_id: runner

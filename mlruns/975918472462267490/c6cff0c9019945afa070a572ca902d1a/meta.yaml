@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c6cff0c9019945afa070a572ca902d1a/artifacts
+end_time: 1687515298225
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c6cff0c9019945afa070a572ca902d1a
+run_name: nimble-toad-510
+run_uuid: c6cff0c9019945afa070a572ca902d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515296540
+status: 3
+tags: []
+user_id: runner

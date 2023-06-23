@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/89152e72a0dc42ff8ee0b51cfe9320f5/artifacts
+end_time: 1687515309047
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 89152e72a0dc42ff8ee0b51cfe9320f5
+run_name: rebellious-sheep-505
+run_uuid: 89152e72a0dc42ff8ee0b51cfe9320f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515308256
+status: 3
+tags: []
+user_id: runner

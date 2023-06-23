@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a839996174df4cf0a2b6dc1ab0bc1cf4/artifacts
+end_time: 1687515302744
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a839996174df4cf0a2b6dc1ab0bc1cf4
+run_name: peaceful-newt-614
+run_uuid: a839996174df4cf0a2b6dc1ab0bc1cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515301131
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eccc0e829a7a4cf19190c8d06912c1ea/artifacts
+end_time: 1687515291075
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eccc0e829a7a4cf19190c8d06912c1ea
+run_name: likeable-kite-68
+run_uuid: eccc0e829a7a4cf19190c8d06912c1ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515287778
+status: 3
+tags: []
+user_id: runner

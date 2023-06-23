@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/97d537a1513b4a2d812216c63db95b7c/artifacts
+end_time: 1687515308244
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 97d537a1513b4a2d812216c63db95b7c
+run_name: sassy-shrew-590
+run_uuid: 97d537a1513b4a2d812216c63db95b7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515306463
+status: 3
+tags: []
+user_id: runner

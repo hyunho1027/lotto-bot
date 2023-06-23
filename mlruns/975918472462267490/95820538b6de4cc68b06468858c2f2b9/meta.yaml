@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/95820538b6de4cc68b06468858c2f2b9/artifacts
+end_time: 1687515299887
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 95820538b6de4cc68b06468858c2f2b9
+run_name: industrious-squid-52
+run_uuid: 95820538b6de4cc68b06468858c2f2b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515298243
+status: 3
+tags: []
+user_id: runner

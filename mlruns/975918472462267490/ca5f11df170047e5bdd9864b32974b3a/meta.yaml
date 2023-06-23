@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ca5f11df170047e5bdd9864b32974b3a/artifacts
+end_time: 1687515287753
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ca5f11df170047e5bdd9864b32974b3a
+run_name: casual-wasp-530
+run_uuid: ca5f11df170047e5bdd9864b32974b3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515285428
+status: 3
+tags: []
+user_id: runner
