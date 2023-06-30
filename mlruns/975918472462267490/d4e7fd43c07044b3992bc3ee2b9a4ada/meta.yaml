@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d4e7fd43c07044b3992bc3ee2b9a4ada/artifacts
+end_time: 1688120053722
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d4e7fd43c07044b3992bc3ee2b9a4ada
+run_name: suave-lamb-95
+run_uuid: d4e7fd43c07044b3992bc3ee2b9a4ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688120051362
+status: 3
+tags: []
+user_id: runner

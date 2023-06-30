@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9d16b23e607d4a0386f8944c8ed79da1/artifacts
+end_time: 1688120040118
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9d16b23e607d4a0386f8944c8ed79da1
+run_name: suave-frog-444
+run_uuid: 9d16b23e607d4a0386f8944c8ed79da1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688120038280
+status: 3
+tags: []
+user_id: runner

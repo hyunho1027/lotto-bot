@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/190ecd7b60e64f208199e0f0d8104ada/artifacts
+end_time: 1688120055411
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 190ecd7b60e64f208199e0f0d8104ada
+run_name: honorable-dove-336
+run_uuid: 190ecd7b60e64f208199e0f0d8104ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688120054358
+status: 3
+tags: []
+user_id: runner

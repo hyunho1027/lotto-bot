@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/641334d17ef842aa8497d8765ae7f78d/artifacts
+end_time: 1688120037066
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 641334d17ef842aa8497d8765ae7f78d
+run_name: sedate-mink-952
+run_uuid: 641334d17ef842aa8497d8765ae7f78d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688120035807
+status: 3
+tags: []
+user_id: runner

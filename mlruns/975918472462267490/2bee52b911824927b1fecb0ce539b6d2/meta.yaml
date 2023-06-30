@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2bee52b911824927b1fecb0ce539b6d2/artifacts
+end_time: 1688120043261
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2bee52b911824927b1fecb0ce539b6d2
+run_name: casual-bass-725
+run_uuid: 2bee52b911824927b1fecb0ce539b6d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688120042423
+status: 3
+tags: []
+user_id: runner

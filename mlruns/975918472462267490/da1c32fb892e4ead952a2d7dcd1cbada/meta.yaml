@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/da1c32fb892e4ead952a2d7dcd1cbada/artifacts
+end_time: 1688120051349
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: da1c32fb892e4ead952a2d7dcd1cbada
+run_name: rare-loon-686
+run_uuid: da1c32fb892e4ead952a2d7dcd1cbada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688120050688
+status: 3
+tags: []
+user_id: runner

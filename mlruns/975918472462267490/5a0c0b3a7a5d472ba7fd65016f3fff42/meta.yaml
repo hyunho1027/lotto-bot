@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5a0c0b3a7a5d472ba7fd65016f3fff42/artifacts
+end_time: 1688120035796
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5a0c0b3a7a5d472ba7fd65016f3fff42
+run_name: rebellious-wasp-269
+run_uuid: 5a0c0b3a7a5d472ba7fd65016f3fff42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688120033951
+status: 3
+tags: []
+user_id: runner
