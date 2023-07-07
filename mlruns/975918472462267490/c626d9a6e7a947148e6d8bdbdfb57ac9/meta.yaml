@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c626d9a6e7a947148e6d8bdbdfb57ac9/artifacts
+end_time: 1688724869316
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c626d9a6e7a947148e6d8bdbdfb57ac9
+run_name: unequaled-lynx-797
+run_uuid: c626d9a6e7a947148e6d8bdbdfb57ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724867102
+status: 3
+tags: []
+user_id: runner

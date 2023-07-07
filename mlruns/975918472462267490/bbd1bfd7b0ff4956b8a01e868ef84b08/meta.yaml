@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bbd1bfd7b0ff4956b8a01e868ef84b08/artifacts
+end_time: 1688724873212
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bbd1bfd7b0ff4956b8a01e868ef84b08
+run_name: gifted-moth-157
+run_uuid: bbd1bfd7b0ff4956b8a01e868ef84b08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724871875
+status: 3
+tags: []
+user_id: runner

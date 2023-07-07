@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ad176ffa3b5b4383adb5cb94abf71b5f/artifacts
+end_time: 1688724891721
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ad176ffa3b5b4383adb5cb94abf71b5f
+run_name: awesome-sloth-28
+run_uuid: ad176ffa3b5b4383adb5cb94abf71b5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724885124
+status: 3
+tags: []
+user_id: runner

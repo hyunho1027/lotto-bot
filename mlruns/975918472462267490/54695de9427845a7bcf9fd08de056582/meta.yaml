@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/54695de9427845a7bcf9fd08de056582/artifacts
+end_time: 1688724874529
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 54695de9427845a7bcf9fd08de056582
+run_name: powerful-swan-298
+run_uuid: 54695de9427845a7bcf9fd08de056582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724873226
+status: 3
+tags: []
+user_id: runner

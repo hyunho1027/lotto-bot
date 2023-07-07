@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/85e5ca08502b4d1d9db6d9993efb16c3/artifacts
+end_time: 1688724857884
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 85e5ca08502b4d1d9db6d9993efb16c3
+run_name: entertaining-bee-499
+run_uuid: 85e5ca08502b4d1d9db6d9993efb16c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724856295
+status: 3
+tags: []
+user_id: runner

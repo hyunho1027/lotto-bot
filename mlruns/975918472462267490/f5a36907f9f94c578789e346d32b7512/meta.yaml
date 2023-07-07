@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f5a36907f9f94c578789e346d32b7512/artifacts
+end_time: 1688724867089
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f5a36907f9f94c578789e346d32b7512
+run_name: spiffy-trout-995
+run_uuid: f5a36907f9f94c578789e346d32b7512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724865470
+status: 3
+tags: []
+user_id: runner
