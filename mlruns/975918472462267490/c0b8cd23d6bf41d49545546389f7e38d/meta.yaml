@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c0b8cd23d6bf41d49545546389f7e38d/artifacts
+end_time: 1689329667834
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c0b8cd23d6bf41d49545546389f7e38d
+run_name: blushing-snail-665
+run_uuid: c0b8cd23d6bf41d49545546389f7e38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689329666666
+status: 3
+tags: []
+user_id: runner

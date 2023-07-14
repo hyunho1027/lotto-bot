@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9e9caa718342449e998028409fd1ba40/artifacts
+end_time: 1689329664305
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9e9caa718342449e998028409fd1ba40
+run_name: caring-boar-589
+run_uuid: 9e9caa718342449e998028409fd1ba40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689329663292
+status: 3
+tags: []
+user_id: runner

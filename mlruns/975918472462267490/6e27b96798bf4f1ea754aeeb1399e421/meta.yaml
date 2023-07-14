@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6e27b96798bf4f1ea754aeeb1399e421/artifacts
+end_time: 1689329661793
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6e27b96798bf4f1ea754aeeb1399e421
+run_name: polite-hound-855
+run_uuid: 6e27b96798bf4f1ea754aeeb1399e421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689329660778
+status: 3
+tags: []
+user_id: runner

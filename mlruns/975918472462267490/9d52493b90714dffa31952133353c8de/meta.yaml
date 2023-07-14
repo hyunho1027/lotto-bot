@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9d52493b90714dffa31952133353c8de/artifacts
+end_time: 1689329653278
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9d52493b90714dffa31952133353c8de
+run_name: bald-crane-789
+run_uuid: 9d52493b90714dffa31952133353c8de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689329652458
+status: 3
+tags: []
+user_id: runner
