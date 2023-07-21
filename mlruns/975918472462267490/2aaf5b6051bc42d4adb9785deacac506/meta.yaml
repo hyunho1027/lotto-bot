@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2aaf5b6051bc42d4adb9785deacac506/artifacts
+end_time: 1689934445314
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2aaf5b6051bc42d4adb9785deacac506
+run_name: abrasive-mole-839
+run_uuid: 2aaf5b6051bc42d4adb9785deacac506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934444505
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bdc45a361c9e47e2a526c57062bfdcbf/artifacts
+end_time: 1689934443783
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bdc45a361c9e47e2a526c57062bfdcbf
+run_name: valuable-shrike-45
+run_uuid: bdc45a361c9e47e2a526c57062bfdcbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934443045
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ed7fa2bfe7ad420cbdce541fc8248289/artifacts
+end_time: 1689934427985
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ed7fa2bfe7ad420cbdce541fc8248289
+run_name: monumental-rat-983
+run_uuid: ed7fa2bfe7ad420cbdce541fc8248289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934426674
+status: 3
+tags: []
+user_id: runner

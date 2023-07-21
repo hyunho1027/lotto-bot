@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b52fb5c92c62407cbd8071004933017d/artifacts
+end_time: 1689934443031
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b52fb5c92c62407cbd8071004933017d
+run_name: fortunate-wolf-38
+run_uuid: b52fb5c92c62407cbd8071004933017d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934442121
+status: 3
+tags: []
+user_id: runner

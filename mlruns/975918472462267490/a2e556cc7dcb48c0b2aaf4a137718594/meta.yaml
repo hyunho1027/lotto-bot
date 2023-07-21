@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a2e556cc7dcb48c0b2aaf4a137718594/artifacts
+end_time: 1689934433937
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a2e556cc7dcb48c0b2aaf4a137718594
+run_name: gifted-worm-442
+run_uuid: a2e556cc7dcb48c0b2aaf4a137718594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934432812
+status: 3
+tags: []
+user_id: runner

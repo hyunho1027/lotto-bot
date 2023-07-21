@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/89f787bb14994e288370e80fcf50eae8/artifacts
+end_time: 1689934444493
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 89f787bb14994e288370e80fcf50eae8
+run_name: painted-toad-747
+run_uuid: 89f787bb14994e288370e80fcf50eae8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934443794
+status: 3
+tags: []
+user_id: runner

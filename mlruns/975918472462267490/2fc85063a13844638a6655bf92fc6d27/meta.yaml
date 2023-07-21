@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2fc85063a13844638a6655bf92fc6d27/artifacts
+end_time: 1689934451218
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2fc85063a13844638a6655bf92fc6d27
+run_name: bald-toad-281
+run_uuid: 2fc85063a13844638a6655bf92fc6d27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934446530
+status: 3
+tags: []
+user_id: runner
