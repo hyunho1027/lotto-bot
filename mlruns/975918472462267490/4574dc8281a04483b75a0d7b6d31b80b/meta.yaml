@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4574dc8281a04483b75a0d7b6d31b80b/artifacts
+end_time: 1690539273707
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4574dc8281a04483b75a0d7b6d31b80b
+run_name: powerful-cub-940
+run_uuid: 4574dc8281a04483b75a0d7b6d31b80b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539271504
+status: 3
+tags: []
+user_id: runner

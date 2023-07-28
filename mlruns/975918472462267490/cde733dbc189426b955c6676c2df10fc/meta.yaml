@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cde733dbc189426b955c6676c2df10fc/artifacts
+end_time: 1690539280806
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cde733dbc189426b955c6676c2df10fc
+run_name: placid-dog-589
+run_uuid: cde733dbc189426b955c6676c2df10fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539278968
+status: 3
+tags: []
+user_id: runner

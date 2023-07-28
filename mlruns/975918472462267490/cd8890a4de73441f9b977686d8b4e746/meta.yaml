@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cd8890a4de73441f9b977686d8b4e746/artifacts
+end_time: 1690539285425
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cd8890a4de73441f9b977686d8b4e746
+run_name: stylish-whale-750
+run_uuid: cd8890a4de73441f9b977686d8b4e746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539284757
+status: 3
+tags: []
+user_id: runner

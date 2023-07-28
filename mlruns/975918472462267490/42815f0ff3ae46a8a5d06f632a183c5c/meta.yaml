@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/42815f0ff3ae46a8a5d06f632a183c5c/artifacts
+end_time: 1690539284743
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 42815f0ff3ae46a8a5d06f632a183c5c
+run_name: overjoyed-turtle-531
+run_uuid: 42815f0ff3ae46a8a5d06f632a183c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539283721
+status: 3
+tags: []
+user_id: runner

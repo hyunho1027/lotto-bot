@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/080655d7e13c49ea80594d2f48f0a995/artifacts
+end_time: 1690539276009
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 080655d7e13c49ea80594d2f48f0a995
+run_name: exultant-deer-615
+run_uuid: 080655d7e13c49ea80594d2f48f0a995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539273738
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c28351c701b94cf48a08a2223f1d388f/artifacts
+end_time: 1690539288212
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c28351c701b94cf48a08a2223f1d388f
+run_name: honorable-tern-239
+run_uuid: c28351c701b94cf48a08a2223f1d388f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539286840
+status: 3
+tags: []
+user_id: runner

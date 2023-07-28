@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f34d4e905e3042cca8ad743748afc290/artifacts
+end_time: 1690539286826
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f34d4e905e3042cca8ad743748afc290
+run_name: nebulous-shark-707
+run_uuid: f34d4e905e3042cca8ad743748afc290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539285439
+status: 3
+tags: []
+user_id: runner

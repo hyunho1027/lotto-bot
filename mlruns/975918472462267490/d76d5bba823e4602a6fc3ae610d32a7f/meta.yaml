@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d76d5bba823e4602a6fc3ae610d32a7f/artifacts
+end_time: 1690539264465
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d76d5bba823e4602a6fc3ae610d32a7f
+run_name: dashing-kite-831
+run_uuid: d76d5bba823e4602a6fc3ae610d32a7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539262746
+status: 3
+tags: []
+user_id: runner
