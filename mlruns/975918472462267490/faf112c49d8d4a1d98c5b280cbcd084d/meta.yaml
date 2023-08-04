@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/faf112c49d8d4a1d98c5b280cbcd084d/artifacts
+end_time: 1691143971421
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: faf112c49d8d4a1d98c5b280cbcd084d
+run_name: aged-hen-498
+run_uuid: faf112c49d8d4a1d98c5b280cbcd084d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691143969158
+status: 3
+tags: []
+user_id: runner

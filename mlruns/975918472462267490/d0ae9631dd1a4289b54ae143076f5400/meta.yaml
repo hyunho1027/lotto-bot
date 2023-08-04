@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d0ae9631dd1a4289b54ae143076f5400/artifacts
+end_time: 1691143975550
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d0ae9631dd1a4289b54ae143076f5400
+run_name: orderly-ram-82
+run_uuid: d0ae9631dd1a4289b54ae143076f5400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691143973762
+status: 3
+tags: []
+user_id: runner

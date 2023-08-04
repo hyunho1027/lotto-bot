@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d9c2d7bba1814ccb960d700221d26eda/artifacts
+end_time: 1691143977071
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d9c2d7bba1814ccb960d700221d26eda
+run_name: bouncy-whale-965
+run_uuid: d9c2d7bba1814ccb960d700221d26eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691143976348
+status: 3
+tags: []
+user_id: runner

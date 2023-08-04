@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dc48add438f1412ebf3020e6a2a7d06d/artifacts
+end_time: 1691143962233
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dc48add438f1412ebf3020e6a2a7d06d
+run_name: chill-stork-217
+run_uuid: dc48add438f1412ebf3020e6a2a7d06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691143958346
+status: 3
+tags: []
+user_id: runner

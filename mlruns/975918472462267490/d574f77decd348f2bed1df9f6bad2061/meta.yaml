@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d574f77decd348f2bed1df9f6bad2061/artifacts
+end_time: 1691143984695
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d574f77decd348f2bed1df9f6bad2061
+run_name: whimsical-squid-148
+run_uuid: d574f77decd348f2bed1df9f6bad2061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691143982784
+status: 3
+tags: []
+user_id: runner
