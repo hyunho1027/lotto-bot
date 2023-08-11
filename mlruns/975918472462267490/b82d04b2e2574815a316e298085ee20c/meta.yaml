@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b82d04b2e2574815a316e298085ee20c/artifacts
+end_time: 1691748756313
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b82d04b2e2574815a316e298085ee20c
+run_name: incongruous-loon-580
+run_uuid: b82d04b2e2574815a316e298085ee20c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748754881
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/baa75039cb6d428e90af25bae74083da/artifacts
+end_time: 1691748775136
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: baa75039cb6d428e90af25bae74083da
+run_name: whimsical-yak-196
+run_uuid: baa75039cb6d428e90af25bae74083da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748770915
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f57a2cb7d3d44f168aa91cd917015135/artifacts
+end_time: 1691748749049
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f57a2cb7d3d44f168aa91cd917015135
+run_name: dashing-squirrel-362
+run_uuid: f57a2cb7d3d44f168aa91cd917015135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748747042
+status: 3
+tags: []
+user_id: runner

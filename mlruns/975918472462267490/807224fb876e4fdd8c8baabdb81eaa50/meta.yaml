@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/807224fb876e4fdd8c8baabdb81eaa50/artifacts
+end_time: 1691748746046
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 807224fb876e4fdd8c8baabdb81eaa50
+run_name: hilarious-goat-312
+run_uuid: 807224fb876e4fdd8c8baabdb81eaa50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748744531
+status: 3
+tags: []
+user_id: runner

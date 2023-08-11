@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8cea9ae667464854abe52a03aeb98ce0/artifacts
+end_time: 1691748744518
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8cea9ae667464854abe52a03aeb98ce0
+run_name: resilient-mule-125
+run_uuid: 8cea9ae667464854abe52a03aeb98ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748742475
+status: 3
+tags: []
+user_id: runner

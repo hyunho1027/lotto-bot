@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f56280ca4ab44cb08e6a721cbcb5aa69/artifacts
+end_time: 1691748764699
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f56280ca4ab44cb08e6a721cbcb5aa69
+run_name: caring-sheep-527
+run_uuid: f56280ca4ab44cb08e6a721cbcb5aa69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748762391
+status: 3
+tags: []
+user_id: runner
