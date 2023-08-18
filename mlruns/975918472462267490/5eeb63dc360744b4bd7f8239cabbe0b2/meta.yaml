@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5eeb63dc360744b4bd7f8239cabbe0b2/artifacts
+end_time: 1692353722768
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5eeb63dc360744b4bd7f8239cabbe0b2
+run_name: glamorous-mole-165
+run_uuid: 5eeb63dc360744b4bd7f8239cabbe0b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353721991
+status: 3
+tags: []
+user_id: runner

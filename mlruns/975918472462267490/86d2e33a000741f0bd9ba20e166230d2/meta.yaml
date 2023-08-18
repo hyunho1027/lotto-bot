@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/86d2e33a000741f0bd9ba20e166230d2/artifacts
+end_time: 1692353715389
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 86d2e33a000741f0bd9ba20e166230d2
+run_name: selective-cub-314
+run_uuid: 86d2e33a000741f0bd9ba20e166230d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353714082
+status: 3
+tags: []
+user_id: runner

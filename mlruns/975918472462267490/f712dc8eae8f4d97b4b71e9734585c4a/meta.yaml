@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f712dc8eae8f4d97b4b71e9734585c4a/artifacts
+end_time: 1692353725629
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f712dc8eae8f4d97b4b71e9734585c4a
+run_name: gentle-hog-984
+run_uuid: f712dc8eae8f4d97b4b71e9734585c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353724498
+status: 3
+tags: []
+user_id: runner

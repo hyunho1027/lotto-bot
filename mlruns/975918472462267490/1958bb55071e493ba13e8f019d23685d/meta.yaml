@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1958bb55071e493ba13e8f019d23685d/artifacts
+end_time: 1692353719972
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1958bb55071e493ba13e8f019d23685d
+run_name: selective-ox-360
+run_uuid: 1958bb55071e493ba13e8f019d23685d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353719210
+status: 3
+tags: []
+user_id: runner

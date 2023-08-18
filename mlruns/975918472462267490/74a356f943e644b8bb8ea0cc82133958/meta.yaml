@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/74a356f943e644b8bb8ea0cc82133958/artifacts
+end_time: 1692353724474
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 74a356f943e644b8bb8ea0cc82133958
+run_name: victorious-pug-873
+run_uuid: 74a356f943e644b8bb8ea0cc82133958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353722780
+status: 3
+tags: []
+user_id: runner

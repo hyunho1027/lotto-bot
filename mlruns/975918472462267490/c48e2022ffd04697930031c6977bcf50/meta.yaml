@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c48e2022ffd04697930031c6977bcf50/artifacts
+end_time: 1692353714068
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c48e2022ffd04697930031c6977bcf50
+run_name: thundering-koi-463
+run_uuid: c48e2022ffd04697930031c6977bcf50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353712393
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bd9efba0455543c09d45a2fd76f91b7e/artifacts
+end_time: 1692353719198
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bd9efba0455543c09d45a2fd76f91b7e
+run_name: intrigued-bat-909
+run_uuid: bd9efba0455543c09d45a2fd76f91b7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353718009
+status: 3
+tags: []
+user_id: runner

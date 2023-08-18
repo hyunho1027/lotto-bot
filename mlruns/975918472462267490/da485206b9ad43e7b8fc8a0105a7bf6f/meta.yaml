@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/da485206b9ad43e7b8fc8a0105a7bf6f/artifacts
+end_time: 1692353721979
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: da485206b9ad43e7b8fc8a0105a7bf6f
+run_name: enthused-deer-624
+run_uuid: da485206b9ad43e7b8fc8a0105a7bf6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353721177
+status: 3
+tags: []
+user_id: runner

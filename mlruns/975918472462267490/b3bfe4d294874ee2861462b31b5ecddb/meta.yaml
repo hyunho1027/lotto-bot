@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b3bfe4d294874ee2861462b31b5ecddb/artifacts
+end_time: 1692353737063
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b3bfe4d294874ee2861462b31b5ecddb
+run_name: casual-yak-475
+run_uuid: b3bfe4d294874ee2861462b31b5ecddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353733083
+status: 3
+tags: []
+user_id: runner
