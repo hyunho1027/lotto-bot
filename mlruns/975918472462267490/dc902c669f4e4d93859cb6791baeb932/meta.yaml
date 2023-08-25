@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dc902c669f4e4d93859cb6791baeb932/artifacts
+end_time: 1692958392376
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dc902c669f4e4d93859cb6791baeb932
+run_name: resilient-colt-292
+run_uuid: dc902c669f4e4d93859cb6791baeb932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958390820
+status: 3
+tags: []
+user_id: runner

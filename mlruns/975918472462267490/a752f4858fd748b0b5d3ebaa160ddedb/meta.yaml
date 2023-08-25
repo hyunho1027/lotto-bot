@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a752f4858fd748b0b5d3ebaa160ddedb/artifacts
+end_time: 1692958393945
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a752f4858fd748b0b5d3ebaa160ddedb
+run_name: illustrious-ape-946
+run_uuid: a752f4858fd748b0b5d3ebaa160ddedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958392399
+status: 3
+tags: []
+user_id: runner

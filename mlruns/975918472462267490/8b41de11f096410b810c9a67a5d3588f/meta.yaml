@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8b41de11f096410b810c9a67a5d3588f/artifacts
+end_time: 1692958417761
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8b41de11f096410b810c9a67a5d3588f
+run_name: caring-trout-221
+run_uuid: 8b41de11f096410b810c9a67a5d3588f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958412679
+status: 3
+tags: []
+user_id: runner

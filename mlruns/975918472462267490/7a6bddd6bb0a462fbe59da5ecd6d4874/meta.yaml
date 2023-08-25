@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7a6bddd6bb0a462fbe59da5ecd6d4874/artifacts
+end_time: 1692958408719
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7a6bddd6bb0a462fbe59da5ecd6d4874
+run_name: adorable-cow-363
+run_uuid: 7a6bddd6bb0a462fbe59da5ecd6d4874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958405125
+status: 3
+tags: []
+user_id: runner

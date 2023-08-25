@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c6bf846a917b46aba7691a3d1aaa5cce/artifacts
+end_time: 1692958390808
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c6bf846a917b46aba7691a3d1aaa5cce
+run_name: kindly-doe-925
+run_uuid: c6bf846a917b46aba7691a3d1aaa5cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958386666
+status: 3
+tags: []
+user_id: runner

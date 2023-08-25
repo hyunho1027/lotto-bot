@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/580ca5028eda4b93a2227412df9b9f16/artifacts
+end_time: 1692958401980
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 580ca5028eda4b93a2227412df9b9f16
+run_name: gregarious-skunk-285
+run_uuid: 580ca5028eda4b93a2227412df9b9f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958401010
+status: 3
+tags: []
+user_id: runner
