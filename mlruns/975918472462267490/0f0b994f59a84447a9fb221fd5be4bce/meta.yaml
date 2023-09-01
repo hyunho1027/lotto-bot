@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0f0b994f59a84447a9fb221fd5be4bce/artifacts
+end_time: 1693563429806
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0f0b994f59a84447a9fb221fd5be4bce
+run_name: merciful-crow-456
+run_uuid: 0f0b994f59a84447a9fb221fd5be4bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693563424467
+status: 3
+tags: []
+user_id: runner

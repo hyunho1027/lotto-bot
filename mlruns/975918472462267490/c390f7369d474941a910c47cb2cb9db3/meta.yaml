@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c390f7369d474941a910c47cb2cb9db3/artifacts
+end_time: 1693563483060
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c390f7369d474941a910c47cb2cb9db3
+run_name: gregarious-chimp-259
+run_uuid: c390f7369d474941a910c47cb2cb9db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693563478888
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/811de9482a594eb7a2d8583f039c44bf/artifacts
+end_time: 1693563452097
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 811de9482a594eb7a2d8583f039c44bf
+run_name: amusing-calf-712
+run_uuid: 811de9482a594eb7a2d8583f039c44bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693563447377
+status: 3
+tags: []
+user_id: runner

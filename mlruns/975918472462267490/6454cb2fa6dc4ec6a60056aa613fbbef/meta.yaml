@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6454cb2fa6dc4ec6a60056aa613fbbef/artifacts
+end_time: 1693563411423
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6454cb2fa6dc4ec6a60056aa613fbbef
+run_name: nosy-cow-350
+run_uuid: 6454cb2fa6dc4ec6a60056aa613fbbef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693563391377
+status: 3
+tags: []
+user_id: runner

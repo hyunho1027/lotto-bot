@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1ec23720604b46dba2bf897827ca8dd9/artifacts
+end_time: 1693563356300
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1ec23720604b46dba2bf897827ca8dd9
+run_name: selective-skunk-1000
+run_uuid: 1ec23720604b46dba2bf897827ca8dd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693563346256
+status: 3
+tags: []
+user_id: runner
