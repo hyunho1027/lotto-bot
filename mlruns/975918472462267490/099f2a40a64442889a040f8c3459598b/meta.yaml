@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/099f2a40a64442889a040f8c3459598b/artifacts
+end_time: 1694168006276
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 099f2a40a64442889a040f8c3459598b
+run_name: luminous-cat-763
+run_uuid: 099f2a40a64442889a040f8c3459598b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694168004884
+status: 3
+tags: []
+user_id: runner

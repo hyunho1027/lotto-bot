@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a6eaf3b336fa4cc995b5dc05dac7b9d7/artifacts
+end_time: 1694167986871
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a6eaf3b336fa4cc995b5dc05dac7b9d7
+run_name: upbeat-bat-214
+run_uuid: a6eaf3b336fa4cc995b5dc05dac7b9d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167983634
+status: 3
+tags: []
+user_id: runner

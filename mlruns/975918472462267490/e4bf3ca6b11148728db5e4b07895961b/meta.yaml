@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e4bf3ca6b11148728db5e4b07895961b/artifacts
+end_time: 1694168010710
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e4bf3ca6b11148728db5e4b07895961b
+run_name: angry-fly-110
+run_uuid: e4bf3ca6b11148728db5e4b07895961b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694168009240
+status: 3
+tags: []
+user_id: runner

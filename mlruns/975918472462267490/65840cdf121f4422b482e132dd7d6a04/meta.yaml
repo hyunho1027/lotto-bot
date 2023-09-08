@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/65840cdf121f4422b482e132dd7d6a04/artifacts
+end_time: 1694167995795
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 65840cdf121f4422b482e132dd7d6a04
+run_name: serious-seal-595
+run_uuid: 65840cdf121f4422b482e132dd7d6a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167992791
+status: 3
+tags: []
+user_id: runner

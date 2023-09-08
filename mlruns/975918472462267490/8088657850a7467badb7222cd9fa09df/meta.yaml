@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8088657850a7467badb7222cd9fa09df/artifacts
+end_time: 1694167988402
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8088657850a7467badb7222cd9fa09df
+run_name: enthused-mare-405
+run_uuid: 8088657850a7467badb7222cd9fa09df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167986890
+status: 3
+tags: []
+user_id: runner

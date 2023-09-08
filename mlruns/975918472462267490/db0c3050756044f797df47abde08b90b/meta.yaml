@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/db0c3050756044f797df47abde08b90b/artifacts
+end_time: 1694168014572
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: db0c3050756044f797df47abde08b90b
+run_name: flawless-boar-979
+run_uuid: db0c3050756044f797df47abde08b90b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694168013647
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8693b7b8a2f7472db39258065066af15/artifacts
+end_time: 1694168012593
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8693b7b8a2f7472db39258065066af15
+run_name: kindly-horse-620
+run_uuid: 8693b7b8a2f7472db39258065066af15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694168010723
+status: 3
+tags: []
+user_id: runner

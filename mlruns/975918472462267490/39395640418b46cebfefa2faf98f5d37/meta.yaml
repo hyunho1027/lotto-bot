@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/39395640418b46cebfefa2faf98f5d37/artifacts
+end_time: 1694168000811
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 39395640418b46cebfefa2faf98f5d37
+run_name: monumental-duck-593
+run_uuid: 39395640418b46cebfefa2faf98f5d37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167999109
+status: 3
+tags: []
+user_id: runner

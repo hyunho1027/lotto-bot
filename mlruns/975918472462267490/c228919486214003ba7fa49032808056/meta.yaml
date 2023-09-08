@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c228919486214003ba7fa49032808056/artifacts
+end_time: 1694168003951
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c228919486214003ba7fa49032808056
+run_name: persistent-horse-279
+run_uuid: c228919486214003ba7fa49032808056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694168000835
+status: 3
+tags: []
+user_id: runner
