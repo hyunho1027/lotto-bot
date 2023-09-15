@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/452303870fa149ce95f7c4f881c82854/artifacts
+end_time: 1694772791007
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 452303870fa149ce95f7c4f881c82854
+run_name: languid-goose-727
+run_uuid: 452303870fa149ce95f7c4f881c82854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772788643
+status: 3
+tags: []
+user_id: runner

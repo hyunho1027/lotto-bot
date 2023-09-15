@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/59f71ce24cb44d5d92af076e3d8f985d/artifacts
+end_time: 1694772797133
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 59f71ce24cb44d5d92af076e3d8f985d
+run_name: overjoyed-bird-638
+run_uuid: 59f71ce24cb44d5d92af076e3d8f985d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772796483
+status: 3
+tags: []
+user_id: runner

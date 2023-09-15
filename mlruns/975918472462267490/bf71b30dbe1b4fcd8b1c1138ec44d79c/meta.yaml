@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bf71b30dbe1b4fcd8b1c1138ec44d79c/artifacts
+end_time: 1694772783238
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bf71b30dbe1b4fcd8b1c1138ec44d79c
+run_name: puzzled-crane-56
+run_uuid: bf71b30dbe1b4fcd8b1c1138ec44d79c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772782108
+status: 3
+tags: []
+user_id: runner

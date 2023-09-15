@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eee271d5b0d04d5bab80221740fa19e1/artifacts
+end_time: 1694772796470
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eee271d5b0d04d5bab80221740fa19e1
+run_name: sneaky-squirrel-185
+run_uuid: eee271d5b0d04d5bab80221740fa19e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772795500
+status: 3
+tags: []
+user_id: runner

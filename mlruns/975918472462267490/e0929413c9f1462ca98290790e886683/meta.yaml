@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e0929413c9f1462ca98290790e886683/artifacts
+end_time: 1694772786232
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e0929413c9f1462ca98290790e886683
+run_name: bustling-croc-320
+run_uuid: e0929413c9f1462ca98290790e886683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772783251
+status: 3
+tags: []
+user_id: runner

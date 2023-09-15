@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b7838ca735e7445e9949e6e5a1001796/artifacts
+end_time: 1694772788630
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b7838ca735e7445e9949e6e5a1001796
+run_name: nosy-mole-511
+run_uuid: b7838ca735e7445e9949e6e5a1001796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772787848
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/372cc767cec0406586a228430186008c/artifacts
+end_time: 1694772787832
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 372cc767cec0406586a228430186008c
+run_name: delightful-stag-414
+run_uuid: 372cc767cec0406586a228430186008c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772787006
+status: 3
+tags: []
+user_id: runner
