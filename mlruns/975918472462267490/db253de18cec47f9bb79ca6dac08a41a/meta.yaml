@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/db253de18cec47f9bb79ca6dac08a41a/artifacts
+end_time: 1695377643966
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: db253de18cec47f9bb79ca6dac08a41a
+run_name: youthful-fly-853
+run_uuid: db253de18cec47f9bb79ca6dac08a41a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695377641800
+status: 3
+tags: []
+user_id: runner

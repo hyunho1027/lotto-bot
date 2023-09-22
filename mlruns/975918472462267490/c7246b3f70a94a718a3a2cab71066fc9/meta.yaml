@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c7246b3f70a94a718a3a2cab71066fc9/artifacts
+end_time: 1695377650394
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c7246b3f70a94a718a3a2cab71066fc9
+run_name: funny-gnu-873
+run_uuid: c7246b3f70a94a718a3a2cab71066fc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695377648979
+status: 3
+tags: []
+user_id: runner

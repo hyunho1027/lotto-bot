@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/717d65699b1c43189f3c24668e4a88d3/artifacts
+end_time: 1695377661531
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 717d65699b1c43189f3c24668e4a88d3
+run_name: invincible-jay-52
+run_uuid: 717d65699b1c43189f3c24668e4a88d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695377660148
+status: 3
+tags: []
+user_id: runner
