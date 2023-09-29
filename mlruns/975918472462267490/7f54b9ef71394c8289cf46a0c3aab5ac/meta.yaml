@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7f54b9ef71394c8289cf46a0c3aab5ac/artifacts
+end_time: 1695982361319
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7f54b9ef71394c8289cf46a0c3aab5ac
+run_name: nervous-pig-422
+run_uuid: 7f54b9ef71394c8289cf46a0c3aab5ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982359820
+status: 3
+tags: []
+user_id: runner

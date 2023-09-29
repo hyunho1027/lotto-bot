@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eb6a0f846b454a74ad31d878c81de773/artifacts
+end_time: 1695982363216
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eb6a0f846b454a74ad31d878c81de773
+run_name: enthused-slug-955
+run_uuid: eb6a0f846b454a74ad31d878c81de773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982361332
+status: 3
+tags: []
+user_id: runner

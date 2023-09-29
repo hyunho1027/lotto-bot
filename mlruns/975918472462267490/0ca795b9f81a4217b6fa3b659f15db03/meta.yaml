@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0ca795b9f81a4217b6fa3b659f15db03/artifacts
+end_time: 1695982352425
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0ca795b9f81a4217b6fa3b659f15db03
+run_name: defiant-jay-861
+run_uuid: 0ca795b9f81a4217b6fa3b659f15db03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982351128
+status: 3
+tags: []
+user_id: runner

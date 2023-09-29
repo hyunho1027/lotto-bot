@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c615dc71fea048fabe2b388205af8a4c/artifacts
+end_time: 1695982349515
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c615dc71fea048fabe2b388205af8a4c
+run_name: enthused-stag-626
+run_uuid: c615dc71fea048fabe2b388205af8a4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982347569
+status: 3
+tags: []
+user_id: runner

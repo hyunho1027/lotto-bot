@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4dd3a9c92cac44bfadceca580051a9ff/artifacts
+end_time: 1695982369292
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4dd3a9c92cac44bfadceca580051a9ff
+run_name: worried-grouse-534
+run_uuid: 4dd3a9c92cac44bfadceca580051a9ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982368082
+status: 3
+tags: []
+user_id: runner

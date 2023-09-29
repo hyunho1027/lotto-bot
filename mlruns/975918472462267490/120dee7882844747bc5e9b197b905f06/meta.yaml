@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/120dee7882844747bc5e9b197b905f06/artifacts
+end_time: 1695982368066
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 120dee7882844747bc5e9b197b905f06
+run_name: angry-hound-270
+run_uuid: 120dee7882844747bc5e9b197b905f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982366608
+status: 3
+tags: []
+user_id: runner

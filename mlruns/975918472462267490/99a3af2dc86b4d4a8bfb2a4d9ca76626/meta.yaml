@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/99a3af2dc86b4d4a8bfb2a4d9ca76626/artifacts
+end_time: 1695982355618
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 99a3af2dc86b4d4a8bfb2a4d9ca76626
+run_name: sincere-seal-489
+run_uuid: 99a3af2dc86b4d4a8bfb2a4d9ca76626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982354639
+status: 3
+tags: []
+user_id: runner
