@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4224c4a47b6a4f13a3fad3bc78770132/artifacts
+end_time: 1696587196268
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4224c4a47b6a4f13a3fad3bc78770132
+run_name: clumsy-mole-350
+run_uuid: 4224c4a47b6a4f13a3fad3bc78770132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587195019
+status: 3
+tags: []
+user_id: runner

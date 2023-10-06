@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e8659659b9a64928b59b2b9af1090c86/artifacts
+end_time: 1696587204555
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e8659659b9a64928b59b2b9af1090c86
+run_name: rumbling-duck-769
+run_uuid: e8659659b9a64928b59b2b9af1090c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587204054
+status: 3
+tags: []
+user_id: runner

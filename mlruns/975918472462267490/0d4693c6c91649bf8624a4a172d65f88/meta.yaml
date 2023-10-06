@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0d4693c6c91649bf8624a4a172d65f88/artifacts
+end_time: 1696587197647
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0d4693c6c91649bf8624a4a172d65f88
+run_name: gaudy-colt-678
+run_uuid: 0d4693c6c91649bf8624a4a172d65f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587196283
+status: 3
+tags: []
+user_id: runner

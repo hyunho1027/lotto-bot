@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1cc805eebada4abaa77e2e8bea0148e0/artifacts
+end_time: 1696587192599
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1cc805eebada4abaa77e2e8bea0148e0
+run_name: welcoming-pug-293
+run_uuid: 1cc805eebada4abaa77e2e8bea0148e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587191465
+status: 3
+tags: []
+user_id: runner

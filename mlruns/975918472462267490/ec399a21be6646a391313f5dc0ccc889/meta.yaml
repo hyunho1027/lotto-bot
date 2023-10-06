@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ec399a21be6646a391313f5dc0ccc889/artifacts
+end_time: 1696587207430
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ec399a21be6646a391313f5dc0ccc889
+run_name: nosy-fowl-8
+run_uuid: ec399a21be6646a391313f5dc0ccc889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587206103
+status: 3
+tags: []
+user_id: runner

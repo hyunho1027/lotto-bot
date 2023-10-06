@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/25a5629f09e64b029e25ed78bfa2b440/artifacts
+end_time: 1696587195006
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 25a5629f09e64b029e25ed78bfa2b440
+run_name: invincible-grub-504
+run_uuid: 25a5629f09e64b029e25ed78bfa2b440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587192615
+status: 3
+tags: []
+user_id: runner

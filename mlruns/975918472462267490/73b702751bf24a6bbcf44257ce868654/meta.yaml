@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/73b702751bf24a6bbcf44257ce868654/artifacts
+end_time: 1696587209549
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 73b702751bf24a6bbcf44257ce868654
+run_name: gregarious-lark-534
+run_uuid: 73b702751bf24a6bbcf44257ce868654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587208566
+status: 3
+tags: []
+user_id: runner

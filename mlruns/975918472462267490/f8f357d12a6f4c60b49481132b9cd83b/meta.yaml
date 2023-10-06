@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f8f357d12a6f4c60b49481132b9cd83b/artifacts
+end_time: 1696587202042
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f8f357d12a6f4c60b49481132b9cd83b
+run_name: omniscient-worm-819
+run_uuid: f8f357d12a6f4c60b49481132b9cd83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587200454
+status: 3
+tags: []
+user_id: runner
