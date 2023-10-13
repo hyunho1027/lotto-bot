@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/48ec42a1deba480588b14003d8aae6ee/artifacts
+end_time: 1697192000394
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 48ec42a1deba480588b14003d8aae6ee
+run_name: caring-bat-193
+run_uuid: 48ec42a1deba480588b14003d8aae6ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191999647
+status: 3
+tags: []
+user_id: runner

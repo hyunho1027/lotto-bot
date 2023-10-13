@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1f2b3efac3b24346b0f53511bdc05276/artifacts
+end_time: 1697192009154
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1f2b3efac3b24346b0f53511bdc05276
+run_name: fearless-fawn-215
+run_uuid: 1f2b3efac3b24346b0f53511bdc05276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697192004530
+status: 3
+tags: []
+user_id: runner

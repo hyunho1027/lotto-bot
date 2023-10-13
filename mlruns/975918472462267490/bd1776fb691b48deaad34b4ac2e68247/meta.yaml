@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bd1776fb691b48deaad34b4ac2e68247/artifacts
+end_time: 1697191997271
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bd1776fb691b48deaad34b4ac2e68247
+run_name: caring-newt-718
+run_uuid: bd1776fb691b48deaad34b4ac2e68247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191996319
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/635ee3e6dec0432492ef49505d82662f/artifacts
+end_time: 1697191998675
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 635ee3e6dec0432492ef49505d82662f
+run_name: fortunate-mare-65
+run_uuid: 635ee3e6dec0432492ef49505d82662f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191997281
+status: 3
+tags: []
+user_id: runner

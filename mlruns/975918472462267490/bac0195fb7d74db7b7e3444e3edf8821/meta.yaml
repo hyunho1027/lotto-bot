@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bac0195fb7d74db7b7e3444e3edf8821/artifacts
+end_time: 1697192004525
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bac0195fb7d74db7b7e3444e3edf8821
+run_name: nebulous-calf-472
+run_uuid: bac0195fb7d74db7b7e3444e3edf8821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697192003632
+status: 3
+tags: []
+user_id: runner

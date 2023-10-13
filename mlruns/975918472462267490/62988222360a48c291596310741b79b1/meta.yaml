@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/62988222360a48c291596310741b79b1/artifacts
+end_time: 1697191989845
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 62988222360a48c291596310741b79b1
+run_name: melodic-squirrel-1
+run_uuid: 62988222360a48c291596310741b79b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191988898
+status: 3
+tags: []
+user_id: runner
