@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f5d956ee19a54e8fb49d8ce9d3b456bb/artifacts
+end_time: 1697796766444
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f5d956ee19a54e8fb49d8ce9d3b456bb
+run_name: mercurial-mare-452
+run_uuid: f5d956ee19a54e8fb49d8ce9d3b456bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796765759
+status: 3
+tags: []
+user_id: runner

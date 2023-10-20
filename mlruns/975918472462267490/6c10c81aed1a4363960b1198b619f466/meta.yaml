@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6c10c81aed1a4363960b1198b619f466/artifacts
+end_time: 1697796771704
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6c10c81aed1a4363960b1198b619f466
+run_name: loud-kite-966
+run_uuid: 6c10c81aed1a4363960b1198b619f466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796771236
+status: 3
+tags: []
+user_id: runner

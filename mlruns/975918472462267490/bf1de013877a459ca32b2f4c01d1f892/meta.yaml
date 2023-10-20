@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bf1de013877a459ca32b2f4c01d1f892/artifacts
+end_time: 1697796761579
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bf1de013877a459ca32b2f4c01d1f892
+run_name: traveling-mouse-597
+run_uuid: bf1de013877a459ca32b2f4c01d1f892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796760493
+status: 3
+tags: []
+user_id: runner

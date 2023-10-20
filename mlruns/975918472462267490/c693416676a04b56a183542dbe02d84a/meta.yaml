@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c693416676a04b56a183542dbe02d84a/artifacts
+end_time: 1697796775966
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c693416676a04b56a183542dbe02d84a
+run_name: righteous-panda-156
+run_uuid: c693416676a04b56a183542dbe02d84a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796775096
+status: 3
+tags: []
+user_id: runner

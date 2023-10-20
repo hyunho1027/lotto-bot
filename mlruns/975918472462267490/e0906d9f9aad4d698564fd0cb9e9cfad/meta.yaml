@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e0906d9f9aad4d698564fd0cb9e9cfad/artifacts
+end_time: 1697796764105
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e0906d9f9aad4d698564fd0cb9e9cfad
+run_name: unique-smelt-783
+run_uuid: e0906d9f9aad4d698564fd0cb9e9cfad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796762301
+status: 3
+tags: []
+user_id: runner

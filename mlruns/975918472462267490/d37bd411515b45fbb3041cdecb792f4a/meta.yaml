@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d37bd411515b45fbb3041cdecb792f4a/artifacts
+end_time: 1697796771226
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d37bd411515b45fbb3041cdecb792f4a
+run_name: incongruous-worm-679
+run_uuid: d37bd411515b45fbb3041cdecb792f4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796770313
+status: 3
+tags: []
+user_id: runner
