@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/645a9db0801f4494b8cfa31e4e3098ab/artifacts
+end_time: 1698401497364
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 645a9db0801f4494b8cfa31e4e3098ab
+run_name: painted-panda-918
+run_uuid: 645a9db0801f4494b8cfa31e4e3098ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401496607
+status: 3
+tags: []
+user_id: runner

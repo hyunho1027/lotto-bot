@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/472a9f3626a947c88b5e9ed2bfda8d3f/artifacts
+end_time: 1698401509414
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 472a9f3626a947c88b5e9ed2bfda8d3f
+run_name: righteous-shrike-998
+run_uuid: 472a9f3626a947c88b5e9ed2bfda8d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401507518
+status: 3
+tags: []
+user_id: runner

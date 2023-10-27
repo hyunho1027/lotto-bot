@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2909450a1cb04146a56960f83f4c8a96/artifacts
+end_time: 1698401500241
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2909450a1cb04146a56960f83f4c8a96
+run_name: victorious-cat-644
+run_uuid: 2909450a1cb04146a56960f83f4c8a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401499736
+status: 3
+tags: []
+user_id: runner

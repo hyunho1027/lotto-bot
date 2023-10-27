@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a2dce7fda0e7490fb242d8765f0fe0d5/artifacts
+end_time: 1698401500691
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a2dce7fda0e7490fb242d8765f0fe0d5
+run_name: bright-snipe-568
+run_uuid: a2dce7fda0e7490fb242d8765f0fe0d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401500251
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f8b0ce837422414dbffcdafae8a5874f/artifacts
+end_time: 1698401509951
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f8b0ce837422414dbffcdafae8a5874f
+run_name: peaceful-dove-34
+run_uuid: f8b0ce837422414dbffcdafae8a5874f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401509424
+status: 3
+tags: []
+user_id: runner

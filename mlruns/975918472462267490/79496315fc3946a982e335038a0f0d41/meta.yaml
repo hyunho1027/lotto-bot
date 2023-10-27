@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/79496315fc3946a982e335038a0f0d41/artifacts
+end_time: 1698401507508
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 79496315fc3946a982e335038a0f0d41
+run_name: merciful-kite-173
+run_uuid: 79496315fc3946a982e335038a0f0d41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401506642
+status: 3
+tags: []
+user_id: runner

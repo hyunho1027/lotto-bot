@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e74ba17cbecd438199007381199e21c3/artifacts
+end_time: 1698401502491
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e74ba17cbecd438199007381199e21c3
+run_name: brawny-crane-597
+run_uuid: e74ba17cbecd438199007381199e21c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401501629
+status: 3
+tags: []
+user_id: runner
