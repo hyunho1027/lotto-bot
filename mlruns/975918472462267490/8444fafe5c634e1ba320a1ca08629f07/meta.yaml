@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8444fafe5c634e1ba320a1ca08629f07/artifacts
+end_time: 1699006368466
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8444fafe5c634e1ba320a1ca08629f07
+run_name: clumsy-mare-470
+run_uuid: 8444fafe5c634e1ba320a1ca08629f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006367606
+status: 3
+tags: []
+user_id: runner

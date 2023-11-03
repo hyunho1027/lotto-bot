@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/305b646f49b84e58a711dfa9e756aa00/artifacts
+end_time: 1699006370886
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 305b646f49b84e58a711dfa9e756aa00
+run_name: capricious-shark-419
+run_uuid: 305b646f49b84e58a711dfa9e756aa00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006369744
+status: 3
+tags: []
+user_id: runner

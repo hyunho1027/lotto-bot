@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/231fa067a42f4a0abcac91549f2f6ad2/artifacts
+end_time: 1699006364664
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 231fa067a42f4a0abcac91549f2f6ad2
+run_name: placid-duck-373
+run_uuid: 231fa067a42f4a0abcac91549f2f6ad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006363963
+status: 3
+tags: []
+user_id: runner

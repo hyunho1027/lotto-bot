@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bad7c033a5e84619bbd4ec8c1de09490/artifacts
+end_time: 1699006363953
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bad7c033a5e84619bbd4ec8c1de09490
+run_name: clean-moth-37
+run_uuid: bad7c033a5e84619bbd4ec8c1de09490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006362522
+status: 3
+tags: []
+user_id: runner

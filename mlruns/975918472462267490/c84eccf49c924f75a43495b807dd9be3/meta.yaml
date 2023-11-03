@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c84eccf49c924f75a43495b807dd9be3/artifacts
+end_time: 1699006365838
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c84eccf49c924f75a43495b807dd9be3
+run_name: bedecked-rook-303
+run_uuid: c84eccf49c924f75a43495b807dd9be3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006364674
+status: 3
+tags: []
+user_id: runner

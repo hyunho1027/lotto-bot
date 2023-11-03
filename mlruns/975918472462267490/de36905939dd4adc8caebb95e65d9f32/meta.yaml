@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/de36905939dd4adc8caebb95e65d9f32/artifacts
+end_time: 1699006361942
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: de36905939dd4adc8caebb95e65d9f32
+run_name: fortunate-ox-809
+run_uuid: de36905939dd4adc8caebb95e65d9f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006361071
+status: 3
+tags: []
+user_id: runner

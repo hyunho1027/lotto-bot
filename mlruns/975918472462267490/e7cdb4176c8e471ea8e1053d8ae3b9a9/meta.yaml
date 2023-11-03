@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e7cdb4176c8e471ea8e1053d8ae3b9a9/artifacts
+end_time: 1699006372407
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e7cdb4176c8e471ea8e1053d8ae3b9a9
+run_name: youthful-hog-656
+run_uuid: e7cdb4176c8e471ea8e1053d8ae3b9a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006371599
+status: 3
+tags: []
+user_id: runner

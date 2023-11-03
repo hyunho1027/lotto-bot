@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2b045a93321e4915b2299d5cf2523396/artifacts
+end_time: 1699006371588
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2b045a93321e4915b2299d5cf2523396
+run_name: melodic-trout-218
+run_uuid: 2b045a93321e4915b2299d5cf2523396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006370897
+status: 3
+tags: []
+user_id: runner
