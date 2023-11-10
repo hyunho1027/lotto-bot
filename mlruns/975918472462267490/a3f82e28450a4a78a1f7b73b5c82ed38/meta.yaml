@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a3f82e28450a4a78a1f7b73b5c82ed38/artifacts
+end_time: 1699611128563
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a3f82e28450a4a78a1f7b73b5c82ed38
+run_name: magnificent-bat-87
+run_uuid: a3f82e28450a4a78a1f7b73b5c82ed38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611127964
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b6c1d2850cfe47f9a8f89981b0f68fc0/artifacts
+end_time: 1699611129436
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b6c1d2850cfe47f9a8f89981b0f68fc0
+run_name: omniscient-quail-217
+run_uuid: b6c1d2850cfe47f9a8f89981b0f68fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611128574
+status: 3
+tags: []
+user_id: runner

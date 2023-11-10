@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4a8cddb6b73c40ff8933d5f5f9adbf48/artifacts
+end_time: 1699611127953
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4a8cddb6b73c40ff8933d5f5f9adbf48
+run_name: omniscient-shark-160
+run_uuid: 4a8cddb6b73c40ff8933d5f5f9adbf48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611126586
+status: 3
+tags: []
+user_id: runner

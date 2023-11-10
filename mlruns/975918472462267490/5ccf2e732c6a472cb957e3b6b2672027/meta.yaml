@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5ccf2e732c6a472cb957e3b6b2672027/artifacts
+end_time: 1699611121415
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5ccf2e732c6a472cb957e3b6b2672027
+run_name: marvelous-stag-691
+run_uuid: 5ccf2e732c6a472cb957e3b6b2672027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611120840
+status: 3
+tags: []
+user_id: runner

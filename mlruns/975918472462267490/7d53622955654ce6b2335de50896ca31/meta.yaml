@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7d53622955654ce6b2335de50896ca31/artifacts
+end_time: 1699611131389
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7d53622955654ce6b2335de50896ca31
+run_name: nebulous-sow-140
+run_uuid: 7d53622955654ce6b2335de50896ca31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611130356
+status: 3
+tags: []
+user_id: runner

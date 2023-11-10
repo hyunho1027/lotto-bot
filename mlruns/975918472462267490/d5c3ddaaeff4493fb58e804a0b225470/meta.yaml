@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d5c3ddaaeff4493fb58e804a0b225470/artifacts
+end_time: 1699611123861
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d5c3ddaaeff4493fb58e804a0b225470
+run_name: orderly-chimp-474
+run_uuid: d5c3ddaaeff4493fb58e804a0b225470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611122998
+status: 3
+tags: []
+user_id: runner

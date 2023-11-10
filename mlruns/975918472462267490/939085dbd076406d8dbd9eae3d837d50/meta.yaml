@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/939085dbd076406d8dbd9eae3d837d50/artifacts
+end_time: 1699611133387
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 939085dbd076406d8dbd9eae3d837d50
+run_name: masked-dog-628
+run_uuid: 939085dbd076406d8dbd9eae3d837d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611132780
+status: 3
+tags: []
+user_id: runner

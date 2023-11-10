@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/87ba5e44ed9a4e96837710d8ffcd009a/artifacts
+end_time: 1699611137277
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 87ba5e44ed9a4e96837710d8ffcd009a
+run_name: mercurial-mule-369
+run_uuid: 87ba5e44ed9a4e96837710d8ffcd009a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611136726
+status: 3
+tags: []
+user_id: runner

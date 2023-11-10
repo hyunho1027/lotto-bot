@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f7fddbbbd1e84086b52c9b42231f40d0/artifacts
+end_time: 1699611121971
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f7fddbbbd1e84086b52c9b42231f40d0
+run_name: crawling-jay-770
+run_uuid: f7fddbbbd1e84086b52c9b42231f40d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611121435
+status: 3
+tags: []
+user_id: runner

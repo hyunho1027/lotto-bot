@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c2d043d00652457394b65ea6b5bbdbf1/artifacts
+end_time: 1699611142219
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c2d043d00652457394b65ea6b5bbdbf1
+run_name: stately-asp-407
+run_uuid: c2d043d00652457394b65ea6b5bbdbf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611137282
+status: 3
+tags: []
+user_id: runner

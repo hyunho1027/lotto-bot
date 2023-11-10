@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ac80aba36b2c4c0582c057b97852863c/artifacts
+end_time: 1699611130346
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ac80aba36b2c4c0582c057b97852863c
+run_name: bouncy-panda-188
+run_uuid: ac80aba36b2c4c0582c057b97852863c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611129447
+status: 3
+tags: []
+user_id: runner

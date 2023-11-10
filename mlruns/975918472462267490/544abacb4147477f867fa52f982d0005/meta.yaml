@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/544abacb4147477f867fa52f982d0005/artifacts
+end_time: 1699611126575
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 544abacb4147477f867fa52f982d0005
+run_name: carefree-tern-106
+run_uuid: 544abacb4147477f867fa52f982d0005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611124612
+status: 3
+tags: []
+user_id: runner
