@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2c7dd1cfd4ef4fa5aa2a994aced16122/artifacts
+end_time: 1700215946572
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2c7dd1cfd4ef4fa5aa2a994aced16122
+run_name: righteous-robin-715
+run_uuid: 2c7dd1cfd4ef4fa5aa2a994aced16122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700215945687
+status: 3
+tags: []
+user_id: runner

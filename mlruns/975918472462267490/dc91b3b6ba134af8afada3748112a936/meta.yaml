@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dc91b3b6ba134af8afada3748112a936/artifacts
+end_time: 1700215955756
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dc91b3b6ba134af8afada3748112a936
+run_name: stately-rat-491
+run_uuid: dc91b3b6ba134af8afada3748112a936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700215954866
+status: 3
+tags: []
+user_id: runner

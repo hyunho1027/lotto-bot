@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/afa67cce9c23494d91082eb5d2ee0001/artifacts
+end_time: 1700215958115
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: afa67cce9c23494d91082eb5d2ee0001
+run_name: smiling-tern-596
+run_uuid: afa67cce9c23494d91082eb5d2ee0001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700215957475
+status: 3
+tags: []
+user_id: runner

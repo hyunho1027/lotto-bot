@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/79922cb8de984a0a8e8db4709dc2368b/artifacts
+end_time: 1700215950959
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 79922cb8de984a0a8e8db4709dc2368b
+run_name: caring-fish-821
+run_uuid: 79922cb8de984a0a8e8db4709dc2368b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700215949291
+status: 3
+tags: []
+user_id: runner

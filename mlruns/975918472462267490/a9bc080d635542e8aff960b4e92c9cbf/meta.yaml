@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a9bc080d635542e8aff960b4e92c9cbf/artifacts
+end_time: 1700215953266
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a9bc080d635542e8aff960b4e92c9cbf
+run_name: inquisitive-cat-704
+run_uuid: a9bc080d635542e8aff960b4e92c9cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700215952424
+status: 3
+tags: []
+user_id: runner
