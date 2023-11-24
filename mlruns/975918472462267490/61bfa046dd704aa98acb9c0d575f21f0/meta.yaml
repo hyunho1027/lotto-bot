@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/61bfa046dd704aa98acb9c0d575f21f0/artifacts
+end_time: 1700820837621
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 61bfa046dd704aa98acb9c0d575f21f0
+run_name: nosy-gnat-266
+run_uuid: 61bfa046dd704aa98acb9c0d575f21f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700820834928
+status: 3
+tags: []
+user_id: runner

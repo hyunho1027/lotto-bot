@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ab85ccaba6454be19db26b78106d27a5/artifacts
+end_time: 1700820841642
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ab85ccaba6454be19db26b78106d27a5
+run_name: carefree-ram-534
+run_uuid: ab85ccaba6454be19db26b78106d27a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700820839253
+status: 3
+tags: []
+user_id: runner

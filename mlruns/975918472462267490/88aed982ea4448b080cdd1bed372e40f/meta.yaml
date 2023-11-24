@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/88aed982ea4448b080cdd1bed372e40f/artifacts
+end_time: 1700820844294
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 88aed982ea4448b080cdd1bed372e40f
+run_name: invincible-hawk-862
+run_uuid: 88aed982ea4448b080cdd1bed372e40f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700820843279
+status: 3
+tags: []
+user_id: runner

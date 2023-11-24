@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/75c201530091490f85f3bc4f9a4e044b/artifacts
+end_time: 1700820850756
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 75c201530091490f85f3bc4f9a4e044b
+run_name: invincible-robin-83
+run_uuid: 75c201530091490f85f3bc4f9a4e044b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700820849189
+status: 3
+tags: []
+user_id: runner
