@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ef2f9bda24ec4e73a1aeeb160498758d/artifacts
+end_time: 1701425836654
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ef2f9bda24ec4e73a1aeeb160498758d
+run_name: nervous-ray-555
+run_uuid: ef2f9bda24ec4e73a1aeeb160498758d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425835601
+status: 3
+tags: []
+user_id: runner

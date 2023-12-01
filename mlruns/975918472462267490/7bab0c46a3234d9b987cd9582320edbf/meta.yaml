@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7bab0c46a3234d9b987cd9582320edbf/artifacts
+end_time: 1701425855981
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7bab0c46a3234d9b987cd9582320edbf
+run_name: skillful-wasp-945
+run_uuid: 7bab0c46a3234d9b987cd9582320edbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425851638
+status: 3
+tags: []
+user_id: runner

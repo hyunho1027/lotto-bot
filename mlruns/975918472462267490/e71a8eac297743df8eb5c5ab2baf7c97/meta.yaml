@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e71a8eac297743df8eb5c5ab2baf7c97/artifacts
+end_time: 1701425842351
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e71a8eac297743df8eb5c5ab2baf7c97
+run_name: placid-mare-978
+run_uuid: e71a8eac297743df8eb5c5ab2baf7c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425841367
+status: 3
+tags: []
+user_id: runner

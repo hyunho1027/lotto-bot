@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/43456cbd7c9045f2aee8aed3e7957ac4/artifacts
+end_time: 1701425850587
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 43456cbd7c9045f2aee8aed3e7957ac4
+run_name: bald-hog-445
+run_uuid: 43456cbd7c9045f2aee8aed3e7957ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425849753
+status: 3
+tags: []
+user_id: runner

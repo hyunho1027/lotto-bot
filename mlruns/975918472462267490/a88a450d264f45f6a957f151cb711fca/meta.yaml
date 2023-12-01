@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a88a450d264f45f6a957f151cb711fca/artifacts
+end_time: 1701425843834
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a88a450d264f45f6a957f151cb711fca
+run_name: glamorous-jay-104
+run_uuid: a88a450d264f45f6a957f151cb711fca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425842363
+status: 3
+tags: []
+user_id: runner

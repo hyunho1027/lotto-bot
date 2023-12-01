@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cea5a879c4be4834a0e569b9c5a58e29/artifacts
+end_time: 1701425841355
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cea5a879c4be4834a0e569b9c5a58e29
+run_name: brawny-colt-379
+run_uuid: cea5a879c4be4834a0e569b9c5a58e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425840053
+status: 3
+tags: []
+user_id: runner

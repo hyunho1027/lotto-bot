@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d7b116b3b82f4b9aa3e5e24e5d71a752/artifacts
+end_time: 1701425837831
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d7b116b3b82f4b9aa3e5e24e5d71a752
+run_name: victorious-moth-689
+run_uuid: d7b116b3b82f4b9aa3e5e24e5d71a752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425836671
+status: 3
+tags: []
+user_id: runner

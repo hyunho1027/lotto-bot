@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4d518a1c35d94ce5983181249b6debb2/artifacts
+end_time: 1701425838289
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4d518a1c35d94ce5983181249b6debb2
+run_name: fearless-perch-121
+run_uuid: 4d518a1c35d94ce5983181249b6debb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425837844
+status: 3
+tags: []
+user_id: runner
