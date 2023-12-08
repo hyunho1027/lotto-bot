@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bfe07636ea4549b3a1319d0c623872ee/artifacts
+end_time: 1702030308305
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bfe07636ea4549b3a1319d0c623872ee
+run_name: popular-stoat-771
+run_uuid: bfe07636ea4549b3a1319d0c623872ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030307495
+status: 3
+tags: []
+user_id: runner

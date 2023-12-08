@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5b24ff58556b438581331c1ef9e95780/artifacts
+end_time: 1702030297659
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5b24ff58556b438581331c1ef9e95780
+run_name: monumental-ox-491
+run_uuid: 5b24ff58556b438581331c1ef9e95780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030296496
+status: 3
+tags: []
+user_id: runner

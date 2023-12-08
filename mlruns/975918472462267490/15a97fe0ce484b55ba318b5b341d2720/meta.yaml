@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/15a97fe0ce484b55ba318b5b341d2720/artifacts
+end_time: 1702030303312
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 15a97fe0ce484b55ba318b5b341d2720
+run_name: brawny-newt-871
+run_uuid: 15a97fe0ce484b55ba318b5b341d2720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030302732
+status: 3
+tags: []
+user_id: runner

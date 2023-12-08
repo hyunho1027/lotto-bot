@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4ba1c0f33ea34318a89d4dddc6bf6550/artifacts
+end_time: 1702030305088
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4ba1c0f33ea34318a89d4dddc6bf6550
+run_name: legendary-fly-117
+run_uuid: 4ba1c0f33ea34318a89d4dddc6bf6550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030304194
+status: 3
+tags: []
+user_id: runner

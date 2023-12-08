@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/94114c34503e40acb791d5496cb3fc40/artifacts
+end_time: 1702030310086
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 94114c34503e40acb791d5496cb3fc40
+run_name: powerful-stork-21
+run_uuid: 94114c34503e40acb791d5496cb3fc40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030309137
+status: 3
+tags: []
+user_id: runner

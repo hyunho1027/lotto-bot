@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/41866db6fb3040018aa3a24fff2edeab/artifacts
+end_time: 1702030292360
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 41866db6fb3040018aa3a24fff2edeab
+run_name: thundering-seal-513
+run_uuid: 41866db6fb3040018aa3a24fff2edeab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030289282
+status: 3
+tags: []
+user_id: runner

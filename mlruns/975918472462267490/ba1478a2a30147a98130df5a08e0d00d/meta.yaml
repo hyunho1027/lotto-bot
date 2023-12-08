@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ba1478a2a30147a98130df5a08e0d00d/artifacts
+end_time: 1702030302121
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ba1478a2a30147a98130df5a08e0d00d
+run_name: loud-donkey-676
+run_uuid: ba1478a2a30147a98130df5a08e0d00d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030300567
+status: 3
+tags: []
+user_id: runner

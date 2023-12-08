@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/69ace2f2d4b343f8afd8ce4def87c4ed/artifacts
+end_time: 1702030306293
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 69ace2f2d4b343f8afd8ce4def87c4ed
+run_name: colorful-shoat-241
+run_uuid: 69ace2f2d4b343f8afd8ce4def87c4ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030305102
+status: 3
+tags: []
+user_id: runner

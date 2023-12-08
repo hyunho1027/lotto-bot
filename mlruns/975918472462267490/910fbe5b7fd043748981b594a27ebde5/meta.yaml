@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/910fbe5b7fd043748981b594a27ebde5/artifacts
+end_time: 1702030293319
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 910fbe5b7fd043748981b594a27ebde5
+run_name: masked-shrimp-381
+run_uuid: 910fbe5b7fd043748981b594a27ebde5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030292383
+status: 3
+tags: []
+user_id: runner
