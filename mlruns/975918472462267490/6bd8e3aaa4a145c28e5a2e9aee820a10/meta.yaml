@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6bd8e3aaa4a145c28e5a2e9aee820a10/artifacts
+end_time: 1702635326139
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6bd8e3aaa4a145c28e5a2e9aee820a10
+run_name: bright-bass-133
+run_uuid: 6bd8e3aaa4a145c28e5a2e9aee820a10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635297069
+status: 3
+tags: []
+user_id: runner

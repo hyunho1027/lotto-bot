@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1a9cbc3fb56b4949952f4d8f6950362d/artifacts
+end_time: 1702635334457
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1a9cbc3fb56b4949952f4d8f6950362d
+run_name: bedecked-ox-575
+run_uuid: 1a9cbc3fb56b4949952f4d8f6950362d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635326268
+status: 3
+tags: []
+user_id: runner

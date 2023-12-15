@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f82c168dae1245789f4ad37f01866c89/artifacts
+end_time: 1702635289265
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f82c168dae1245789f4ad37f01866c89
+run_name: angry-bee-868
+run_uuid: f82c168dae1245789f4ad37f01866c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635280535
+status: 3
+tags: []
+user_id: runner

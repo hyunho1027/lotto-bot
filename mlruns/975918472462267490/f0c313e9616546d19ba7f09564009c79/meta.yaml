@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f0c313e9616546d19ba7f09564009c79/artifacts
+end_time: 1702635370358
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f0c313e9616546d19ba7f09564009c79
+run_name: fortunate-crane-918
+run_uuid: f0c313e9616546d19ba7f09564009c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635368066
+status: 3
+tags: []
+user_id: runner

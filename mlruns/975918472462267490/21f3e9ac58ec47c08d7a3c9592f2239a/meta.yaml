@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/21f3e9ac58ec47c08d7a3c9592f2239a/artifacts
+end_time: 1702635435047
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 21f3e9ac58ec47c08d7a3c9592f2239a
+run_name: defiant-bird-814
+run_uuid: 21f3e9ac58ec47c08d7a3c9592f2239a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635422153
+status: 3
+tags: []
+user_id: runner

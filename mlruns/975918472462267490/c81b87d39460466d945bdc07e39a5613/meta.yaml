@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c81b87d39460466d945bdc07e39a5613/artifacts
+end_time: 1702635381296
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c81b87d39460466d945bdc07e39a5613
+run_name: aged-crab-4
+run_uuid: c81b87d39460466d945bdc07e39a5613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635374190
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d7222599bdbe450cbed811ddfc337fe8/artifacts
+end_time: 1702635368010
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d7222599bdbe450cbed811ddfc337fe8
+run_name: wistful-mole-284
+run_uuid: d7222599bdbe450cbed811ddfc337fe8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635356659
+status: 3
+tags: []
+user_id: runner

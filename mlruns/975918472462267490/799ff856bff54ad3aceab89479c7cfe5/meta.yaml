@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/799ff856bff54ad3aceab89479c7cfe5/artifacts
+end_time: 1702635341504
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 799ff856bff54ad3aceab89479c7cfe5
+run_name: colorful-trout-621
+run_uuid: 799ff856bff54ad3aceab89479c7cfe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635338478
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/73b0c7e0e96740c6bcd03c9611532785/artifacts
+end_time: 1702635356646
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 73b0c7e0e96740c6bcd03c9611532785
+run_name: bemused-bear-165
+run_uuid: 73b0c7e0e96740c6bcd03c9611532785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635341600
+status: 3
+tags: []
+user_id: runner
