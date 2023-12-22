@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/149dae2b0d6e4eb2b54e1da6bbcc4f2b/artifacts
+end_time: 1703239993742
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 149dae2b0d6e4eb2b54e1da6bbcc4f2b
+run_name: tasteful-mule-408
+run_uuid: 149dae2b0d6e4eb2b54e1da6bbcc4f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703239992852
+status: 3
+tags: []
+user_id: runner

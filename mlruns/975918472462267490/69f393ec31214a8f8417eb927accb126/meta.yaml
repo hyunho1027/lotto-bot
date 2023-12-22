@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/69f393ec31214a8f8417eb927accb126/artifacts
+end_time: 1703240006136
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 69f393ec31214a8f8417eb927accb126
+run_name: nimble-lamb-925
+run_uuid: 69f393ec31214a8f8417eb927accb126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703240004357
+status: 3
+tags: []
+user_id: runner

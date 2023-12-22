@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bfa9390f10de4340b971b979f99df1ca/artifacts
+end_time: 1703240002866
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bfa9390f10de4340b971b979f99df1ca
+run_name: fearless-hare-126
+run_uuid: bfa9390f10de4340b971b979f99df1ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703240001449
+status: 3
+tags: []
+user_id: runner

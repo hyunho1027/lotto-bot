@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/626fc0cb3de74c8d8d1b318a11623f34/artifacts
+end_time: 1703239996442
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 626fc0cb3de74c8d8d1b318a11623f34
+run_name: sedate-cod-767
+run_uuid: 626fc0cb3de74c8d8d1b318a11623f34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703239995443
+status: 3
+tags: []
+user_id: runner

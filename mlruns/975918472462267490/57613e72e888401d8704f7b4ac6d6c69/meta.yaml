@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/57613e72e888401d8704f7b4ac6d6c69/artifacts
+end_time: 1703240000928
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 57613e72e888401d8704f7b4ac6d6c69
+run_name: sedate-dove-260
+run_uuid: 57613e72e888401d8704f7b4ac6d6c69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703240000119
+status: 3
+tags: []
+user_id: runner

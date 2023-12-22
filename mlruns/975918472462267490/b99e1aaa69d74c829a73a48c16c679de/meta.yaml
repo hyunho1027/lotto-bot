@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b99e1aaa69d74c829a73a48c16c679de/artifacts
+end_time: 1703239991354
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b99e1aaa69d74c829a73a48c16c679de
+run_name: hilarious-lamb-293
+run_uuid: b99e1aaa69d74c829a73a48c16c679de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703239988808
+status: 3
+tags: []
+user_id: runner

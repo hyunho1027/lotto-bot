@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d7b9324400d94eb79941d7b9d88766bf/artifacts
+end_time: 1703240010496
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d7b9324400d94eb79941d7b9d88766bf
+run_name: vaunted-ape-542
+run_uuid: d7b9324400d94eb79941d7b9d88766bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703240006149
+status: 3
+tags: []
+user_id: runner

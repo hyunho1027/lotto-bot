@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1c7ab0bb841549b3963a5ef62a7a73a5/artifacts
+end_time: 1703239986962
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1c7ab0bb841549b3963a5ef62a7a73a5
+run_name: likeable-kit-651
+run_uuid: 1c7ab0bb841549b3963a5ef62a7a73a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703239986101
+status: 3
+tags: []
+user_id: runner
