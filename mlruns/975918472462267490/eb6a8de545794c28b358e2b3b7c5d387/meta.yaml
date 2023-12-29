@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eb6a8de545794c28b358e2b3b7c5d387/artifacts
+end_time: 1703844743455
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eb6a8de545794c28b358e2b3b7c5d387
+run_name: hilarious-kite-926
+run_uuid: eb6a8de545794c28b358e2b3b7c5d387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703844742389
+status: 3
+tags: []
+user_id: runner

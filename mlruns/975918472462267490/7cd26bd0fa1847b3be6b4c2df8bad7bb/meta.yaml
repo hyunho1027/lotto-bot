@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7cd26bd0fa1847b3be6b4c2df8bad7bb/artifacts
+end_time: 1703844754694
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7cd26bd0fa1847b3be6b4c2df8bad7bb
+run_name: defiant-mule-437
+run_uuid: 7cd26bd0fa1847b3be6b4c2df8bad7bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703844754010
+status: 3
+tags: []
+user_id: runner

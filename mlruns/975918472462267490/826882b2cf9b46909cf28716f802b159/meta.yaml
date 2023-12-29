@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/826882b2cf9b46909cf28716f802b159/artifacts
+end_time: 1703844757696
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 826882b2cf9b46909cf28716f802b159
+run_name: upbeat-ram-736
+run_uuid: 826882b2cf9b46909cf28716f802b159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703844756928
+status: 3
+tags: []
+user_id: runner

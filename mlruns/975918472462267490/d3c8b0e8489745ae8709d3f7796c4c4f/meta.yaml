@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d3c8b0e8489745ae8709d3f7796c4c4f/artifacts
+end_time: 1703844748196
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d3c8b0e8489745ae8709d3f7796c4c4f
+run_name: thoughtful-wren-181
+run_uuid: d3c8b0e8489745ae8709d3f7796c4c4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703844746048
+status: 3
+tags: []
+user_id: runner

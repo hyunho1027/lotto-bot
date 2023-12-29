@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c523b04d21a743f689038e9ca6842f44/artifacts
+end_time: 1703844761599
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c523b04d21a743f689038e9ca6842f44
+run_name: burly-bee-422
+run_uuid: c523b04d21a743f689038e9ca6842f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703844760924
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e769087d88af4e30878b01a886701bcb/artifacts
+end_time: 1703844742377
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e769087d88af4e30878b01a886701bcb
+run_name: abundant-chimp-33
+run_uuid: e769087d88af4e30878b01a886701bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703844741656
+status: 3
+tags: []
+user_id: runner

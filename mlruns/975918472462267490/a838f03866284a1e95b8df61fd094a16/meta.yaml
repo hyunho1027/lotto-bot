@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a838f03866284a1e95b8df61fd094a16/artifacts
+end_time: 1703844750539
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a838f03866284a1e95b8df61fd094a16
+run_name: whimsical-shad-767
+run_uuid: a838f03866284a1e95b8df61fd094a16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703844748208
+status: 3
+tags: []
+user_id: runner

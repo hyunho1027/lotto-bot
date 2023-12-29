@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eb2deeddc4f54b168dcb066260069632/artifacts
+end_time: 1703844751685
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eb2deeddc4f54b168dcb066260069632
+run_name: masked-kite-985
+run_uuid: eb2deeddc4f54b168dcb066260069632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703844750553
+status: 3
+tags: []
+user_id: runner
