@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fba9baca36ac4ca4b8d2960272dbdf91/artifacts
+end_time: 1704449581868
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fba9baca36ac4ca4b8d2960272dbdf91
+run_name: bold-mouse-986
+run_uuid: fba9baca36ac4ca4b8d2960272dbdf91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449580421
+status: 3
+tags: []
+user_id: runner

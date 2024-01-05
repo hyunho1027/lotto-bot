@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fada4648f4c94f6cb5ffe5a9af2d68fb/artifacts
+end_time: 1704449582523
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fada4648f4c94f6cb5ffe5a9af2d68fb
+run_name: serious-panda-232
+run_uuid: fada4648f4c94f6cb5ffe5a9af2d68fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449581878
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3f2f1a5edd6f4fbe9e2c319bc936365c/artifacts
+end_time: 1704449573184
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3f2f1a5edd6f4fbe9e2c319bc936365c
+run_name: spiffy-gnat-254
+run_uuid: 3f2f1a5edd6f4fbe9e2c319bc936365c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449572204
+status: 3
+tags: []
+user_id: runner
