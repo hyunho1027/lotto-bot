@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e99a6db704b547ac81e776bca8053c62/artifacts
+end_time: 1705054439429
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e99a6db704b547ac81e776bca8053c62
+run_name: amusing-gnat-876
+run_uuid: e99a6db704b547ac81e776bca8053c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054437546
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/28daa2d81641431b90ffad5d7c2d805e/artifacts
+end_time: 1705054453559
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 28daa2d81641431b90ffad5d7c2d805e
+run_name: enthused-sponge-734
+run_uuid: 28daa2d81641431b90ffad5d7c2d805e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054447385
+status: 3
+tags: []
+user_id: runner

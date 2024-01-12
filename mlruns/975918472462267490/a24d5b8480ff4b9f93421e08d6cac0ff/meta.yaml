@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a24d5b8480ff4b9f93421e08d6cac0ff/artifacts
+end_time: 1705054441999
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a24d5b8480ff4b9f93421e08d6cac0ff
+run_name: rogue-kite-789
+run_uuid: a24d5b8480ff4b9f93421e08d6cac0ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054439443
+status: 3
+tags: []
+user_id: runner

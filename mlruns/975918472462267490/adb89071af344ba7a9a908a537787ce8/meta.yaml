@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/adb89071af344ba7a9a908a537787ce8/artifacts
+end_time: 1705054437532
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: adb89071af344ba7a9a908a537787ce8
+run_name: bustling-loon-762
+run_uuid: adb89071af344ba7a9a908a537787ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054436734
+status: 3
+tags: []
+user_id: runner

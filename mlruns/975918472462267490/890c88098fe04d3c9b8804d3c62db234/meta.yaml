@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/890c88098fe04d3c9b8804d3c62db234/artifacts
+end_time: 1705054434957
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 890c88098fe04d3c9b8804d3c62db234
+run_name: stately-lark-744
+run_uuid: 890c88098fe04d3c9b8804d3c62db234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054434123
+status: 3
+tags: []
+user_id: runner

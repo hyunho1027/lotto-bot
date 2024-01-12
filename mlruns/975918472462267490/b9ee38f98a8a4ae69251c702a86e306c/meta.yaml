@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b9ee38f98a8a4ae69251c702a86e306c/artifacts
+end_time: 1705054447379
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b9ee38f98a8a4ae69251c702a86e306c
+run_name: blushing-robin-756
+run_uuid: b9ee38f98a8a4ae69251c702a86e306c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054446694
+status: 3
+tags: []
+user_id: runner

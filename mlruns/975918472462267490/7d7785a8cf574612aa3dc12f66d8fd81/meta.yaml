@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7d7785a8cf574612aa3dc12f66d8fd81/artifacts
+end_time: 1705054436719
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7d7785a8cf574612aa3dc12f66d8fd81
+run_name: industrious-fox-532
+run_uuid: 7d7785a8cf574612aa3dc12f66d8fd81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054434970
+status: 3
+tags: []
+user_id: runner

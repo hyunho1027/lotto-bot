@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2c4d7345e1974489bee7706dd93a26fe/artifacts
+end_time: 1705054442617
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2c4d7345e1974489bee7706dd93a26fe
+run_name: melodic-pug-286
+run_uuid: 2c4d7345e1974489bee7706dd93a26fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054442012
+status: 3
+tags: []
+user_id: runner
