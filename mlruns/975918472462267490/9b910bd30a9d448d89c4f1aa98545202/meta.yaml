@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9b910bd30a9d448d89c4f1aa98545202/artifacts
+end_time: 1705659149182
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9b910bd30a9d448d89c4f1aa98545202
+run_name: dazzling-mule-598
+run_uuid: 9b910bd30a9d448d89c4f1aa98545202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659148497
+status: 3
+tags: []
+user_id: runner

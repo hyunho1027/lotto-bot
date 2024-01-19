@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/012a6849fb014757a9af3d85f344c638/artifacts
+end_time: 1705659152313
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 012a6849fb014757a9af3d85f344c638
+run_name: wistful-rat-219
+run_uuid: 012a6849fb014757a9af3d85f344c638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659151832
+status: 3
+tags: []
+user_id: runner

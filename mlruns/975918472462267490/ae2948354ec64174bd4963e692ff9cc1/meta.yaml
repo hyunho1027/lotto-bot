@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ae2948354ec64174bd4963e692ff9cc1/artifacts
+end_time: 1705659155434
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ae2948354ec64174bd4963e692ff9cc1
+run_name: bittersweet-dove-442
+run_uuid: ae2948354ec64174bd4963e692ff9cc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659154517
+status: 3
+tags: []
+user_id: runner

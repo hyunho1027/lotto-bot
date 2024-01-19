@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d43d1daec5594cef951e34decd8883ae/artifacts
+end_time: 1705659160523
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d43d1daec5594cef951e34decd8883ae
+run_name: tasteful-hawk-20
+run_uuid: d43d1daec5594cef951e34decd8883ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659157649
+status: 3
+tags: []
+user_id: runner

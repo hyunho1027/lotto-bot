@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/763f5e328b27452b80037403585069e8/artifacts
+end_time: 1705659156411
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 763f5e328b27452b80037403585069e8
+run_name: bedecked-seal-364
+run_uuid: 763f5e328b27452b80037403585069e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659155966
+status: 3
+tags: []
+user_id: runner

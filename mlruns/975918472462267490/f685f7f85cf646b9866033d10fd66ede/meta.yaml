@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f685f7f85cf646b9866033d10fd66ede/artifacts
+end_time: 1705659145567
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f685f7f85cf646b9866033d10fd66ede
+run_name: silent-snail-709
+run_uuid: f685f7f85cf646b9866033d10fd66ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659144613
+status: 3
+tags: []
+user_id: runner
