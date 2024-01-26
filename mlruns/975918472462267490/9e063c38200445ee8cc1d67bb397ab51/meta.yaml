@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9e063c38200445ee8cc1d67bb397ab51/artifacts
+end_time: 1706263957648
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9e063c38200445ee8cc1d67bb397ab51
+run_name: honorable-koi-484
+run_uuid: 9e063c38200445ee8cc1d67bb397ab51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706263956362
+status: 3
+tags: []
+user_id: runner

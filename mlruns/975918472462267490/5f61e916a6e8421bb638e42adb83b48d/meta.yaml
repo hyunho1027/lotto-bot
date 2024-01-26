@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5f61e916a6e8421bb638e42adb83b48d/artifacts
+end_time: 1706263970725
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5f61e916a6e8421bb638e42adb83b48d
+run_name: vaunted-wren-999
+run_uuid: 5f61e916a6e8421bb638e42adb83b48d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706263969934
+status: 3
+tags: []
+user_id: runner

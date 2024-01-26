@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e710eb9a27d742e9957fabe9982d387f/artifacts
+end_time: 1706263974252
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e710eb9a27d742e9957fabe9982d387f
+run_name: enchanting-seal-650
+run_uuid: e710eb9a27d742e9957fabe9982d387f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706263970732
+status: 3
+tags: []
+user_id: runner

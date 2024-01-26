@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fe1d3ff9c75d4d01aa9304a0e328e428/artifacts
+end_time: 1706263965441
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fe1d3ff9c75d4d01aa9304a0e328e428
+run_name: nebulous-sponge-650
+run_uuid: fe1d3ff9c75d4d01aa9304a0e328e428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706263963367
+status: 3
+tags: []
+user_id: runner

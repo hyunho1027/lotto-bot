@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bdd7767bac47407daafd05e4837a1766/artifacts
+end_time: 1706263968175
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bdd7767bac47407daafd05e4837a1766
+run_name: shivering-jay-540
+run_uuid: bdd7767bac47407daafd05e4837a1766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706263967277
+status: 3
+tags: []
+user_id: runner

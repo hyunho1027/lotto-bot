@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/17c06dfa26c14c00866dc204fe6b02e2/artifacts
+end_time: 1706263963352
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 17c06dfa26c14c00866dc204fe6b02e2
+run_name: classy-gull-608
+run_uuid: 17c06dfa26c14c00866dc204fe6b02e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706263961800
+status: 3
+tags: []
+user_id: runner
