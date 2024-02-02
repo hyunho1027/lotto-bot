@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cd1d12f88a384bd884f6b223893ae510/artifacts
+end_time: 1706868804331
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cd1d12f88a384bd884f6b223893ae510
+run_name: unequaled-hawk-799
+run_uuid: cd1d12f88a384bd884f6b223893ae510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868803783
+status: 3
+tags: []
+user_id: runner

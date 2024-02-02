@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cc0790a4525845e7809bbfe65501d101/artifacts
+end_time: 1706868821853
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cc0790a4525845e7809bbfe65501d101
+run_name: salty-shrike-305
+run_uuid: cc0790a4525845e7809bbfe65501d101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868820181
+status: 3
+tags: []
+user_id: runner

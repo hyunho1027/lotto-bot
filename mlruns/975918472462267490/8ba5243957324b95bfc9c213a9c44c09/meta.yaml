@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8ba5243957324b95bfc9c213a9c44c09/artifacts
+end_time: 1706868820166
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8ba5243957324b95bfc9c213a9c44c09
+run_name: dazzling-trout-929
+run_uuid: 8ba5243957324b95bfc9c213a9c44c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868817824
+status: 3
+tags: []
+user_id: runner

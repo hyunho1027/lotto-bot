@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3f49bc3f67814b34a91424a0c660c937/artifacts
+end_time: 1706868808031
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3f49bc3f67814b34a91424a0c660c937
+run_name: welcoming-bug-700
+run_uuid: 3f49bc3f67814b34a91424a0c660c937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868806090
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5b6ec51eda914afbaec6fcdbc35a8517/artifacts
+end_time: 1706868815290
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5b6ec51eda914afbaec6fcdbc35a8517
+run_name: gifted-stork-189
+run_uuid: 5b6ec51eda914afbaec6fcdbc35a8517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868813404
+status: 3
+tags: []
+user_id: runner

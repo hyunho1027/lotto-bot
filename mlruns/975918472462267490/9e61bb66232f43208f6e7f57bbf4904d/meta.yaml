@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9e61bb66232f43208f6e7f57bbf4904d/artifacts
+end_time: 1706868799150
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9e61bb66232f43208f6e7f57bbf4904d
+run_name: kindly-loon-467
+run_uuid: 9e61bb66232f43208f6e7f57bbf4904d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868795845
+status: 3
+tags: []
+user_id: runner
