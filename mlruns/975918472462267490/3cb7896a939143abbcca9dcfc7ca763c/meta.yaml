@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3cb7896a939143abbcca9dcfc7ca763c/artifacts
+end_time: 1707473651747
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3cb7896a939143abbcca9dcfc7ca763c
+run_name: redolent-deer-910
+run_uuid: 3cb7896a939143abbcca9dcfc7ca763c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473650740
+status: 3
+tags: []
+user_id: runner

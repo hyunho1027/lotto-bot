@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/44b9d884d2664f0a807eec6a54d8837a/artifacts
+end_time: 1707473648590
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 44b9d884d2664f0a807eec6a54d8837a
+run_name: redolent-lark-230
+run_uuid: 44b9d884d2664f0a807eec6a54d8837a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473646183
+status: 3
+tags: []
+user_id: runner

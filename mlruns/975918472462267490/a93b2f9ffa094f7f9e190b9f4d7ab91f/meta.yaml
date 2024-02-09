@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a93b2f9ffa094f7f9e190b9f4d7ab91f/artifacts
+end_time: 1707473645435
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a93b2f9ffa094f7f9e190b9f4d7ab91f
+run_name: rare-kit-671
+run_uuid: a93b2f9ffa094f7f9e190b9f4d7ab91f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473642640
+status: 3
+tags: []
+user_id: runner

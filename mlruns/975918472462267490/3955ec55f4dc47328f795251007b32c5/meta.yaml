@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3955ec55f4dc47328f795251007b32c5/artifacts
+end_time: 1707473659689
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3955ec55f4dc47328f795251007b32c5
+run_name: marvelous-bear-851
+run_uuid: 3955ec55f4dc47328f795251007b32c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473658635
+status: 3
+tags: []
+user_id: runner

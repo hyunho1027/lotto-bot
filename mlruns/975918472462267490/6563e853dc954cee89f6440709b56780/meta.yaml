@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6563e853dc954cee89f6440709b56780/artifacts
+end_time: 1707473650726
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6563e853dc954cee89f6440709b56780
+run_name: luxuriant-bee-864
+run_uuid: 6563e853dc954cee89f6440709b56780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473649695
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/00b814863ab447dc8fdb8ccffcc07d5d/artifacts
+end_time: 1707473654432
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 00b814863ab447dc8fdb8ccffcc07d5d
+run_name: auspicious-skink-57
+run_uuid: 00b814863ab447dc8fdb8ccffcc07d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473653013
+status: 3
+tags: []
+user_id: runner

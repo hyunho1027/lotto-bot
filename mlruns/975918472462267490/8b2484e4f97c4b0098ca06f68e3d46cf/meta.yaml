@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8b2484e4f97c4b0098ca06f68e3d46cf/artifacts
+end_time: 1707473670667
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8b2484e4f97c4b0098ca06f68e3d46cf
+run_name: industrious-mink-670
+run_uuid: 8b2484e4f97c4b0098ca06f68e3d46cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473661046
+status: 3
+tags: []
+user_id: runner

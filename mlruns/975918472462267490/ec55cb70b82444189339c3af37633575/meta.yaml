@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ec55cb70b82444189339c3af37633575/artifacts
+end_time: 1707473641126
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ec55cb70b82444189339c3af37633575
+run_name: invincible-dove-171
+run_uuid: ec55cb70b82444189339c3af37633575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473640533
+status: 3
+tags: []
+user_id: runner

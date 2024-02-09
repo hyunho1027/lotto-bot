@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2d58932494f7488d85ab5074f35ae622/artifacts
+end_time: 1707473652930
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2d58932494f7488d85ab5074f35ae622
+run_name: big-rat-858
+run_uuid: 2d58932494f7488d85ab5074f35ae622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473651762
+status: 3
+tags: []
+user_id: runner
