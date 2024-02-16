@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b7fe205faad34061a7734b8c166a4730/artifacts
+end_time: 1708078366617
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b7fe205faad34061a7734b8c166a4730
+run_name: painted-bat-559
+run_uuid: b7fe205faad34061a7734b8c166a4730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078365035
+status: 3
+tags: []
+user_id: runner

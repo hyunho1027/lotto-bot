@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f54b262f2f26449983682be39256c7cc/artifacts
+end_time: 1708078375669
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f54b262f2f26449983682be39256c7cc
+run_name: gaudy-shoat-141
+run_uuid: f54b262f2f26449983682be39256c7cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078374082
+status: 3
+tags: []
+user_id: runner

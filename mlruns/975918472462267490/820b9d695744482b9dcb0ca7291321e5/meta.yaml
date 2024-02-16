@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/820b9d695744482b9dcb0ca7291321e5/artifacts
+end_time: 1708078374067
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 820b9d695744482b9dcb0ca7291321e5
+run_name: calm-mouse-127
+run_uuid: 820b9d695744482b9dcb0ca7291321e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078372347
+status: 3
+tags: []
+user_id: runner

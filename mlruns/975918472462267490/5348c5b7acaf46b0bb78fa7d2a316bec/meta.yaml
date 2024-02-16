@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5348c5b7acaf46b0bb78fa7d2a316bec/artifacts
+end_time: 1708078371437
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5348c5b7acaf46b0bb78fa7d2a316bec
+run_name: secretive-moose-667
+run_uuid: 5348c5b7acaf46b0bb78fa7d2a316bec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078367770
+status: 3
+tags: []
+user_id: runner
