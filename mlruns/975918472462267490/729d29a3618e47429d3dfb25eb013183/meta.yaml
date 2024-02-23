@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/729d29a3618e47429d3dfb25eb013183/artifacts
+end_time: 1708683272341
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 729d29a3618e47429d3dfb25eb013183
+run_name: omniscient-gnat-99
+run_uuid: 729d29a3618e47429d3dfb25eb013183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683271322
+status: 3
+tags: []
+user_id: runner

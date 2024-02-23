@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dc065d71a08e4a4f88b87a656b6a0db5/artifacts
+end_time: 1708683275660
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dc065d71a08e4a4f88b87a656b6a0db5
+run_name: chill-croc-280
+run_uuid: dc065d71a08e4a4f88b87a656b6a0db5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683274659
+status: 3
+tags: []
+user_id: runner

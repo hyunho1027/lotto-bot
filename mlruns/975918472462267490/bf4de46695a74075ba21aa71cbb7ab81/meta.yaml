@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bf4de46695a74075ba21aa71cbb7ab81/artifacts
+end_time: 1708683269978
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bf4de46695a74075ba21aa71cbb7ab81
+run_name: puzzled-slug-447
+run_uuid: bf4de46695a74075ba21aa71cbb7ab81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683267552
+status: 3
+tags: []
+user_id: runner

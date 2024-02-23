@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8db03dda5ec24d3ab2ec06dfae77bbce/artifacts
+end_time: 1708683276791
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8db03dda5ec24d3ab2ec06dfae77bbce
+run_name: bouncy-gnu-215
+run_uuid: 8db03dda5ec24d3ab2ec06dfae77bbce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683275674
+status: 3
+tags: []
+user_id: runner

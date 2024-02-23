@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/595c2cbd3fa44d3090e46fd5138289b9/artifacts
+end_time: 1708683278835
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 595c2cbd3fa44d3090e46fd5138289b9
+run_name: amazing-seal-0
+run_uuid: 595c2cbd3fa44d3090e46fd5138289b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683278052
+status: 3
+tags: []
+user_id: runner

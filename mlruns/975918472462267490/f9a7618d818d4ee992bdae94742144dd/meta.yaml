@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f9a7618d818d4ee992bdae94742144dd/artifacts
+end_time: 1708683285777
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f9a7618d818d4ee992bdae94742144dd
+run_name: agreeable-goat-398
+run_uuid: f9a7618d818d4ee992bdae94742144dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683284550
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b5c6896fee5043acbb2beaa6f6827203/artifacts
+end_time: 1708683283281
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b5c6896fee5043acbb2beaa6f6827203
+run_name: mysterious-ram-162
+run_uuid: b5c6896fee5043acbb2beaa6f6827203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683282179
+status: 3
+tags: []
+user_id: runner

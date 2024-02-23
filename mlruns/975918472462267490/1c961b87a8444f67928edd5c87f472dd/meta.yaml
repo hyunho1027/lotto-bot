@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1c961b87a8444f67928edd5c87f472dd/artifacts
+end_time: 1708683286557
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1c961b87a8444f67928edd5c87f472dd
+run_name: casual-horse-33
+run_uuid: 1c961b87a8444f67928edd5c87f472dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683285791
+status: 3
+tags: []
+user_id: runner
