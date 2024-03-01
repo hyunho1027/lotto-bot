@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ffe456d7294e41ccba589ba6d9d1988a/artifacts
+end_time: 1709287958928
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ffe456d7294e41ccba589ba6d9d1988a
+run_name: abrasive-goat-180
+run_uuid: ffe456d7294e41ccba589ba6d9d1988a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287957262
+status: 3
+tags: []
+user_id: runner

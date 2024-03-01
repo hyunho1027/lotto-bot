@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/154bc67896ed431daa94036e87ebd84e/artifacts
+end_time: 1709287971492
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 154bc67896ed431daa94036e87ebd84e
+run_name: overjoyed-zebra-808
+run_uuid: 154bc67896ed431daa94036e87ebd84e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287970060
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/339fe62c93db40b1a1f8ef6bbf93e4b2/artifacts
+end_time: 1709287965672
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 339fe62c93db40b1a1f8ef6bbf93e4b2
+run_name: shivering-cow-946
+run_uuid: 339fe62c93db40b1a1f8ef6bbf93e4b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287964858
+status: 3
+tags: []
+user_id: runner

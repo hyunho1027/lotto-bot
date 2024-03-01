@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cb9050f8484946059397a2dca6afb7f2/artifacts
+end_time: 1709287967162
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cb9050f8484946059397a2dca6afb7f2
+run_name: bouncy-hen-592
+run_uuid: cb9050f8484946059397a2dca6afb7f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287965685
+status: 3
+tags: []
+user_id: runner

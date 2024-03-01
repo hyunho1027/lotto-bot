@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3758d59331164cc98b01035ec60e4494/artifacts
+end_time: 1709287963328
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3758d59331164cc98b01035ec60e4494
+run_name: exultant-foal-335
+run_uuid: 3758d59331164cc98b01035ec60e4494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287962222
+status: 3
+tags: []
+user_id: runner

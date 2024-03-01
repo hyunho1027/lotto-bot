@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/590e5a70c4ad4ee493ef78d3c30afeb2/artifacts
+end_time: 1709287968504
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 590e5a70c4ad4ee493ef78d3c30afeb2
+run_name: painted-duck-772
+run_uuid: 590e5a70c4ad4ee493ef78d3c30afeb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287967734
+status: 3
+tags: []
+user_id: runner
