@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0757c4f5c63546e7923b8cb1584e6504/artifacts
+end_time: 1709892868258
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0757c4f5c63546e7923b8cb1584e6504
+run_name: abrasive-panda-182
+run_uuid: 0757c4f5c63546e7923b8cb1584e6504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709892866501
+status: 3
+tags: []
+user_id: runner

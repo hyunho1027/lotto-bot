@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dc88ecda68c442cfa57e5bd031b85cfc/artifacts
+end_time: 1709892876230
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dc88ecda68c442cfa57e5bd031b85cfc
+run_name: grandiose-shrike-843
+run_uuid: dc88ecda68c442cfa57e5bd031b85cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709892874090
+status: 3
+tags: []
+user_id: runner

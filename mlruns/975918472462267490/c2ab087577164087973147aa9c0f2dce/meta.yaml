@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c2ab087577164087973147aa9c0f2dce/artifacts
+end_time: 1709892862258
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c2ab087577164087973147aa9c0f2dce
+run_name: amusing-wren-264
+run_uuid: c2ab087577164087973147aa9c0f2dce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709892861330
+status: 3
+tags: []
+user_id: runner

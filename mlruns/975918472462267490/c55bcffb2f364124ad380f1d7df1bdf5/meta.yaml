@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c55bcffb2f364124ad380f1d7df1bdf5/artifacts
+end_time: 1709892866485
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c55bcffb2f364124ad380f1d7df1bdf5
+run_name: adventurous-sow-130
+run_uuid: c55bcffb2f364124ad380f1d7df1bdf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709892865036
+status: 3
+tags: []
+user_id: runner

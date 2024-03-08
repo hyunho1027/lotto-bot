@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/48c1363cdcf44f8b847005773314ae6e/artifacts
+end_time: 1709892874078
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 48c1363cdcf44f8b847005773314ae6e
+run_name: caring-horse-725
+run_uuid: 48c1363cdcf44f8b847005773314ae6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709892873384
+status: 3
+tags: []
+user_id: runner
