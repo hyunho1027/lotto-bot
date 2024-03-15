@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/33cb1018c5a54f4b8a18a37bff7af0d0/artifacts
+end_time: 1710497586777
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 33cb1018c5a54f4b8a18a37bff7af0d0
+run_name: secretive-shoat-696
+run_uuid: 33cb1018c5a54f4b8a18a37bff7af0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497584252
+status: 3
+tags: []
+user_id: runner

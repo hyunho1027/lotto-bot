@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ddb4173510da4c8990b7b06c9f7c0648/artifacts
+end_time: 1710497571040
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ddb4173510da4c8990b7b06c9f7c0648
+run_name: rebellious-vole-378
+run_uuid: ddb4173510da4c8990b7b06c9f7c0648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497566522
+status: 3
+tags: []
+user_id: runner

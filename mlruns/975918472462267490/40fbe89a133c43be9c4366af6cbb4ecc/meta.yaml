@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/40fbe89a133c43be9c4366af6cbb4ecc/artifacts
+end_time: 1710497606241
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 40fbe89a133c43be9c4366af6cbb4ecc
+run_name: ambitious-cub-485
+run_uuid: 40fbe89a133c43be9c4366af6cbb4ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497601825
+status: 3
+tags: []
+user_id: runner

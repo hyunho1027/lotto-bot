@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1e75188b978b42b9842beb31681f553f/artifacts
+end_time: 1710497587990
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1e75188b978b42b9842beb31681f553f
+run_name: dashing-frog-461
+run_uuid: 1e75188b978b42b9842beb31681f553f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497586800
+status: 3
+tags: []
+user_id: runner

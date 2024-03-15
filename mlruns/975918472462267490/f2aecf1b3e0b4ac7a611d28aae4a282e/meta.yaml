@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f2aecf1b3e0b4ac7a611d28aae4a282e/artifacts
+end_time: 1710497590392
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f2aecf1b3e0b4ac7a611d28aae4a282e
+run_name: big-gnat-837
+run_uuid: f2aecf1b3e0b4ac7a611d28aae4a282e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497588010
+status: 3
+tags: []
+user_id: runner

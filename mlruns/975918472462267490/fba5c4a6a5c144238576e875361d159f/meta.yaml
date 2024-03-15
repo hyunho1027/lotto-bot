@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fba5c4a6a5c144238576e875361d159f/artifacts
+end_time: 1710497594476
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fba5c4a6a5c144238576e875361d159f
+run_name: persistent-duck-680
+run_uuid: fba5c4a6a5c144238576e875361d159f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497592688
+status: 3
+tags: []
+user_id: runner

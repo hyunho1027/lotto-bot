@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f49a82bc11df406085bf14f86bb3eb03/artifacts
+end_time: 1710497598318
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f49a82bc11df406085bf14f86bb3eb03
+run_name: casual-bee-417
+run_uuid: f49a82bc11df406085bf14f86bb3eb03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497596918
+status: 3
+tags: []
+user_id: runner

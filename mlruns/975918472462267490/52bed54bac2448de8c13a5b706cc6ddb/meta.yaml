@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/52bed54bac2448de8c13a5b706cc6ddb/artifacts
+end_time: 1710497592667
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 52bed54bac2448de8c13a5b706cc6ddb
+run_name: adaptable-ram-185
+run_uuid: 52bed54bac2448de8c13a5b706cc6ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497591245
+status: 3
+tags: []
+user_id: runner
