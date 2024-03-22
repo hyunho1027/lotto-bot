@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/79aa65d010734c31812867f9c2060bbf/artifacts
+end_time: 1711102412523
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 79aa65d010734c31812867f9c2060bbf
+run_name: glamorous-shrike-338
+run_uuid: 79aa65d010734c31812867f9c2060bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102411121
+status: 3
+tags: []
+user_id: runner

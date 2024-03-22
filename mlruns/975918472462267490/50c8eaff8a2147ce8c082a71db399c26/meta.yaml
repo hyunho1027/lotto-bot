@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/50c8eaff8a2147ce8c082a71db399c26/artifacts
+end_time: 1711102408701
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 50c8eaff8a2147ce8c082a71db399c26
+run_name: fearless-shrike-979
+run_uuid: 50c8eaff8a2147ce8c082a71db399c26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102405837
+status: 3
+tags: []
+user_id: runner

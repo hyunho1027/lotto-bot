@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5178c380956f4f5c9f753d842a8e755e/artifacts
+end_time: 1711102404261
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5178c380956f4f5c9f753d842a8e755e
+run_name: brawny-gnat-810
+run_uuid: 5178c380956f4f5c9f753d842a8e755e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102402619
+status: 3
+tags: []
+user_id: runner

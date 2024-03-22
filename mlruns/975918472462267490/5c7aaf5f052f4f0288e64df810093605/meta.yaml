@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5c7aaf5f052f4f0288e64df810093605/artifacts
+end_time: 1711102418585
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5c7aaf5f052f4f0288e64df810093605
+run_name: sincere-bat-557
+run_uuid: 5c7aaf5f052f4f0288e64df810093605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102417538
+status: 3
+tags: []
+user_id: runner

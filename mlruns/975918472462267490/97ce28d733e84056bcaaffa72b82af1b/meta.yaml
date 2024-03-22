@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/97ce28d733e84056bcaaffa72b82af1b/artifacts
+end_time: 1711102399728
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 97ce28d733e84056bcaaffa72b82af1b
+run_name: sincere-smelt-533
+run_uuid: 97ce28d733e84056bcaaffa72b82af1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102397619
+status: 3
+tags: []
+user_id: runner

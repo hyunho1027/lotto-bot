@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/052bb51543224273b0d1ec83388f8dc0/artifacts
+end_time: 1711102401150
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 052bb51543224273b0d1ec83388f8dc0
+run_name: mercurial-flea-894
+run_uuid: 052bb51543224273b0d1ec83388f8dc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102399752
+status: 3
+tags: []
+user_id: runner
