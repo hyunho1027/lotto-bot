@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5423ddbd041f49daaaf64fdbe3137288/artifacts
+end_time: 1711707206758
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5423ddbd041f49daaaf64fdbe3137288
+run_name: classy-squid-809
+run_uuid: 5423ddbd041f49daaaf64fdbe3137288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707205444
+status: 3
+tags: []
+user_id: runner

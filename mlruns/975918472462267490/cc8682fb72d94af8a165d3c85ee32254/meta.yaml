@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cc8682fb72d94af8a165d3c85ee32254/artifacts
+end_time: 1711707217675
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cc8682fb72d94af8a165d3c85ee32254
+run_name: resilient-boar-403
+run_uuid: cc8682fb72d94af8a165d3c85ee32254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707215865
+status: 3
+tags: []
+user_id: runner

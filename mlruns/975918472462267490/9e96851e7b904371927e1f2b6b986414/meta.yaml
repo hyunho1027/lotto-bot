@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9e96851e7b904371927e1f2b6b986414/artifacts
+end_time: 1711707205430
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9e96851e7b904371927e1f2b6b986414
+run_name: calm-ape-943
+run_uuid: 9e96851e7b904371927e1f2b6b986414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707204250
+status: 3
+tags: []
+user_id: runner

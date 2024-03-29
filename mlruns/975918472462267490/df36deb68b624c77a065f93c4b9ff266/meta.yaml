@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/df36deb68b624c77a065f93c4b9ff266/artifacts
+end_time: 1711707201366
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: df36deb68b624c77a065f93c4b9ff266
+run_name: judicious-dove-374
+run_uuid: df36deb68b624c77a065f93c4b9ff266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707200643
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/db52c9e641d84193836289fc8709cc57/artifacts
+end_time: 1711707218423
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: db52c9e641d84193836289fc8709cc57
+run_name: unleashed-loon-777
+run_uuid: db52c9e641d84193836289fc8709cc57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707217691
+status: 3
+tags: []
+user_id: runner

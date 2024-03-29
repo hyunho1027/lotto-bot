@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a3e25bce3b9c4b5ea09c664221d09efd/artifacts
+end_time: 1711707212187
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a3e25bce3b9c4b5ea09c664221d09efd
+run_name: big-turtle-507
+run_uuid: a3e25bce3b9c4b5ea09c664221d09efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707209285
+status: 3
+tags: []
+user_id: runner

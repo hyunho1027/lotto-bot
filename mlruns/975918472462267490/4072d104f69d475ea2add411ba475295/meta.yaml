@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4072d104f69d475ea2add411ba475295/artifacts
+end_time: 1711707204237
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4072d104f69d475ea2add411ba475295
+run_name: indecisive-steed-593
+run_uuid: 4072d104f69d475ea2add411ba475295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707202465
+status: 3
+tags: []
+user_id: runner

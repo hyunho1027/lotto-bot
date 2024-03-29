@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/14d07d003ced45a9961f15c06b9ae3b4/artifacts
+end_time: 1711707214588
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 14d07d003ced45a9961f15c06b9ae3b4
+run_name: worried-goat-504
+run_uuid: 14d07d003ced45a9961f15c06b9ae3b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707213865
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b7f0388e03df46d791a866f05ddcdca5/artifacts
+end_time: 1711707213851
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b7f0388e03df46d791a866f05ddcdca5
+run_name: shivering-goose-888
+run_uuid: b7f0388e03df46d791a866f05ddcdca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707212205
+status: 3
+tags: []
+user_id: runner

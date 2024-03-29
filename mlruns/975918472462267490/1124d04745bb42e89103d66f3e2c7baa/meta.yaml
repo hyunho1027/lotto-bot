@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1124d04745bb42e89103d66f3e2c7baa/artifacts
+end_time: 1711707197119
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1124d04745bb42e89103d66f3e2c7baa
+run_name: salty-crow-219
+run_uuid: 1124d04745bb42e89103d66f3e2c7baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707194911
+status: 3
+tags: []
+user_id: runner
