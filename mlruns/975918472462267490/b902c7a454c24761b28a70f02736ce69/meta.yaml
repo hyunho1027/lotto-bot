@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b902c7a454c24761b28a70f02736ce69/artifacts
+end_time: 1712312032397
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b902c7a454c24761b28a70f02736ce69
+run_name: gaudy-hare-897
+run_uuid: b902c7a454c24761b28a70f02736ce69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712312031367
+status: 3
+tags: []
+user_id: runner

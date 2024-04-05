@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9f6cd7d9b75c4a4495fdb5a8a2560d25/artifacts
+end_time: 1712312035429
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9f6cd7d9b75c4a4495fdb5a8a2560d25
+run_name: valuable-donkey-692
+run_uuid: 9f6cd7d9b75c4a4495fdb5a8a2560d25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712312033835
+status: 3
+tags: []
+user_id: runner

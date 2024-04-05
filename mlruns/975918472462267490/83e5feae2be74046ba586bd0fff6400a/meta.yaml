@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/83e5feae2be74046ba586bd0fff6400a/artifacts
+end_time: 1712312045936
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 83e5feae2be74046ba586bd0fff6400a
+run_name: bright-ray-602
+run_uuid: 83e5feae2be74046ba586bd0fff6400a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712312043982
+status: 3
+tags: []
+user_id: runner

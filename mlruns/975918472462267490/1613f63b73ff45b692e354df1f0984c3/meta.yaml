@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1613f63b73ff45b692e354df1f0984c3/artifacts
+end_time: 1712312041311
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1613f63b73ff45b692e354df1f0984c3
+run_name: hilarious-moose-439
+run_uuid: 1613f63b73ff45b692e354df1f0984c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712312040242
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e76df503ef9d43e4b4cdd3c4bbcaf4cc/artifacts
+end_time: 1712312050521
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e76df503ef9d43e4b4cdd3c4bbcaf4cc
+run_name: worried-vole-802
+run_uuid: e76df503ef9d43e4b4cdd3c4bbcaf4cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712312048693
+status: 3
+tags: []
+user_id: runner

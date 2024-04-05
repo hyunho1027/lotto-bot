@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ff5b04245c654a87a575fc00e6256ec4/artifacts
+end_time: 1712312036749
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ff5b04245c654a87a575fc00e6256ec4
+run_name: placid-swan-41
+run_uuid: ff5b04245c654a87a575fc00e6256ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712312035444
+status: 3
+tags: []
+user_id: runner
