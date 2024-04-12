@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/402880efe9474694a87f8c6b407bee15/artifacts
+end_time: 1712916784763
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 402880efe9474694a87f8c6b407bee15
+run_name: legendary-zebra-4
+run_uuid: 402880efe9474694a87f8c6b407bee15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712916783485
+status: 3
+tags: []
+user_id: runner

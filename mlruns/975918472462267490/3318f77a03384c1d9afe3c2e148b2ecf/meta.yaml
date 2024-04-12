@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3318f77a03384c1d9afe3c2e148b2ecf/artifacts
+end_time: 1712916783473
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3318f77a03384c1d9afe3c2e148b2ecf
+run_name: dazzling-cow-375
+run_uuid: 3318f77a03384c1d9afe3c2e148b2ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712916781300
+status: 3
+tags: []
+user_id: runner

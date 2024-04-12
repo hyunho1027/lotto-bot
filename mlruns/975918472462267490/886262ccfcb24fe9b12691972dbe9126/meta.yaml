@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/886262ccfcb24fe9b12691972dbe9126/artifacts
+end_time: 1712916793142
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 886262ccfcb24fe9b12691972dbe9126
+run_name: defiant-dolphin-638
+run_uuid: 886262ccfcb24fe9b12691972dbe9126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712916791641
+status: 3
+tags: []
+user_id: runner

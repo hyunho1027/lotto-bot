@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/51e67cbe75334194ae6aa33da4a41e97/artifacts
+end_time: 1712916791629
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 51e67cbe75334194ae6aa33da4a41e97
+run_name: zealous-tern-211
+run_uuid: 51e67cbe75334194ae6aa33da4a41e97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712916790849
+status: 3
+tags: []
+user_id: runner

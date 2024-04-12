@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/46d186d210d04145a087f04c968f1e4b/artifacts
+end_time: 1712916781285
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 46d186d210d04145a087f04c968f1e4b
+run_name: bustling-boar-531
+run_uuid: 46d186d210d04145a087f04c968f1e4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712916779672
+status: 3
+tags: []
+user_id: runner

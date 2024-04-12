@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dbb79706b6cc491db74328ba6db3b6c2/artifacts
+end_time: 1712916788131
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dbb79706b6cc491db74328ba6db3b6c2
+run_name: placid-frog-184
+run_uuid: dbb79706b6cc491db74328ba6db3b6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712916787124
+status: 3
+tags: []
+user_id: runner
