@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5fa1705a5084454aa86590675e2fdf84/artifacts
+end_time: 1713521632365
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5fa1705a5084454aa86590675e2fdf84
+run_name: blushing-ox-868
+run_uuid: 5fa1705a5084454aa86590675e2fdf84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521631345
+status: 3
+tags: []
+user_id: runner

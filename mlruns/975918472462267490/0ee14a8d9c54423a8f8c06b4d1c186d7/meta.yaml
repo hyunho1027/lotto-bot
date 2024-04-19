@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0ee14a8d9c54423a8f8c06b4d1c186d7/artifacts
+end_time: 1713521627818
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0ee14a8d9c54423a8f8c06b4d1c186d7
+run_name: useful-grouse-704
+run_uuid: 0ee14a8d9c54423a8f8c06b4d1c186d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521626832
+status: 3
+tags: []
+user_id: runner

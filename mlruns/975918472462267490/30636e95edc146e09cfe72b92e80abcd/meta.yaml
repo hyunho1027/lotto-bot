@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/30636e95edc146e09cfe72b92e80abcd/artifacts
+end_time: 1713521620172
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 30636e95edc146e09cfe72b92e80abcd
+run_name: skittish-skunk-399
+run_uuid: 30636e95edc146e09cfe72b92e80abcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521619118
+status: 3
+tags: []
+user_id: runner

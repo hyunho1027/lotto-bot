@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/847f927c92e246cf9e79239b68b4ef0d/artifacts
+end_time: 1713521625631
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 847f927c92e246cf9e79239b68b4ef0d
+run_name: zealous-lark-90
+run_uuid: 847f927c92e246cf9e79239b68b4ef0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521624894
+status: 3
+tags: []
+user_id: runner

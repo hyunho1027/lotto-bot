@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cc855794384b484d85e74b6b7598380d/artifacts
+end_time: 1713521629420
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cc855794384b484d85e74b6b7598380d
+run_name: unleashed-skunk-59
+run_uuid: cc855794384b484d85e74b6b7598380d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521628631
+status: 3
+tags: []
+user_id: runner

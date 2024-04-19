@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/09ac74637f4e4f21abc3489fd218ae2c/artifacts
+end_time: 1713521631331
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 09ac74637f4e4f21abc3489fd218ae2c
+run_name: glamorous-sow-782
+run_uuid: 09ac74637f4e4f21abc3489fd218ae2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521629879
+status: 3
+tags: []
+user_id: runner
