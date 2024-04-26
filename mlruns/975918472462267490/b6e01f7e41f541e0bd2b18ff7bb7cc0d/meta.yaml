@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b6e01f7e41f541e0bd2b18ff7bb7cc0d/artifacts
+end_time: 1714126405231
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b6e01f7e41f541e0bd2b18ff7bb7cc0d
+run_name: receptive-swan-30
+run_uuid: b6e01f7e41f541e0bd2b18ff7bb7cc0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126404231
+status: 3
+tags: []
+user_id: runner

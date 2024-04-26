@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c7c4132f13b94c568436e289fc96a370/artifacts
+end_time: 1714126417011
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c7c4132f13b94c568436e289fc96a370
+run_name: delicate-snake-531
+run_uuid: c7c4132f13b94c568436e289fc96a370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126416267
+status: 3
+tags: []
+user_id: runner

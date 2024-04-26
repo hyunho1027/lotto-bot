@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/adcb026e492a4204a953409a69c8e40f/artifacts
+end_time: 1714126416255
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: adcb026e492a4204a953409a69c8e40f
+run_name: honorable-bug-938
+run_uuid: adcb026e492a4204a953409a69c8e40f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126413671
+status: 3
+tags: []
+user_id: runner

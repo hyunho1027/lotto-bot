@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f62ac61b7b8a48009f7f859e457da3d5/artifacts
+end_time: 1714126402174
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f62ac61b7b8a48009f7f859e457da3d5
+run_name: bald-bee-47
+run_uuid: f62ac61b7b8a48009f7f859e457da3d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126400855
+status: 3
+tags: []
+user_id: runner

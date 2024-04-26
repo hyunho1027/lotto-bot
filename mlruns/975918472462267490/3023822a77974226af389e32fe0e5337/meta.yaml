@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3023822a77974226af389e32fe0e5337/artifacts
+end_time: 1714126422092
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3023822a77974226af389e32fe0e5337
+run_name: omniscient-conch-634
+run_uuid: 3023822a77974226af389e32fe0e5337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126418926
+status: 3
+tags: []
+user_id: runner

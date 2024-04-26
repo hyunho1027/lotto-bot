@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a0bd063fac8d4c2a8fca6c911a80693b/artifacts
+end_time: 1714126400842
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a0bd063fac8d4c2a8fca6c911a80693b
+run_name: gifted-whale-241
+run_uuid: a0bd063fac8d4c2a8fca6c911a80693b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126397091
+status: 3
+tags: []
+user_id: runner

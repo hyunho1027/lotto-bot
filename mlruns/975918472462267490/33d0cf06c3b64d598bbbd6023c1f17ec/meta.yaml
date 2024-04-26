@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/33d0cf06c3b64d598bbbd6023c1f17ec/artifacts
+end_time: 1714126406267
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 33d0cf06c3b64d598bbbd6023c1f17ec
+run_name: able-seal-617
+run_uuid: 33d0cf06c3b64d598bbbd6023c1f17ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126405730
+status: 3
+tags: []
+user_id: runner
