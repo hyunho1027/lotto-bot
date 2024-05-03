@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8061e008660945b8821b9f9455647a1d/artifacts
+end_time: 1714731255925
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8061e008660945b8821b9f9455647a1d
+run_name: whimsical-ray-407
+run_uuid: 8061e008660945b8821b9f9455647a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731254258
+status: 3
+tags: []
+user_id: runner

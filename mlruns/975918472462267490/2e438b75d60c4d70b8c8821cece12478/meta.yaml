@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2e438b75d60c4d70b8c8821cece12478/artifacts
+end_time: 1714731261324
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2e438b75d60c4d70b8c8821cece12478
+run_name: serious-shoat-146
+run_uuid: 2e438b75d60c4d70b8c8821cece12478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731260419
+status: 3
+tags: []
+user_id: runner

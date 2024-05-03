@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0f3b73201e1f4799ae178169a3f1237a/artifacts
+end_time: 1714731257584
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0f3b73201e1f4799ae178169a3f1237a
+run_name: auspicious-ray-880
+run_uuid: 0f3b73201e1f4799ae178169a3f1237a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731255941
+status: 3
+tags: []
+user_id: runner

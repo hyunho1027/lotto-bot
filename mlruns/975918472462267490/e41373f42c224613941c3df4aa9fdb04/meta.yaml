@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e41373f42c224613941c3df4aa9fdb04/artifacts
+end_time: 1714731260404
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e41373f42c224613941c3df4aa9fdb04
+run_name: unruly-bird-903
+run_uuid: e41373f42c224613941c3df4aa9fdb04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731257599
+status: 3
+tags: []
+user_id: runner

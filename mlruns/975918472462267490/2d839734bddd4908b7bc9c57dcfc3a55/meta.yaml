@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2d839734bddd4908b7bc9c57dcfc3a55/artifacts
+end_time: 1714731242727
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2d839734bddd4908b7bc9c57dcfc3a55
+run_name: chill-cow-935
+run_uuid: 2d839734bddd4908b7bc9c57dcfc3a55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731241132
+status: 3
+tags: []
+user_id: runner

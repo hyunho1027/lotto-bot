@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/30c6ee62f96e458e80b97dfe2e4f758a/artifacts
+end_time: 1714731249827
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 30c6ee62f96e458e80b97dfe2e4f758a
+run_name: hilarious-ox-201
+run_uuid: 30c6ee62f96e458e80b97dfe2e4f758a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731248715
+status: 3
+tags: []
+user_id: runner

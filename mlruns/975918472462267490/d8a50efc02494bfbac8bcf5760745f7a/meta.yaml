@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d8a50efc02494bfbac8bcf5760745f7a/artifacts
+end_time: 1714731250920
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d8a50efc02494bfbac8bcf5760745f7a
+run_name: capable-pug-428
+run_uuid: d8a50efc02494bfbac8bcf5760745f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731249857
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/017a5db3fcc3416790d9849e1b3e1ecf/artifacts
+end_time: 1714731264884
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 017a5db3fcc3416790d9849e1b3e1ecf
+run_name: sincere-shoat-218
+run_uuid: 017a5db3fcc3416790d9849e1b3e1ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731262693
+status: 3
+tags: []
+user_id: runner
