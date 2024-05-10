@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0828fdefd969480c8ec96272564fe764/artifacts
+end_time: 1715336038318
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0828fdefd969480c8ec96272564fe764
+run_name: loud-conch-11
+run_uuid: 0828fdefd969480c8ec96272564fe764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715336037066
+status: 3
+tags: []
+user_id: runner

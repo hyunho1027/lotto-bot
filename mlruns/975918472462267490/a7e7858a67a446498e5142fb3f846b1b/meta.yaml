@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a7e7858a67a446498e5142fb3f846b1b/artifacts
+end_time: 1715336030337
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a7e7858a67a446498e5142fb3f846b1b
+run_name: painted-calf-461
+run_uuid: a7e7858a67a446498e5142fb3f846b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715336029430
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c08f733548f2484ba264fac6a19087d5/artifacts
+end_time: 1715336039470
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c08f733548f2484ba264fac6a19087d5
+run_name: whimsical-deer-700
+run_uuid: c08f733548f2484ba264fac6a19087d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715336038330
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/22f0e51035a643448392b7e0299cd886/artifacts
+end_time: 1715336026614
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 22f0e51035a643448392b7e0299cd886
+run_name: gentle-robin-485
+run_uuid: 22f0e51035a643448392b7e0299cd886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715336025215
+status: 3
+tags: []
+user_id: runner

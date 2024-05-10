@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/14eac4ff3e5b4d9ea0b518c81c0dbdde/artifacts
+end_time: 1715336029416
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 14eac4ff3e5b4d9ea0b518c81c0dbdde
+run_name: salty-panda-968
+run_uuid: 14eac4ff3e5b4d9ea0b518c81c0dbdde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715336028229
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/de41cacc44d34c2c898bd29123f2897c/artifacts
+end_time: 1715336033287
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: de41cacc44d34c2c898bd29123f2897c
+run_name: resilient-ram-483
+run_uuid: de41cacc44d34c2c898bd29123f2897c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715336031266
+status: 3
+tags: []
+user_id: runner

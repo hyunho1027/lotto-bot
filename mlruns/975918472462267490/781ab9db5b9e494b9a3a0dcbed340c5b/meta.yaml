@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/781ab9db5b9e494b9a3a0dcbed340c5b/artifacts
+end_time: 1715336031244
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 781ab9db5b9e494b9a3a0dcbed340c5b
+run_name: amusing-swan-541
+run_uuid: 781ab9db5b9e494b9a3a0dcbed340c5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715336030363
+status: 3
+tags: []
+user_id: runner

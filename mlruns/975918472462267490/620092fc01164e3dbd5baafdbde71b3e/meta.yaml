@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/620092fc01164e3dbd5baafdbde71b3e/artifacts
+end_time: 1715336043103
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 620092fc01164e3dbd5baafdbde71b3e
+run_name: sedate-fish-719
+run_uuid: 620092fc01164e3dbd5baafdbde71b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715336041884
+status: 3
+tags: []
+user_id: runner
