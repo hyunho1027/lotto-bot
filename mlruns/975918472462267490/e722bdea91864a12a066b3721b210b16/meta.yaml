@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e722bdea91864a12a066b3721b210b16/artifacts
+end_time: 1715940780661
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e722bdea91864a12a066b3721b210b16
+run_name: trusting-boar-864
+run_uuid: e722bdea91864a12a066b3721b210b16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940779661
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/990b90698ecb42a991e22fba0106228e/artifacts
+end_time: 1715940789378
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 990b90698ecb42a991e22fba0106228e
+run_name: unique-hog-462
+run_uuid: 990b90698ecb42a991e22fba0106228e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940788309
+status: 3
+tags: []
+user_id: runner

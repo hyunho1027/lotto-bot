@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6444dd78aa34414e8a5dbfd48dd811da/artifacts
+end_time: 1715940791019
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6444dd78aa34414e8a5dbfd48dd811da
+run_name: caring-shark-869
+run_uuid: 6444dd78aa34414e8a5dbfd48dd811da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940790231
+status: 3
+tags: []
+user_id: runner

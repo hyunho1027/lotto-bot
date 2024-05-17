@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2c8991e0e7064086813961dd7609b53e/artifacts
+end_time: 1715940787834
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2c8991e0e7064086813961dd7609b53e
+run_name: wise-ox-936
+run_uuid: 2c8991e0e7064086813961dd7609b53e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940786840
+status: 3
+tags: []
+user_id: runner

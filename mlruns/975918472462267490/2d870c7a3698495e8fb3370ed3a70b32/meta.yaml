@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2d870c7a3698495e8fb3370ed3a70b32/artifacts
+end_time: 1715940778267
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2d870c7a3698495e8fb3370ed3a70b32
+run_name: trusting-mule-593
+run_uuid: 2d870c7a3698495e8fb3370ed3a70b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940777163
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/71b33c12ef974e0fa5a303fcf9fed316/artifacts
+end_time: 1715940777150
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 71b33c12ef974e0fa5a303fcf9fed316
+run_name: angry-hawk-684
+run_uuid: 71b33c12ef974e0fa5a303fcf9fed316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940776342
+status: 3
+tags: []
+user_id: runner

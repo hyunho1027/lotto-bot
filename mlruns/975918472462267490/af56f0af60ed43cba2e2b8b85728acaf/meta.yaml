@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/af56f0af60ed43cba2e2b8b85728acaf/artifacts
+end_time: 1715940793994
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: af56f0af60ed43cba2e2b8b85728acaf
+run_name: angry-loon-909
+run_uuid: af56f0af60ed43cba2e2b8b85728acaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940791025
+status: 3
+tags: []
+user_id: runner
