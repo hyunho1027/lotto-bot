@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1b05fa2ea8d342d0b48d590cc914cf00/artifacts
+end_time: 1716545639675
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1b05fa2ea8d342d0b48d590cc914cf00
+run_name: overjoyed-flea-274
+run_uuid: 1b05fa2ea8d342d0b48d590cc914cf00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545638359
+status: 3
+tags: []
+user_id: runner

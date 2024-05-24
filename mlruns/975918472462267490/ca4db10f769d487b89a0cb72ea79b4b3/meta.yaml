@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ca4db10f769d487b89a0cb72ea79b4b3/artifacts
+end_time: 1716545646997
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ca4db10f769d487b89a0cb72ea79b4b3
+run_name: melodic-calf-45
+run_uuid: ca4db10f769d487b89a0cb72ea79b4b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545646488
+status: 3
+tags: []
+user_id: runner

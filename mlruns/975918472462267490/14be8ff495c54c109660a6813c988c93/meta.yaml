@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/14be8ff495c54c109660a6813c988c93/artifacts
+end_time: 1716545633877
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 14be8ff495c54c109660a6813c988c93
+run_name: invincible-shrew-754
+run_uuid: 14be8ff495c54c109660a6813c988c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545632442
+status: 3
+tags: []
+user_id: runner

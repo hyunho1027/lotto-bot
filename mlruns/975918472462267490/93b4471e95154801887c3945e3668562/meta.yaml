@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/93b4471e95154801887c3945e3668562/artifacts
+end_time: 1716545634456
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 93b4471e95154801887c3945e3668562
+run_name: clumsy-dolphin-478
+run_uuid: 93b4471e95154801887c3945e3668562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545633890
+status: 3
+tags: []
+user_id: runner

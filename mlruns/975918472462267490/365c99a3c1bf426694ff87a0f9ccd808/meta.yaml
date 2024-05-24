@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/365c99a3c1bf426694ff87a0f9ccd808/artifacts
+end_time: 1716545637755
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 365c99a3c1bf426694ff87a0f9ccd808
+run_name: nervous-fowl-16
+run_uuid: 365c99a3c1bf426694ff87a0f9ccd808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545637202
+status: 3
+tags: []
+user_id: runner

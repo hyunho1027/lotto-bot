@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/748f6f830e8743e1a420bbd1260b9c52/artifacts
+end_time: 1716545649892
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 748f6f830e8743e1a420bbd1260b9c52
+run_name: rare-grouse-16
+run_uuid: 748f6f830e8743e1a420bbd1260b9c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545647003
+status: 3
+tags: []
+user_id: runner

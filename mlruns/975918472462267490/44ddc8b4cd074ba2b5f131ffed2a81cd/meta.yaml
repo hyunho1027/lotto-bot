@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/44ddc8b4cd074ba2b5f131ffed2a81cd/artifacts
+end_time: 1716545636069
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 44ddc8b4cd074ba2b5f131ffed2a81cd
+run_name: industrious-carp-701
+run_uuid: 44ddc8b4cd074ba2b5f131ffed2a81cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545634468
+status: 3
+tags: []
+user_id: runner

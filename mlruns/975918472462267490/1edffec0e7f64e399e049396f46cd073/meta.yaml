@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1edffec0e7f64e399e049396f46cd073/artifacts
+end_time: 1716545641160
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1edffec0e7f64e399e049396f46cd073
+run_name: bald-bug-813
+run_uuid: 1edffec0e7f64e399e049396f46cd073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545639689
+status: 3
+tags: []
+user_id: runner
