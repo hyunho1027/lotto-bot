@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/85c6e6bc4afb4d8ca1c39c890096dd73/artifacts
+end_time: 1717150488398
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 85c6e6bc4afb4d8ca1c39c890096dd73
+run_name: skillful-steed-689
+run_uuid: 85c6e6bc4afb4d8ca1c39c890096dd73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150487088
+status: 3
+tags: []
+user_id: runner

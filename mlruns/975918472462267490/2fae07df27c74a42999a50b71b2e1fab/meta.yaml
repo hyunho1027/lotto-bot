@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2fae07df27c74a42999a50b71b2e1fab/artifacts
+end_time: 1717150480368
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2fae07df27c74a42999a50b71b2e1fab
+run_name: powerful-sheep-843
+run_uuid: 2fae07df27c74a42999a50b71b2e1fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150479418
+status: 3
+tags: []
+user_id: runner

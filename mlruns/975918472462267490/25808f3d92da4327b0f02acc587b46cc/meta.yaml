@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/25808f3d92da4327b0f02acc587b46cc/artifacts
+end_time: 1717150461438
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 25808f3d92da4327b0f02acc587b46cc
+run_name: powerful-ram-479
+run_uuid: 25808f3d92da4327b0f02acc587b46cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150459623
+status: 3
+tags: []
+user_id: runner

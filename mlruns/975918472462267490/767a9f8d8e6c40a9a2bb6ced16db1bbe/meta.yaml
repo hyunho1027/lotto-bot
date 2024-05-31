@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/767a9f8d8e6c40a9a2bb6ced16db1bbe/artifacts
+end_time: 1717150483519
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 767a9f8d8e6c40a9a2bb6ced16db1bbe
+run_name: funny-swan-977
+run_uuid: 767a9f8d8e6c40a9a2bb6ced16db1bbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150480429
+status: 3
+tags: []
+user_id: runner

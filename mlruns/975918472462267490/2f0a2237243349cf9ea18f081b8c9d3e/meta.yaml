@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2f0a2237243349cf9ea18f081b8c9d3e/artifacts
+end_time: 1717150484873
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2f0a2237243349cf9ea18f081b8c9d3e
+run_name: adorable-mule-474
+run_uuid: 2f0a2237243349cf9ea18f081b8c9d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150483538
+status: 3
+tags: []
+user_id: runner

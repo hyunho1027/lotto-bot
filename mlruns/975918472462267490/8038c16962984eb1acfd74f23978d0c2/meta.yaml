@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8038c16962984eb1acfd74f23978d0c2/artifacts
+end_time: 1717150467835
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8038c16962984eb1acfd74f23978d0c2
+run_name: efficient-hare-543
+run_uuid: 8038c16962984eb1acfd74f23978d0c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150465334
+status: 3
+tags: []
+user_id: runner
