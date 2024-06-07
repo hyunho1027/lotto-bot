@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/95189c1670d347a38f3cab4e443f01ed/artifacts
+end_time: 1717755228812
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 95189c1670d347a38f3cab4e443f01ed
+run_name: gaudy-roo-397
+run_uuid: 95189c1670d347a38f3cab4e443f01ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755228157
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/329ab040f1824076874dde0ce9cc042e/artifacts
+end_time: 1717755228143
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 329ab040f1824076874dde0ce9cc042e
+run_name: rebellious-koi-947
+run_uuid: 329ab040f1824076874dde0ce9cc042e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755227675
+status: 3
+tags: []
+user_id: runner

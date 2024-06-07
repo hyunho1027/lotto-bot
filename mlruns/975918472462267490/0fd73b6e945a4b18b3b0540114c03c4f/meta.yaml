@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0fd73b6e945a4b18b3b0540114c03c4f/artifacts
+end_time: 1717755210532
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0fd73b6e945a4b18b3b0540114c03c4f
+run_name: clean-lark-829
+run_uuid: 0fd73b6e945a4b18b3b0540114c03c4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755209295
+status: 3
+tags: []
+user_id: runner

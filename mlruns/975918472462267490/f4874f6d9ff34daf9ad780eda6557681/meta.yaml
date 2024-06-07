@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f4874f6d9ff34daf9ad780eda6557681/artifacts
+end_time: 1717755230659
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f4874f6d9ff34daf9ad780eda6557681
+run_name: auspicious-ant-158
+run_uuid: f4874f6d9ff34daf9ad780eda6557681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755229748
+status: 3
+tags: []
+user_id: runner
