@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0c6e09f6c4a5492a8fd5e603059774e5/artifacts
+end_time: 1718359993280
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0c6e09f6c4a5492a8fd5e603059774e5
+run_name: mercurial-colt-616
+run_uuid: 0c6e09f6c4a5492a8fd5e603059774e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718359992019
+status: 3
+tags: []
+user_id: runner

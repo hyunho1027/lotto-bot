@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/adbc1585b9a2442b834f09c641992c8a/artifacts
+end_time: 1718359996117
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: adbc1585b9a2442b834f09c641992c8a
+run_name: burly-yak-265
+run_uuid: adbc1585b9a2442b834f09c641992c8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718359994562
+status: 3
+tags: []
+user_id: runner

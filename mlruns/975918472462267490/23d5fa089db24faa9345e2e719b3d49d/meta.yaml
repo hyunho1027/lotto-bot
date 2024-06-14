@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/23d5fa089db24faa9345e2e719b3d49d/artifacts
+end_time: 1718360009689
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 23d5fa089db24faa9345e2e719b3d49d
+run_name: handsome-steed-380
+run_uuid: 23d5fa089db24faa9345e2e719b3d49d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718360009191
+status: 3
+tags: []
+user_id: runner

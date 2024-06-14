@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dc63a0557a594f5ba68e8065eb932de0/artifacts
+end_time: 1718360014168
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dc63a0557a594f5ba68e8065eb932de0
+run_name: selective-bass-336
+run_uuid: dc63a0557a594f5ba68e8065eb932de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718360010986
+status: 3
+tags: []
+user_id: runner
