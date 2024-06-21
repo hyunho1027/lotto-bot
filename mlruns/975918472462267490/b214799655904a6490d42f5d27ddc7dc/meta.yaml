@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b214799655904a6490d42f5d27ddc7dc/artifacts
+end_time: 1718964906663
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b214799655904a6490d42f5d27ddc7dc
+run_name: agreeable-shrike-19
+run_uuid: b214799655904a6490d42f5d27ddc7dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964901797
+status: 3
+tags: []
+user_id: runner

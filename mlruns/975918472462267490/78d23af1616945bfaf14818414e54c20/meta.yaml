@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/78d23af1616945bfaf14818414e54c20/artifacts
+end_time: 1718964949833
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 78d23af1616945bfaf14818414e54c20
+run_name: selective-hawk-861
+run_uuid: 78d23af1616945bfaf14818414e54c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964942320
+status: 3
+tags: []
+user_id: runner

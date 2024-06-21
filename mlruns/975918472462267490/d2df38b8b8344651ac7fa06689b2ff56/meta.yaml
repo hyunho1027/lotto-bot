@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d2df38b8b8344651ac7fa06689b2ff56/artifacts
+end_time: 1718964934228
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d2df38b8b8344651ac7fa06689b2ff56
+run_name: classy-shrew-307
+run_uuid: d2df38b8b8344651ac7fa06689b2ff56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964932679
+status: 3
+tags: []
+user_id: runner

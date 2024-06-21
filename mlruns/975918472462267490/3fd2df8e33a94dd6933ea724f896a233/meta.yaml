@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3fd2df8e33a94dd6933ea724f896a233/artifacts
+end_time: 1718964911579
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3fd2df8e33a94dd6933ea724f896a233
+run_name: adventurous-cow-803
+run_uuid: 3fd2df8e33a94dd6933ea724f896a233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964909317
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/56c8252bbff9463a81914b8b08e245ea/artifacts
+end_time: 1718964926223
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 56c8252bbff9463a81914b8b08e245ea
+run_name: bouncy-shark-646
+run_uuid: 56c8252bbff9463a81914b8b08e245ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964924308
+status: 3
+tags: []
+user_id: runner

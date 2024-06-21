@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1883e0075b394170bbb66614bea49a3a/artifacts
+end_time: 1718964924283
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1883e0075b394170bbb66614bea49a3a
+run_name: dashing-rook-989
+run_uuid: 1883e0075b394170bbb66614bea49a3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964921171
+status: 3
+tags: []
+user_id: runner

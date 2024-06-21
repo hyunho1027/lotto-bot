@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d9197fce3a4040e48261eae9ce1bd34e/artifacts
+end_time: 1718964940879
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d9197fce3a4040e48261eae9ce1bd34e
+run_name: redolent-sheep-487
+run_uuid: d9197fce3a4040e48261eae9ce1bd34e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964939486
+status: 3
+tags: []
+user_id: runner
