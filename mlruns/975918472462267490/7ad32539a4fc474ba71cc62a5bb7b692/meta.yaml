@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7ad32539a4fc474ba71cc62a5bb7b692/artifacts
+end_time: 1719569698433
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7ad32539a4fc474ba71cc62a5bb7b692
+run_name: charming-dove-738
+run_uuid: 7ad32539a4fc474ba71cc62a5bb7b692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569697331
+status: 3
+tags: []
+user_id: runner

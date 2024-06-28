@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e2dc02741e5b4a3fac4797adfaf6acb7/artifacts
+end_time: 1719569699563
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e2dc02741e5b4a3fac4797adfaf6acb7
+run_name: rogue-asp-589
+run_uuid: e2dc02741e5b4a3fac4797adfaf6acb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569698451
+status: 3
+tags: []
+user_id: runner

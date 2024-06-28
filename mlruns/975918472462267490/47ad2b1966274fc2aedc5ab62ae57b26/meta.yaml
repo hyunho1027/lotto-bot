@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/47ad2b1966274fc2aedc5ab62ae57b26/artifacts
+end_time: 1719569684727
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 47ad2b1966274fc2aedc5ab62ae57b26
+run_name: languid-dog-845
+run_uuid: 47ad2b1966274fc2aedc5ab62ae57b26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569682655
+status: 3
+tags: []
+user_id: runner

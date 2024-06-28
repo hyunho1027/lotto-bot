@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cebd2597491046e3b8b18043b76d8eec/artifacts
+end_time: 1719569695531
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cebd2597491046e3b8b18043b76d8eec
+run_name: entertaining-yak-197
+run_uuid: cebd2597491046e3b8b18043b76d8eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569694770
+status: 3
+tags: []
+user_id: runner

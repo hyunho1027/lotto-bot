@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/92e0d3ae16f8409986e49e78f6b04973/artifacts
+end_time: 1719569697312
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 92e0d3ae16f8409986e49e78f6b04973
+run_name: redolent-snail-854
+run_uuid: 92e0d3ae16f8409986e49e78f6b04973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569695546
+status: 3
+tags: []
+user_id: runner

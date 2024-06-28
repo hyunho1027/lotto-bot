@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b4bedf5d66c84335bf7fd5eac06c6467/artifacts
+end_time: 1719569703487
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b4bedf5d66c84335bf7fd5eac06c6467
+run_name: luminous-snipe-116
+run_uuid: b4bedf5d66c84335bf7fd5eac06c6467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569701262
+status: 3
+tags: []
+user_id: runner
