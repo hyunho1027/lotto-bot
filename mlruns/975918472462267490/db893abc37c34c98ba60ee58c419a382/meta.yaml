@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/db893abc37c34c98ba60ee58c419a382/artifacts
+end_time: 1720174483314
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: db893abc37c34c98ba60ee58c419a382
+run_name: smiling-toad-211
+run_uuid: db893abc37c34c98ba60ee58c419a382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174481859
+status: 3
+tags: []
+user_id: runner

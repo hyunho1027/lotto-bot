@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fdb837c264194b2f90e9b5c4321c2eca/artifacts
+end_time: 1720174499354
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fdb837c264194b2f90e9b5c4321c2eca
+run_name: crawling-vole-603
+run_uuid: fdb837c264194b2f90e9b5c4321c2eca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174498225
+status: 3
+tags: []
+user_id: runner

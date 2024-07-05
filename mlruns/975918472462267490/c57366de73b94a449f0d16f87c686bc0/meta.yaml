@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c57366de73b94a449f0d16f87c686bc0/artifacts
+end_time: 1720174513880
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c57366de73b94a449f0d16f87c686bc0
+run_name: chill-dog-970
+run_uuid: c57366de73b94a449f0d16f87c686bc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174509834
+status: 3
+tags: []
+user_id: runner

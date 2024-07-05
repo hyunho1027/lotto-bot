@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c4f03bd2a1e44e66ac8b762591aed6ed/artifacts
+end_time: 1720174490072
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c4f03bd2a1e44e66ac8b762591aed6ed
+run_name: chill-crow-31
+run_uuid: c4f03bd2a1e44e66ac8b762591aed6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174488636
+status: 3
+tags: []
+user_id: runner

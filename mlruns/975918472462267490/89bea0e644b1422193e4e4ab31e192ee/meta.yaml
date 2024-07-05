@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/89bea0e644b1422193e4e4ab31e192ee/artifacts
+end_time: 1720174509792
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 89bea0e644b1422193e4e4ab31e192ee
+run_name: colorful-bear-73
+run_uuid: 89bea0e644b1422193e4e4ab31e192ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174509021
+status: 3
+tags: []
+user_id: runner
