@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5a80dc689ab84ae89eec0347645a852c/artifacts
+end_time: 1720779300631
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5a80dc689ab84ae89eec0347645a852c
+run_name: kindly-snipe-639
+run_uuid: 5a80dc689ab84ae89eec0347645a852c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779299645
+status: 3
+tags: []
+user_id: runner

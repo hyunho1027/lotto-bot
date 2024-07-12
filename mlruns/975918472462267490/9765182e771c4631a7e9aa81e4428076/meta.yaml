@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9765182e771c4631a7e9aa81e4428076/artifacts
+end_time: 1720779279337
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9765182e771c4631a7e9aa81e4428076
+run_name: bedecked-lynx-892
+run_uuid: 9765182e771c4631a7e9aa81e4428076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779276337
+status: 3
+tags: []
+user_id: runner

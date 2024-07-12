@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d103f6abf5b048fab66dc6c99db25506/artifacts
+end_time: 1720779291435
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d103f6abf5b048fab66dc6c99db25506
+run_name: delightful-squid-17
+run_uuid: d103f6abf5b048fab66dc6c99db25506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779290128
+status: 3
+tags: []
+user_id: runner

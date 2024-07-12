@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7347cec602e2426480859c7dfcb04e48/artifacts
+end_time: 1720779273246
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7347cec602e2426480859c7dfcb04e48
+run_name: wistful-swan-312
+run_uuid: 7347cec602e2426480859c7dfcb04e48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779271433
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b3ba553b9c894d5a9956115f2fc0059f/artifacts
+end_time: 1720779288601
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b3ba553b9c894d5a9956115f2fc0059f
+run_name: delightful-yak-411
+run_uuid: b3ba553b9c894d5a9956115f2fc0059f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779286121
+status: 3
+tags: []
+user_id: runner

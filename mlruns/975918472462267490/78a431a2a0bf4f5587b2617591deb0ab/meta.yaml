@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/78a431a2a0bf4f5587b2617591deb0ab/artifacts
+end_time: 1720779301990
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 78a431a2a0bf4f5587b2617591deb0ab
+run_name: honorable-fish-983
+run_uuid: 78a431a2a0bf4f5587b2617591deb0ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779300647
+status: 3
+tags: []
+user_id: runner
