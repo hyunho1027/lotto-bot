@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c8d71f82541942bc868a1fcbc1419f1c/artifacts
+end_time: 1721384017427
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c8d71f82541942bc868a1fcbc1419f1c
+run_name: sedate-snake-388
+run_uuid: c8d71f82541942bc868a1fcbc1419f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721384016413
+status: 3
+tags: []
+user_id: runner

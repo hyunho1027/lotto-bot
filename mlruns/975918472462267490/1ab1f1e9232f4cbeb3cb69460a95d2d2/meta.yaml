@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1ab1f1e9232f4cbeb3cb69460a95d2d2/artifacts
+end_time: 1721384027028
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1ab1f1e9232f4cbeb3cb69460a95d2d2
+run_name: skillful-frog-174
+run_uuid: 1ab1f1e9232f4cbeb3cb69460a95d2d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721384026295
+status: 3
+tags: []
+user_id: runner

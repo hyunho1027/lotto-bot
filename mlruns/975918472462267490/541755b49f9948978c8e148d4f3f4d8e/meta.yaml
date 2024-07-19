@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/541755b49f9948978c8e148d4f3f4d8e/artifacts
+end_time: 1721384016399
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 541755b49f9948978c8e148d4f3f4d8e
+run_name: casual-mare-137
+run_uuid: 541755b49f9948978c8e148d4f3f4d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721384015420
+status: 3
+tags: []
+user_id: runner

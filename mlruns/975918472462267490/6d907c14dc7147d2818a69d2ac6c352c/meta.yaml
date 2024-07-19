@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6d907c14dc7147d2818a69d2ac6c352c/artifacts
+end_time: 1721384021808
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6d907c14dc7147d2818a69d2ac6c352c
+run_name: marvelous-colt-874
+run_uuid: 6d907c14dc7147d2818a69d2ac6c352c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721384020784
+status: 3
+tags: []
+user_id: runner

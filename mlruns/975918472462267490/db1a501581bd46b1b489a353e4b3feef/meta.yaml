@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/db1a501581bd46b1b489a353e4b3feef/artifacts
+end_time: 1721384022725
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: db1a501581bd46b1b489a353e4b3feef
+run_name: fearless-skink-890
+run_uuid: db1a501581bd46b1b489a353e4b3feef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721384021822
+status: 3
+tags: []
+user_id: runner

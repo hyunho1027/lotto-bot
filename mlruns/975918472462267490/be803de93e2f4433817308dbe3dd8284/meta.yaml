@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/be803de93e2f4433817308dbe3dd8284/artifacts
+end_time: 1721384031153
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: be803de93e2f4433817308dbe3dd8284
+run_name: rambunctious-eel-47
+run_uuid: be803de93e2f4433817308dbe3dd8284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721384028107
+status: 3
+tags: []
+user_id: runner

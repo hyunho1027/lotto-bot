@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4946a0a57cd74f22bf80d376c7527742/artifacts
+end_time: 1721384019049
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4946a0a57cd74f22bf80d376c7527742
+run_name: skillful-chimp-516
+run_uuid: 4946a0a57cd74f22bf80d376c7527742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721384018142
+status: 3
+tags: []
+user_id: runner

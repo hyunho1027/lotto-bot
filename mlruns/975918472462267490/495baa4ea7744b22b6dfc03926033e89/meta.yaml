@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/495baa4ea7744b22b6dfc03926033e89/artifacts
+end_time: 1721384026282
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 495baa4ea7744b22b6dfc03926033e89
+run_name: fortunate-mole-705
+run_uuid: 495baa4ea7744b22b6dfc03926033e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721384024886
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6614b86487ff43b7891b075187b73975/artifacts
+end_time: 1721384028101
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6614b86487ff43b7891b075187b73975
+run_name: rebellious-lamb-89
+run_uuid: 6614b86487ff43b7891b075187b73975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721384027041
+status: 3
+tags: []
+user_id: runner

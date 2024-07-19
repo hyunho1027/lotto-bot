@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d885ee7fd8624a688b67d5970026c839/artifacts
+end_time: 1721384020768
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d885ee7fd8624a688b67d5970026c839
+run_name: gregarious-ram-190
+run_uuid: d885ee7fd8624a688b67d5970026c839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721384019861
+status: 3
+tags: []
+user_id: runner
