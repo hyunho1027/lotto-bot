@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/aa7d0bb25d42463ea722bae225713b76/artifacts
+end_time: 1721988846040
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: aa7d0bb25d42463ea722bae225713b76
+run_name: awesome-swan-339
+run_uuid: aa7d0bb25d42463ea722bae225713b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988844189
+status: 3
+tags: []
+user_id: runner

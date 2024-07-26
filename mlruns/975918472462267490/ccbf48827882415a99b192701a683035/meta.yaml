@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ccbf48827882415a99b192701a683035/artifacts
+end_time: 1721988842420
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ccbf48827882415a99b192701a683035
+run_name: glamorous-calf-973
+run_uuid: ccbf48827882415a99b192701a683035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988840723
+status: 3
+tags: []
+user_id: runner

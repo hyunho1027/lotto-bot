@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2ab08787a40e44b68610db76e5fdbb71/artifacts
+end_time: 1721988851147
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2ab08787a40e44b68610db76e5fdbb71
+run_name: big-vole-499
+run_uuid: 2ab08787a40e44b68610db76e5fdbb71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988850449
+status: 3
+tags: []
+user_id: runner

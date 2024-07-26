@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ef3f876bec194ce1a3423a60f27abd16/artifacts
+end_time: 1721988854894
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ef3f876bec194ce1a3423a60f27abd16
+run_name: rogue-gnu-798
+run_uuid: ef3f876bec194ce1a3423a60f27abd16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988852238
+status: 3
+tags: []
+user_id: runner

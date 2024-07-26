@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/be2ebd56612a45cf994bff7cccaf5590/artifacts
+end_time: 1721988844170
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: be2ebd56612a45cf994bff7cccaf5590
+run_name: bouncy-foal-530
+run_uuid: be2ebd56612a45cf994bff7cccaf5590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988842436
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1a031010c0fa45a9b46b8deab887f62e/artifacts
+end_time: 1721988839004
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1a031010c0fa45a9b46b8deab887f62e
+run_name: mercurial-hog-600
+run_uuid: 1a031010c0fa45a9b46b8deab887f62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988837686
+status: 3
+tags: []
+user_id: runner

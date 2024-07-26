@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6dc39adff3154328971ec1b513ea79dd/artifacts
+end_time: 1721988850429
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6dc39adff3154328971ec1b513ea79dd
+run_name: grandiose-cat-980
+run_uuid: 6dc39adff3154328971ec1b513ea79dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988849602
+status: 3
+tags: []
+user_id: runner

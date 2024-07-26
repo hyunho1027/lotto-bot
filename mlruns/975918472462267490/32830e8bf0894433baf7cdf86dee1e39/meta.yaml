@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/32830e8bf0894433baf7cdf86dee1e39/artifacts
+end_time: 1721988855757
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 32830e8bf0894433baf7cdf86dee1e39
+run_name: delicate-fowl-455
+run_uuid: 32830e8bf0894433baf7cdf86dee1e39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988854909
+status: 3
+tags: []
+user_id: runner
