@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/63eb1ea175d04a8e85a06b31f4ef7d0f/artifacts
+end_time: 1722593673714
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 63eb1ea175d04a8e85a06b31f4ef7d0f
+run_name: popular-dove-264
+run_uuid: 63eb1ea175d04a8e85a06b31f4ef7d0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593670363
+status: 3
+tags: []
+user_id: runner

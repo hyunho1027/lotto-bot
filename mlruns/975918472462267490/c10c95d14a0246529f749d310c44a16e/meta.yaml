@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c10c95d14a0246529f749d310c44a16e/artifacts
+end_time: 1722593680803
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c10c95d14a0246529f749d310c44a16e
+run_name: bemused-smelt-981
+run_uuid: c10c95d14a0246529f749d310c44a16e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593674665
+status: 3
+tags: []
+user_id: runner

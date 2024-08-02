@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e557d4be521b4c9da1c67af061098a1c/artifacts
+end_time: 1722593710622
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e557d4be521b4c9da1c67af061098a1c
+run_name: wise-carp-207
+run_uuid: e557d4be521b4c9da1c67af061098a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593707761
+status: 3
+tags: []
+user_id: runner

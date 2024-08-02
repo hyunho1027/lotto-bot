@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d55497f12f2e465b923787fd888b38ba/artifacts
+end_time: 1722593690926
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d55497f12f2e465b923787fd888b38ba
+run_name: suave-shrimp-421
+run_uuid: d55497f12f2e465b923787fd888b38ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593686821
+status: 3
+tags: []
+user_id: runner

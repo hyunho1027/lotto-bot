@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7006f024636640098282c48401f559be/artifacts
+end_time: 1722593702657
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7006f024636640098282c48401f559be
+run_name: youthful-asp-60
+run_uuid: 7006f024636640098282c48401f559be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593696996
+status: 3
+tags: []
+user_id: runner

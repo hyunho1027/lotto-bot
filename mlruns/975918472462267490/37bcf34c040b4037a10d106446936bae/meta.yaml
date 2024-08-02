@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/37bcf34c040b4037a10d106446936bae/artifacts
+end_time: 1722593685053
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 37bcf34c040b4037a10d106446936bae
+run_name: sincere-shrimp-754
+run_uuid: 37bcf34c040b4037a10d106446936bae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593680824
+status: 3
+tags: []
+user_id: runner

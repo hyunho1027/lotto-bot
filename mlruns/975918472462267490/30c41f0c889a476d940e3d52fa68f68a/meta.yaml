@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/30c41f0c889a476d940e3d52fa68f68a/artifacts
+end_time: 1722593716611
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 30c41f0c889a476d940e3d52fa68f68a
+run_name: rogue-stag-73
+run_uuid: 30c41f0c889a476d940e3d52fa68f68a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593712524
+status: 3
+tags: []
+user_id: runner
