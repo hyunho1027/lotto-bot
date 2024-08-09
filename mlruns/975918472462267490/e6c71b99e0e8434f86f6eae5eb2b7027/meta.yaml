@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e6c71b99e0e8434f86f6eae5eb2b7027/artifacts
+end_time: 1723198535204
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e6c71b99e0e8434f86f6eae5eb2b7027
+run_name: unleashed-bass-659
+run_uuid: e6c71b99e0e8434f86f6eae5eb2b7027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723198532073
+status: 3
+tags: []
+user_id: runner

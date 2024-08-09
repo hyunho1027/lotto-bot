@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6f2fb284fcbc42a6a54e127d2d39c865/artifacts
+end_time: 1723198563975
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6f2fb284fcbc42a6a54e127d2d39c865
+run_name: lyrical-moose-857
+run_uuid: 6f2fb284fcbc42a6a54e127d2d39c865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723198562741
+status: 3
+tags: []
+user_id: runner
