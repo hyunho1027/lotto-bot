@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0f2cc7b1e6ff46409a489be4efd6157f/artifacts
+end_time: 1723803240498
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0f2cc7b1e6ff46409a489be4efd6157f
+run_name: nebulous-lamb-497
+run_uuid: 0f2cc7b1e6ff46409a489be4efd6157f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723803237744
+status: 3
+tags: []
+user_id: runner

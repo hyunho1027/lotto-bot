@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/86956db4b01240669ad325565e65cb1c/artifacts
+end_time: 1723803255979
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 86956db4b01240669ad325565e65cb1c
+run_name: merciful-moth-115
+run_uuid: 86956db4b01240669ad325565e65cb1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723803254717
+status: 3
+tags: []
+user_id: runner

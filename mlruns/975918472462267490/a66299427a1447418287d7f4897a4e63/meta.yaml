@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a66299427a1447418287d7f4897a4e63/artifacts
+end_time: 1723803259900
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a66299427a1447418287d7f4897a4e63
+run_name: luminous-fish-681
+run_uuid: a66299427a1447418287d7f4897a4e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723803257526
+status: 3
+tags: []
+user_id: runner

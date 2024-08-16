@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/65c53a6d3c454a1ca6f3a341b943263b/artifacts
+end_time: 1723803246868
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 65c53a6d3c454a1ca6f3a341b943263b
+run_name: clumsy-snail-434
+run_uuid: 65c53a6d3c454a1ca6f3a341b943263b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723803243417
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6bc927c5559c4d96a57cf3b91464ab6d/artifacts
+end_time: 1723803237727
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6bc927c5559c4d96a57cf3b91464ab6d
+run_name: wistful-seal-325
+run_uuid: 6bc927c5559c4d96a57cf3b91464ab6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723803236096
+status: 3
+tags: []
+user_id: runner

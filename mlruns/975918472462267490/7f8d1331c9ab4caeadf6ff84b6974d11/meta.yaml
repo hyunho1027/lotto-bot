@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7f8d1331c9ab4caeadf6ff84b6974d11/artifacts
+end_time: 1723803243399
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7f8d1331c9ab4caeadf6ff84b6974d11
+run_name: capricious-quail-386
+run_uuid: 7f8d1331c9ab4caeadf6ff84b6974d11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723803242139
+status: 3
+tags: []
+user_id: runner
