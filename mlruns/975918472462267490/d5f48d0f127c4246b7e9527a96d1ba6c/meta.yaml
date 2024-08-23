@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d5f48d0f127c4246b7e9527a96d1ba6c/artifacts
+end_time: 1724408109855
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d5f48d0f127c4246b7e9527a96d1ba6c
+run_name: merciful-slug-27
+run_uuid: d5f48d0f127c4246b7e9527a96d1ba6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724408107966
+status: 3
+tags: []
+user_id: runner

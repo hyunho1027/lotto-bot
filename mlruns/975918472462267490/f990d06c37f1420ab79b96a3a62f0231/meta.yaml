@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f990d06c37f1420ab79b96a3a62f0231/artifacts
+end_time: 1724408113225
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f990d06c37f1420ab79b96a3a62f0231
+run_name: valuable-snipe-714
+run_uuid: f990d06c37f1420ab79b96a3a62f0231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724408112310
+status: 3
+tags: []
+user_id: runner

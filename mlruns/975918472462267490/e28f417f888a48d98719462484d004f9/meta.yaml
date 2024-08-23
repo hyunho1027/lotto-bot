@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e28f417f888a48d98719462484d004f9/artifacts
+end_time: 1724408127999
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e28f417f888a48d98719462484d004f9
+run_name: vaunted-duck-481
+run_uuid: e28f417f888a48d98719462484d004f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724408122354
+status: 3
+tags: []
+user_id: runner

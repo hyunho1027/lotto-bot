@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9c1fd24fc3304e519c809ea80066cf93/artifacts
+end_time: 1724408141524
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9c1fd24fc3304e519c809ea80066cf93
+run_name: valuable-turtle-891
+run_uuid: 9c1fd24fc3304e519c809ea80066cf93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724408135533
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/45b69a17976b4ea4a5e81463e2804bf9/artifacts
+end_time: 1724408114389
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 45b69a17976b4ea4a5e81463e2804bf9
+run_name: indecisive-hound-799
+run_uuid: 45b69a17976b4ea4a5e81463e2804bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724408113243
+status: 3
+tags: []
+user_id: runner

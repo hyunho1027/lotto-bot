@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dfc2b3c434504019960f242a1ef7d7bc/artifacts
+end_time: 1724408131085
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dfc2b3c434504019960f242a1ef7d7bc
+run_name: whimsical-whale-341
+run_uuid: dfc2b3c434504019960f242a1ef7d7bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724408128025
+status: 3
+tags: []
+user_id: runner

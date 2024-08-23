@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ddd8677e065f496c8dec0a548d0215a1/artifacts
+end_time: 1724408118084
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ddd8677e065f496c8dec0a548d0215a1
+run_name: zealous-snail-648
+run_uuid: ddd8677e065f496c8dec0a548d0215a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724408115896
+status: 3
+tags: []
+user_id: runner

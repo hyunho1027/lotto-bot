@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a10bbc0955a043129f77830b1f9d90f8/artifacts
+end_time: 1724408107948
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a10bbc0955a043129f77830b1f9d90f8
+run_name: sincere-pug-141
+run_uuid: a10bbc0955a043129f77830b1f9d90f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724408106868
+status: 3
+tags: []
+user_id: runner
