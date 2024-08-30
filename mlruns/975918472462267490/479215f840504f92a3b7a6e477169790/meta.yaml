@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/479215f840504f92a3b7a6e477169790/artifacts
+end_time: 1725012919716
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 479215f840504f92a3b7a6e477169790
+run_name: resilient-bass-896
+run_uuid: 479215f840504f92a3b7a6e477169790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012918768
+status: 3
+tags: []
+user_id: runner

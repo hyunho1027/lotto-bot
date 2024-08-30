@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eb492aa1b7c6478d9a8938c7b88e95f8/artifacts
+end_time: 1725012929927
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eb492aa1b7c6478d9a8938c7b88e95f8
+run_name: defiant-stork-5
+run_uuid: eb492aa1b7c6478d9a8938c7b88e95f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012928303
+status: 3
+tags: []
+user_id: runner

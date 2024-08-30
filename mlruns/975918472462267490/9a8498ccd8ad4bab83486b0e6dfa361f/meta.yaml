@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9a8498ccd8ad4bab83486b0e6dfa361f/artifacts
+end_time: 1725012934619
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9a8498ccd8ad4bab83486b0e6dfa361f
+run_name: zealous-gull-838
+run_uuid: 9a8498ccd8ad4bab83486b0e6dfa361f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012933618
+status: 3
+tags: []
+user_id: runner

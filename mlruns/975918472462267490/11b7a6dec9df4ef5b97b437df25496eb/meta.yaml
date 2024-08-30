@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/11b7a6dec9df4ef5b97b437df25496eb/artifacts
+end_time: 1725012914471
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 11b7a6dec9df4ef5b97b437df25496eb
+run_name: sassy-jay-882
+run_uuid: 11b7a6dec9df4ef5b97b437df25496eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012912968
+status: 3
+tags: []
+user_id: runner

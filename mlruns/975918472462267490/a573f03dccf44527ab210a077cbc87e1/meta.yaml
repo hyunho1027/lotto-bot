@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a573f03dccf44527ab210a077cbc87e1/artifacts
+end_time: 1725012943320
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a573f03dccf44527ab210a077cbc87e1
+run_name: agreeable-shark-699
+run_uuid: a573f03dccf44527ab210a077cbc87e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012940597
+status: 3
+tags: []
+user_id: runner

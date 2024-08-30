@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/83e1e7dd376d4235b4fbaf0ecd11ce01/artifacts
+end_time: 1725012925061
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 83e1e7dd376d4235b4fbaf0ecd11ce01
+run_name: bold-pug-35
+run_uuid: 83e1e7dd376d4235b4fbaf0ecd11ce01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012922849
+status: 3
+tags: []
+user_id: runner
