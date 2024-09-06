@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6dccee555c6e4c91be1557b44394c1e4/artifacts
+end_time: 1725617695909
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6dccee555c6e4c91be1557b44394c1e4
+run_name: masked-squirrel-130
+run_uuid: 6dccee555c6e4c91be1557b44394c1e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617694081
+status: 3
+tags: []
+user_id: runner

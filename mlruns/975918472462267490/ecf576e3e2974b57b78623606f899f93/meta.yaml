@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ecf576e3e2974b57b78623606f899f93/artifacts
+end_time: 1725617683851
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ecf576e3e2974b57b78623606f899f93
+run_name: marvelous-shad-676
+run_uuid: ecf576e3e2974b57b78623606f899f93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617682985
+status: 3
+tags: []
+user_id: runner

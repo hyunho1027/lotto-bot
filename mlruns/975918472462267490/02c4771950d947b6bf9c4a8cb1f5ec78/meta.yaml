@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/02c4771950d947b6bf9c4a8cb1f5ec78/artifacts
+end_time: 1725617704921
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 02c4771950d947b6bf9c4a8cb1f5ec78
+run_name: peaceful-fawn-843
+run_uuid: 02c4771950d947b6bf9c4a8cb1f5ec78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617704160
+status: 3
+tags: []
+user_id: runner

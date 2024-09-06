@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/822774eb1f514649863614d2eddd7e75/artifacts
+end_time: 1725617704146
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 822774eb1f514649863614d2eddd7e75
+run_name: abundant-pig-432
+run_uuid: 822774eb1f514649863614d2eddd7e75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617701146
+status: 3
+tags: []
+user_id: runner

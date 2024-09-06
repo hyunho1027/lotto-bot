@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8e8fd9ca6af34bb4b099aec8a02097ad/artifacts
+end_time: 1725617692900
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8e8fd9ca6af34bb4b099aec8a02097ad
+run_name: able-rat-509
+run_uuid: 8e8fd9ca6af34bb4b099aec8a02097ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617690292
+status: 3
+tags: []
+user_id: runner

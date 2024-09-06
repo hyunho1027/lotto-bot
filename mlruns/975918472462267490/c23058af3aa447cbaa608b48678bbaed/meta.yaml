@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c23058af3aa447cbaa608b48678bbaed/artifacts
+end_time: 1725617707506
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c23058af3aa447cbaa608b48678bbaed
+run_name: ambitious-perch-861
+run_uuid: c23058af3aa447cbaa608b48678bbaed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617706666
+status: 3
+tags: []
+user_id: runner

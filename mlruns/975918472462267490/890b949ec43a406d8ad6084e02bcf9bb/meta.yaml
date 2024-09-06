@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/890b949ec43a406d8ad6084e02bcf9bb/artifacts
+end_time: 1725617686924
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 890b949ec43a406d8ad6084e02bcf9bb
+run_name: capricious-hog-927
+run_uuid: 890b949ec43a406d8ad6084e02bcf9bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617685329
+status: 3
+tags: []
+user_id: runner
