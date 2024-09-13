@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3e6f090cadd542519c393efd0176f016/artifacts
+end_time: 1726222532185
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3e6f090cadd542519c393efd0176f016
+run_name: luxuriant-perch-975
+run_uuid: 3e6f090cadd542519c393efd0176f016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222528767
+status: 3
+tags: []
+user_id: runner

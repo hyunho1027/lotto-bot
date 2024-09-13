@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/08b26c6a540d446e891ea5f4ae338157/artifacts
+end_time: 1726222538400
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 08b26c6a540d446e891ea5f4ae338157
+run_name: defiant-colt-290
+run_uuid: 08b26c6a540d446e891ea5f4ae338157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222536561
+status: 3
+tags: []
+user_id: runner

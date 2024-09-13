@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/784f52f525a24f8c85c3f673c3ae8336/artifacts
+end_time: 1726222533002
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 784f52f525a24f8c85c3f673c3ae8336
+run_name: popular-sloth-201
+run_uuid: 784f52f525a24f8c85c3f673c3ae8336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222532203
+status: 3
+tags: []
+user_id: runner

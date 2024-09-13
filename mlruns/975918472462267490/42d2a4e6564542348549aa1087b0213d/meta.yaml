@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/42d2a4e6564542348549aa1087b0213d/artifacts
+end_time: 1726222553296
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 42d2a4e6564542348549aa1087b0213d
+run_name: silent-midge-581
+run_uuid: 42d2a4e6564542348549aa1087b0213d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222552419
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/73f15c27006041f6a1950dd789781953/artifacts
+end_time: 1726222542504
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 73f15c27006041f6a1950dd789781953
+run_name: stylish-ape-717
+run_uuid: 73f15c27006041f6a1950dd789781953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222540765
+status: 3
+tags: []
+user_id: runner

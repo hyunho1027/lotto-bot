@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7a17b8e1f5514c4e8f3b6fa51ae456fd/artifacts
+end_time: 1726222536543
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7a17b8e1f5514c4e8f3b6fa51ae456fd
+run_name: suave-flea-840
+run_uuid: 7a17b8e1f5514c4e8f3b6fa51ae456fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222534683
+status: 3
+tags: []
+user_id: runner

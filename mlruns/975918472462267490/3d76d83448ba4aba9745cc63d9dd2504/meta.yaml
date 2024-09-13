@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3d76d83448ba4aba9745cc63d9dd2504/artifacts
+end_time: 1726222559008
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3d76d83448ba4aba9745cc63d9dd2504
+run_name: painted-flea-748
+run_uuid: 3d76d83448ba4aba9745cc63d9dd2504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222555875
+status: 3
+tags: []
+user_id: runner

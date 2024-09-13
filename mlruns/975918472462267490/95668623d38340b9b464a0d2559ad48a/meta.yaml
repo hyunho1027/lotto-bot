@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/95668623d38340b9b464a0d2559ad48a/artifacts
+end_time: 1726222554257
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 95668623d38340b9b464a0d2559ad48a
+run_name: capricious-hen-27
+run_uuid: 95668623d38340b9b464a0d2559ad48a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222553313
+status: 3
+tags: []
+user_id: runner

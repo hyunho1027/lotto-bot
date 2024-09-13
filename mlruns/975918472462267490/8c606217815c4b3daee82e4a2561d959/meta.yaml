@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8c606217815c4b3daee82e4a2561d959/artifacts
+end_time: 1726222534658
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8c606217815c4b3daee82e4a2561d959
+run_name: puzzled-dog-261
+run_uuid: 8c606217815c4b3daee82e4a2561d959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222533019
+status: 3
+tags: []
+user_id: runner
