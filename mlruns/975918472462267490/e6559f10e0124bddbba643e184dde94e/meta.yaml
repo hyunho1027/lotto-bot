@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e6559f10e0124bddbba643e184dde94e/artifacts
+end_time: 1726827306077
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e6559f10e0124bddbba643e184dde94e
+run_name: intelligent-elk-62
+run_uuid: e6559f10e0124bddbba643e184dde94e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726827302491
+status: 3
+tags: []
+user_id: runner

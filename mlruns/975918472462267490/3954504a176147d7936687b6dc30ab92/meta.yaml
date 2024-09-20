@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3954504a176147d7936687b6dc30ab92/artifacts
+end_time: 1726827296478
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3954504a176147d7936687b6dc30ab92
+run_name: serious-jay-928
+run_uuid: 3954504a176147d7936687b6dc30ab92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726827294922
+status: 3
+tags: []
+user_id: runner

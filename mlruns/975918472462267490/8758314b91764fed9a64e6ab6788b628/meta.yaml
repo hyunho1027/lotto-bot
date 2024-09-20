@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8758314b91764fed9a64e6ab6788b628/artifacts
+end_time: 1726827307730
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8758314b91764fed9a64e6ab6788b628
+run_name: enchanting-midge-893
+run_uuid: 8758314b91764fed9a64e6ab6788b628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726827306091
+status: 3
+tags: []
+user_id: runner

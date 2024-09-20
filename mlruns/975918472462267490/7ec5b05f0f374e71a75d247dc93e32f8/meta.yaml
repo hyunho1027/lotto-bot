@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7ec5b05f0f374e71a75d247dc93e32f8/artifacts
+end_time: 1726827299642
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7ec5b05f0f374e71a75d247dc93e32f8
+run_name: merciful-pug-327
+run_uuid: 7ec5b05f0f374e71a75d247dc93e32f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726827296493
+status: 3
+tags: []
+user_id: runner
