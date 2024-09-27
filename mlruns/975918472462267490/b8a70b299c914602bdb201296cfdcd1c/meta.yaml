@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b8a70b299c914602bdb201296cfdcd1c/artifacts
+end_time: 1727432151507
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b8a70b299c914602bdb201296cfdcd1c
+run_name: bemused-quail-946
+run_uuid: b8a70b299c914602bdb201296cfdcd1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727432150016
+status: 3
+tags: []
+user_id: runner

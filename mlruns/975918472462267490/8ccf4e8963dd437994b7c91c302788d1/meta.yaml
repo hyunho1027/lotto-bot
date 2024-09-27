@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8ccf4e8963dd437994b7c91c302788d1/artifacts
+end_time: 1727432157836
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8ccf4e8963dd437994b7c91c302788d1
+run_name: zealous-quail-361
+run_uuid: 8ccf4e8963dd437994b7c91c302788d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727432155077
+status: 3
+tags: []
+user_id: runner

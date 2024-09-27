@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1ecd721ff23f4f3488e27f2b669cab5d/artifacts
+end_time: 1727432164708
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1ecd721ff23f4f3488e27f2b669cab5d
+run_name: lyrical-fawn-842
+run_uuid: 1ecd721ff23f4f3488e27f2b669cab5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727432163114
+status: 3
+tags: []
+user_id: runner

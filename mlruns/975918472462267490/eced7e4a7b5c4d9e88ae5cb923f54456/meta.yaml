@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eced7e4a7b5c4d9e88ae5cb923f54456/artifacts
+end_time: 1727432149997
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eced7e4a7b5c4d9e88ae5cb923f54456
+run_name: vaunted-turtle-867
+run_uuid: eced7e4a7b5c4d9e88ae5cb923f54456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727432149176
+status: 3
+tags: []
+user_id: runner

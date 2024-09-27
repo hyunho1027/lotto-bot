@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bc108c6bea9244809492e35053197aa3/artifacts
+end_time: 1727432155059
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bc108c6bea9244809492e35053197aa3
+run_name: brawny-fowl-234
+run_uuid: bc108c6bea9244809492e35053197aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727432152552
+status: 3
+tags: []
+user_id: runner
