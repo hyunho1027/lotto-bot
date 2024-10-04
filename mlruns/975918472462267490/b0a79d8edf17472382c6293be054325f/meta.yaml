@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b0a79d8edf17472382c6293be054325f/artifacts
+end_time: 1728037021081
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b0a79d8edf17472382c6293be054325f
+run_name: omniscient-bug-762
+run_uuid: b0a79d8edf17472382c6293be054325f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728037019700
+status: 3
+tags: []
+user_id: runner

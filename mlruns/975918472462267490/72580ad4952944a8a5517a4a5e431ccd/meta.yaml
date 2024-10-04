@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/72580ad4952944a8a5517a4a5e431ccd/artifacts
+end_time: 1728037024410
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 72580ad4952944a8a5517a4a5e431ccd
+run_name: nosy-bat-58
+run_uuid: 72580ad4952944a8a5517a4a5e431ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728037021100
+status: 3
+tags: []
+user_id: runner

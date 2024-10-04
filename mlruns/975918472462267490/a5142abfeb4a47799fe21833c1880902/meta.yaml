@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a5142abfeb4a47799fe21833c1880902/artifacts
+end_time: 1728037010564
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a5142abfeb4a47799fe21833c1880902
+run_name: sedate-shrimp-717
+run_uuid: a5142abfeb4a47799fe21833c1880902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728037008455
+status: 3
+tags: []
+user_id: runner

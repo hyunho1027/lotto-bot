@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d9d50111f4d347809783f4607f242fa4/artifacts
+end_time: 1728037006944
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d9d50111f4d347809783f4607f242fa4
+run_name: receptive-bear-95
+run_uuid: d9d50111f4d347809783f4607f242fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728037005082
+status: 3
+tags: []
+user_id: runner

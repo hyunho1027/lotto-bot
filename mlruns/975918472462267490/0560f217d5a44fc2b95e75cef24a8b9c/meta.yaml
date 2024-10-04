@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0560f217d5a44fc2b95e75cef24a8b9c/artifacts
+end_time: 1728037015611
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0560f217d5a44fc2b95e75cef24a8b9c
+run_name: hilarious-ox-902
+run_uuid: 0560f217d5a44fc2b95e75cef24a8b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728037015089
+status: 3
+tags: []
+user_id: runner

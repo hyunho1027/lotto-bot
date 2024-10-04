@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/82f6586aec7d4fb6ba01ba3ee845d89c/artifacts
+end_time: 1728037018956
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 82f6586aec7d4fb6ba01ba3ee845d89c
+run_name: resilient-gull-577
+run_uuid: 82f6586aec7d4fb6ba01ba3ee845d89c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728037017129
+status: 3
+tags: []
+user_id: runner

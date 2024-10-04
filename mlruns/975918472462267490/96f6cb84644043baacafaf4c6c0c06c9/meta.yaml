@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/96f6cb84644043baacafaf4c6c0c06c9/artifacts
+end_time: 1728037015071
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 96f6cb84644043baacafaf4c6c0c06c9
+run_name: learned-smelt-244
+run_uuid: 96f6cb84644043baacafaf4c6c0c06c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728037013642
+status: 3
+tags: []
+user_id: runner
