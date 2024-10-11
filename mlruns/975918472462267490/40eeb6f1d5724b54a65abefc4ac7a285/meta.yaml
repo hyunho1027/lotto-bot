@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/40eeb6f1d5724b54a65abefc4ac7a285/artifacts
+end_time: 1728641711667
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 40eeb6f1d5724b54a65abefc4ac7a285
+run_name: rumbling-boar-12
+run_uuid: 40eeb6f1d5724b54a65abefc4ac7a285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641708052
+status: 3
+tags: []
+user_id: runner

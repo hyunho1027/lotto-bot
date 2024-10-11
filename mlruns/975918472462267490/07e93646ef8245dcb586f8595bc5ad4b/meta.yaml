@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/07e93646ef8245dcb586f8595bc5ad4b/artifacts
+end_time: 1728641696450
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 07e93646ef8245dcb586f8595bc5ad4b
+run_name: puzzled-ox-683
+run_uuid: 07e93646ef8245dcb586f8595bc5ad4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641693867
+status: 3
+tags: []
+user_id: runner

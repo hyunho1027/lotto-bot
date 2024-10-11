@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ff0ab5ffe0fb42b7a77c7fc93255b8bd/artifacts
+end_time: 1728641715858
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ff0ab5ffe0fb42b7a77c7fc93255b8bd
+run_name: rare-mule-676
+run_uuid: ff0ab5ffe0fb42b7a77c7fc93255b8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641713978
+status: 3
+tags: []
+user_id: runner

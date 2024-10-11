@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d34808eb13314e8ca4329f5fcafda3bb/artifacts
+end_time: 1728641693840
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d34808eb13314e8ca4329f5fcafda3bb
+run_name: angry-sheep-832
+run_uuid: d34808eb13314e8ca4329f5fcafda3bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641690953
+status: 3
+tags: []
+user_id: runner

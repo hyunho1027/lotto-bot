@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/56cf3e01215c4e7cb903d58b6d777e2d/artifacts
+end_time: 1728641704808
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 56cf3e01215c4e7cb903d58b6d777e2d
+run_name: calm-boar-450
+run_uuid: 56cf3e01215c4e7cb903d58b6d777e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641703221
+status: 3
+tags: []
+user_id: runner

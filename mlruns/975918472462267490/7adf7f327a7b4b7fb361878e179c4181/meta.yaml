@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7adf7f327a7b4b7fb361878e179c4181/artifacts
+end_time: 1728641712764
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7adf7f327a7b4b7fb361878e179c4181
+run_name: chill-bear-629
+run_uuid: 7adf7f327a7b4b7fb361878e179c4181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641711687
+status: 3
+tags: []
+user_id: runner

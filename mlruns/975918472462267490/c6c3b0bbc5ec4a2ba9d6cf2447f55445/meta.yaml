@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c6c3b0bbc5ec4a2ba9d6cf2447f55445/artifacts
+end_time: 1728641698616
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c6c3b0bbc5ec4a2ba9d6cf2447f55445
+run_name: overjoyed-duck-223
+run_uuid: c6c3b0bbc5ec4a2ba9d6cf2447f55445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641696472
+status: 3
+tags: []
+user_id: runner
