@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3b9ab59e8c95401e850269f14629af6a/artifacts
+end_time: 1729246580549
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3b9ab59e8c95401e850269f14629af6a
+run_name: calm-robin-740
+run_uuid: 3b9ab59e8c95401e850269f14629af6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246578955
+status: 3
+tags: []
+user_id: runner

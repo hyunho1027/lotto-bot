@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f92b7c2326ae443b9c34b6ddbd854411/artifacts
+end_time: 1729246596150
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f92b7c2326ae443b9c34b6ddbd854411
+run_name: silent-croc-937
+run_uuid: f92b7c2326ae443b9c34b6ddbd854411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246595059
+status: 3
+tags: []
+user_id: runner

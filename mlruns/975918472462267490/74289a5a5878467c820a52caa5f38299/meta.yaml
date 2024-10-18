@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/74289a5a5878467c820a52caa5f38299/artifacts
+end_time: 1729246582906
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 74289a5a5878467c820a52caa5f38299
+run_name: abrasive-snake-118
+run_uuid: 74289a5a5878467c820a52caa5f38299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246580565
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3c76bd7609824cde8afb084291361118/artifacts
+end_time: 1729246584597
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3c76bd7609824cde8afb084291361118
+run_name: exultant-shrimp-345
+run_uuid: 3c76bd7609824cde8afb084291361118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246582921
+status: 3
+tags: []
+user_id: runner

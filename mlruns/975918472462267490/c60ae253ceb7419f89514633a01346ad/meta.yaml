@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c60ae253ceb7419f89514633a01346ad/artifacts
+end_time: 1729246588251
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c60ae253ceb7419f89514633a01346ad
+run_name: enchanting-gull-130
+run_uuid: c60ae253ceb7419f89514633a01346ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246587064
+status: 3
+tags: []
+user_id: runner

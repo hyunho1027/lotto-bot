@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cbef888a834843c999e230d9ed20df52/artifacts
+end_time: 1729246595044
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cbef888a834843c999e230d9ed20df52
+run_name: upset-yak-983
+run_uuid: cbef888a834843c999e230d9ed20df52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246594035
+status: 3
+tags: []
+user_id: runner

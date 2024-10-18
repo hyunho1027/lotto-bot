@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d64f395e3851406bab96dc7a435cc23d/artifacts
+end_time: 1729246600794
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d64f395e3851406bab96dc7a435cc23d
+run_name: unique-skink-656
+run_uuid: d64f395e3851406bab96dc7a435cc23d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246597073
+status: 3
+tags: []
+user_id: runner

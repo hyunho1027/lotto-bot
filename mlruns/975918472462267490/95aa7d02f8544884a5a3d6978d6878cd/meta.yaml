@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/95aa7d02f8544884a5a3d6978d6878cd/artifacts
+end_time: 1729246589116
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 95aa7d02f8544884a5a3d6978d6878cd
+run_name: honorable-snail-415
+run_uuid: 95aa7d02f8544884a5a3d6978d6878cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246588268
+status: 3
+tags: []
+user_id: runner
