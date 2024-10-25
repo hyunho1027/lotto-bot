@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/51b6ca3b5fb74a19ba8bf12d8c08bf4c/artifacts
+end_time: 1729851341391
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 51b6ca3b5fb74a19ba8bf12d8c08bf4c
+run_name: resilient-snipe-17
+run_uuid: 51b6ca3b5fb74a19ba8bf12d8c08bf4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851339950
+status: 3
+tags: []
+user_id: runner

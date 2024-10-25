@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dd89093a752348a6a23490331c292643/artifacts
+end_time: 1729851323151
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dd89093a752348a6a23490331c292643
+run_name: valuable-flea-761
+run_uuid: dd89093a752348a6a23490331c292643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851320581
+status: 3
+tags: []
+user_id: runner

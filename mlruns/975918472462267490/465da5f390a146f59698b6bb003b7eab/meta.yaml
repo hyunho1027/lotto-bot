@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/465da5f390a146f59698b6bb003b7eab/artifacts
+end_time: 1729851336228
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 465da5f390a146f59698b6bb003b7eab
+run_name: capricious-elk-989
+run_uuid: 465da5f390a146f59698b6bb003b7eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851334557
+status: 3
+tags: []
+user_id: runner

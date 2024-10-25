@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/87848ae8180a45819e8a8cfebcf74e49/artifacts
+end_time: 1729851339935
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 87848ae8180a45819e8a8cfebcf74e49
+run_name: zealous-hen-568
+run_uuid: 87848ae8180a45819e8a8cfebcf74e49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851338536
+status: 3
+tags: []
+user_id: runner

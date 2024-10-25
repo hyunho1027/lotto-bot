@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/46c819c8bd3c44b6bdb9b77c7ee86262/artifacts
+end_time: 1729851326921
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 46c819c8bd3c44b6bdb9b77c7ee86262
+run_name: valuable-dolphin-707
+run_uuid: 46c819c8bd3c44b6bdb9b77c7ee86262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851325884
+status: 3
+tags: []
+user_id: runner

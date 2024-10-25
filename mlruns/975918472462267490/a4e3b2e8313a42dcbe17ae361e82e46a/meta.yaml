@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a4e3b2e8313a42dcbe17ae361e82e46a/artifacts
+end_time: 1729851344527
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a4e3b2e8313a42dcbe17ae361e82e46a
+run_name: resilient-zebra-514
+run_uuid: a4e3b2e8313a42dcbe17ae361e82e46a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851341399
+status: 3
+tags: []
+user_id: runner

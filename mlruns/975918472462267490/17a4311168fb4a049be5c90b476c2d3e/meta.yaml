@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/17a4311168fb4a049be5c90b476c2d3e/artifacts
+end_time: 1729851333360
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 17a4311168fb4a049be5c90b476c2d3e
+run_name: youthful-perch-111
+run_uuid: 17a4311168fb4a049be5c90b476c2d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851331035
+status: 3
+tags: []
+user_id: runner

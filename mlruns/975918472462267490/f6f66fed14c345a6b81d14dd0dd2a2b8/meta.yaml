@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f6f66fed14c345a6b81d14dd0dd2a2b8/artifacts
+end_time: 1729851323654
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f6f66fed14c345a6b81d14dd0dd2a2b8
+run_name: defiant-lynx-876
+run_uuid: f6f66fed14c345a6b81d14dd0dd2a2b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851323167
+status: 3
+tags: []
+user_id: runner
