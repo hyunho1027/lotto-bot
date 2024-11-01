@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/91b8d54d223b4aaca6469f9b530df24c/artifacts
+end_time: 1730456149530
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 91b8d54d223b4aaca6469f9b530df24c
+run_name: sedate-fox-818
+run_uuid: 91b8d54d223b4aaca6469f9b530df24c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456148242
+status: 3
+tags: []
+user_id: runner

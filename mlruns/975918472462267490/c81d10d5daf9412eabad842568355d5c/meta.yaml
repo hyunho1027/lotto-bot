@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c81d10d5daf9412eabad842568355d5c/artifacts
+end_time: 1730456144869
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c81d10d5daf9412eabad842568355d5c
+run_name: classy-snake-234
+run_uuid: c81d10d5daf9412eabad842568355d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456144022
+status: 3
+tags: []
+user_id: runner

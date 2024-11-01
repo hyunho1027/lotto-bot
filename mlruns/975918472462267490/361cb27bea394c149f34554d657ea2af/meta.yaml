@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/361cb27bea394c149f34554d657ea2af/artifacts
+end_time: 1730456162726
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 361cb27bea394c149f34554d657ea2af
+run_name: capable-elk-130
+run_uuid: 361cb27bea394c149f34554d657ea2af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456161906
+status: 3
+tags: []
+user_id: runner

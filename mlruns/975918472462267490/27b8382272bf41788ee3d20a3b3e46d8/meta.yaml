@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/27b8382272bf41788ee3d20a3b3e46d8/artifacts
+end_time: 1730456161144
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 27b8382272bf41788ee3d20a3b3e46d8
+run_name: efficient-mule-18
+run_uuid: 27b8382272bf41788ee3d20a3b3e46d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456160286
+status: 3
+tags: []
+user_id: runner

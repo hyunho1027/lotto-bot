@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ba605994a5d74b81a7cb8134c8259d03/artifacts
+end_time: 1730456144006
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ba605994a5d74b81a7cb8134c8259d03
+run_name: bald-cub-555
+run_uuid: ba605994a5d74b81a7cb8134c8259d03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456143396
+status: 3
+tags: []
+user_id: runner

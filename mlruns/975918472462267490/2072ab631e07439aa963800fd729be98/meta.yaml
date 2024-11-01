@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2072ab631e07439aa963800fd729be98/artifacts
+end_time: 1730456159326
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2072ab631e07439aa963800fd729be98
+run_name: invincible-colt-36
+run_uuid: 2072ab631e07439aa963800fd729be98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456157439
+status: 3
+tags: []
+user_id: runner

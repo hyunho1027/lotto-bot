@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/56158d775b984ba9bf1baf46f25bb7fe/artifacts
+end_time: 1730456143379
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 56158d775b984ba9bf1baf46f25bb7fe
+run_name: crawling-bear-148
+run_uuid: 56158d775b984ba9bf1baf46f25bb7fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456142480
+status: 3
+tags: []
+user_id: runner

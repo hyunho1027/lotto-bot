@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/149a678f753d47e98608346a626a6225/artifacts
+end_time: 1730456153035
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 149a678f753d47e98608346a626a6225
+run_name: secretive-mule-908
+run_uuid: 149a678f753d47e98608346a626a6225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456152067
+status: 3
+tags: []
+user_id: runner
