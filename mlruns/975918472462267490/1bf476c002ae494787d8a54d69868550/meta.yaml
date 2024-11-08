@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1bf476c002ae494787d8a54d69868550/artifacts
+end_time: 1731060881713
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1bf476c002ae494787d8a54d69868550
+run_name: amazing-fox-694
+run_uuid: 1bf476c002ae494787d8a54d69868550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060880273
+status: 3
+tags: []
+user_id: runner

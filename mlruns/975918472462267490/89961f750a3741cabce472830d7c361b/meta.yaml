@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/89961f750a3741cabce472830d7c361b/artifacts
+end_time: 1731060885180
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 89961f750a3741cabce472830d7c361b
+run_name: shivering-bug-811
+run_uuid: 89961f750a3741cabce472830d7c361b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060883210
+status: 3
+tags: []
+user_id: runner

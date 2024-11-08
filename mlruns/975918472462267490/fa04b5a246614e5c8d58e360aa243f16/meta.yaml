@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fa04b5a246614e5c8d58e360aa243f16/artifacts
+end_time: 1731060875477
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fa04b5a246614e5c8d58e360aa243f16
+run_name: dashing-bird-86
+run_uuid: fa04b5a246614e5c8d58e360aa243f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060872723
+status: 3
+tags: []
+user_id: runner

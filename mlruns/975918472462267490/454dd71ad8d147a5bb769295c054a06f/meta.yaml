@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/454dd71ad8d147a5bb769295c054a06f/artifacts
+end_time: 1731060872708
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 454dd71ad8d147a5bb769295c054a06f
+run_name: dashing-bat-158
+run_uuid: 454dd71ad8d147a5bb769295c054a06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060871453
+status: 3
+tags: []
+user_id: runner

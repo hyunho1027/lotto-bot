@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9c1c3ee789794916985149d249a56c9c/artifacts
+end_time: 1731060893272
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9c1c3ee789794916985149d249a56c9c
+run_name: smiling-duck-269
+run_uuid: 9c1c3ee789794916985149d249a56c9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060889657
+status: 3
+tags: []
+user_id: runner

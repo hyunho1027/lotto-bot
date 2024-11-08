@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7d73f55461c34c7981a6ed805996bd9f/artifacts
+end_time: 1731060889128
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7d73f55461c34c7981a6ed805996bd9f
+run_name: funny-stork-5
+run_uuid: 7d73f55461c34c7981a6ed805996bd9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060888377
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9670a7a432c64142b48265aa6d9f970e/artifacts
+end_time: 1731060871438
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9670a7a432c64142b48265aa6d9f970e
+run_name: puzzled-cod-704
+run_uuid: 9670a7a432c64142b48265aa6d9f970e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060870652
+status: 3
+tags: []
+user_id: runner

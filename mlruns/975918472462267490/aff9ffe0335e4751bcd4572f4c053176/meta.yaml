@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/aff9ffe0335e4751bcd4572f4c053176/artifacts
+end_time: 1731060886249
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: aff9ffe0335e4751bcd4572f4c053176
+run_name: dapper-turtle-164
+run_uuid: aff9ffe0335e4751bcd4572f4c053176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060885195
+status: 3
+tags: []
+user_id: runner

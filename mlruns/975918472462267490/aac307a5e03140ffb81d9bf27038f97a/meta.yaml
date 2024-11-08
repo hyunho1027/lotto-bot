@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/aac307a5e03140ffb81d9bf27038f97a/artifacts
+end_time: 1731060888361
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: aac307a5e03140ffb81d9bf27038f97a
+run_name: funny-yak-232
+run_uuid: aac307a5e03140ffb81d9bf27038f97a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060887360
+status: 3
+tags: []
+user_id: runner
