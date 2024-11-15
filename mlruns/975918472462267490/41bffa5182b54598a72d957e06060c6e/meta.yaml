@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/41bffa5182b54598a72d957e06060c6e/artifacts
+end_time: 1731665759059
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 41bffa5182b54598a72d957e06060c6e
+run_name: monumental-snake-913
+run_uuid: 41bffa5182b54598a72d957e06060c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665757449
+status: 3
+tags: []
+user_id: runner

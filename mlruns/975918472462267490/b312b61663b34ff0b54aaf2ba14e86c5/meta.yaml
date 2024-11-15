@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b312b61663b34ff0b54aaf2ba14e86c5/artifacts
+end_time: 1731665757432
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b312b61663b34ff0b54aaf2ba14e86c5
+run_name: grandiose-wasp-929
+run_uuid: b312b61663b34ff0b54aaf2ba14e86c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665755663
+status: 3
+tags: []
+user_id: runner

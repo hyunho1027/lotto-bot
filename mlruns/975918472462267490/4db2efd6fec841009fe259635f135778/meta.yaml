@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4db2efd6fec841009fe259635f135778/artifacts
+end_time: 1731665760909
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4db2efd6fec841009fe259635f135778
+run_name: capable-duck-683
+run_uuid: 4db2efd6fec841009fe259635f135778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665759792
+status: 3
+tags: []
+user_id: runner

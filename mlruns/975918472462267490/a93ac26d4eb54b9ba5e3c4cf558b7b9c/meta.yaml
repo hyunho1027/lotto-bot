@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a93ac26d4eb54b9ba5e3c4cf558b7b9c/artifacts
+end_time: 1731665759776
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a93ac26d4eb54b9ba5e3c4cf558b7b9c
+run_name: chill-midge-239
+run_uuid: a93ac26d4eb54b9ba5e3c4cf558b7b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665759074
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f6ba9931dc0d474e9c237bfafa4df4a6/artifacts
+end_time: 1731665753871
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f6ba9931dc0d474e9c237bfafa4df4a6
+run_name: big-crow-277
+run_uuid: f6ba9931dc0d474e9c237bfafa4df4a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665751726
+status: 3
+tags: []
+user_id: runner

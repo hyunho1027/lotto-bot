@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2e1e5f5536c04843bd3fd12a5ffe947b/artifacts
+end_time: 1731665741124
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2e1e5f5536c04843bd3fd12a5ffe947b
+run_name: nebulous-mare-773
+run_uuid: 2e1e5f5536c04843bd3fd12a5ffe947b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665739775
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a00cdb6040e74b0ba0aa1c8d122a9d4a/artifacts
+end_time: 1731665751704
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a00cdb6040e74b0ba0aa1c8d122a9d4a
+run_name: zealous-mouse-355
+run_uuid: a00cdb6040e74b0ba0aa1c8d122a9d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665748167
+status: 3
+tags: []
+user_id: runner

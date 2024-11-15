@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fa7e4ff3e8244548b15cc16b717828de/artifacts
+end_time: 1731665755646
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fa7e4ff3e8244548b15cc16b717828de
+run_name: rambunctious-finch-6
+run_uuid: fa7e4ff3e8244548b15cc16b717828de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665753893
+status: 3
+tags: []
+user_id: runner
