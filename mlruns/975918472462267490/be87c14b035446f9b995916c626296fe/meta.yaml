@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/be87c14b035446f9b995916c626296fe/artifacts
+end_time: 1732270595364
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: be87c14b035446f9b995916c626296fe
+run_name: dazzling-ram-221
+run_uuid: be87c14b035446f9b995916c626296fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732270593937
+status: 3
+tags: []
+user_id: runner

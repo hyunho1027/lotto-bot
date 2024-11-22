@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/abc60ef90c6549b6af4b56a4dd10183a/artifacts
+end_time: 1732270593921
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: abc60ef90c6549b6af4b56a4dd10183a
+run_name: spiffy-grub-905
+run_uuid: abc60ef90c6549b6af4b56a4dd10183a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732270592280
+status: 3
+tags: []
+user_id: runner

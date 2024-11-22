@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cc75d144ed48400e8870b6bb4977ca5a/artifacts
+end_time: 1732270588115
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cc75d144ed48400e8870b6bb4977ca5a
+run_name: luminous-vole-281
+run_uuid: cc75d144ed48400e8870b6bb4977ca5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732270587341
+status: 3
+tags: []
+user_id: runner

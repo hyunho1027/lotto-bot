@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4c80a4b236204be582a321697119fea1/artifacts
+end_time: 1732270592249
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4c80a4b236204be582a321697119fea1
+run_name: welcoming-kite-343
+run_uuid: 4c80a4b236204be582a321697119fea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732270589921
+status: 3
+tags: []
+user_id: runner
