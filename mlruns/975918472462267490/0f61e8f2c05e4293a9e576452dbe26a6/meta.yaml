@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0f61e8f2c05e4293a9e576452dbe26a6/artifacts
+end_time: 1732875413318
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0f61e8f2c05e4293a9e576452dbe26a6
+run_name: aged-shrew-899
+run_uuid: 0f61e8f2c05e4293a9e576452dbe26a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875412119
+status: 3
+tags: []
+user_id: runner

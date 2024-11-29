@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7370b70c6c864183b50f61f974aa8296/artifacts
+end_time: 1732875430475
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7370b70c6c864183b50f61f974aa8296
+run_name: unruly-snipe-950
+run_uuid: 7370b70c6c864183b50f61f974aa8296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875428391
+status: 3
+tags: []
+user_id: runner

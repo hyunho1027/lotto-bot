@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b892aa89b176497ca09db624cd31c978/artifacts
+end_time: 1732875411343
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b892aa89b176497ca09db624cd31c978
+run_name: efficient-mare-280
+run_uuid: b892aa89b176497ca09db624cd31c978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875407651
+status: 3
+tags: []
+user_id: runner

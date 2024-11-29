@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ac6720b7f5c14b9ab8ae82b03a09a3e5/artifacts
+end_time: 1732875428377
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ac6720b7f5c14b9ab8ae82b03a09a3e5
+run_name: wistful-stag-7
+run_uuid: ac6720b7f5c14b9ab8ae82b03a09a3e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875426674
+status: 3
+tags: []
+user_id: runner
